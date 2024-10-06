@@ -18,16 +18,20 @@ async function applyTranslation(lang) {
 
     Promise.all([
         loadJSON(`/locales/${lang}/common.json?v=1.0.0`),
-        loadJSON(`/locales/${lang}/${currentPage}.json?v=1.0.0`)
+        (applyTextFunction !== applyErrorText) ? loadJSON(`/locales/${lang}/${currentPage}.json?v=1.0.0`) : loadJSON(`/locales/${lang}/404.json?v=1.0.0`)
     ]).then(([commonData, pageData]) => {
-        if (commonData) applyCommonText(commonData);
-        if (pageData && applyTextFunction) applyPageText(pageData, applyTextFunction);
+        if (commonData) { applyCommonText(commonData); }
+        if (pageData) { applyPageText(pageData, applyTextFunction); }
 
-        document.querySelectorAll('.navigation-bar, .special-footer, .content, .description-box, .sources-box, .region-selector, .region-info, .first-button-container, .other-buttons-container, .commission-details, .privacy-box').forEach(el => {
-            el.classList.remove('hidden', 'no-animation');
-        });
+        showPageElements();
     }).catch(error => {
-        console.error("Erreur lors de l'application de la traduction:", error);
+        console.error("Erreur lors du chargement des fichiers JSON:", error);
+    });
+}
+
+function showPageElements() {
+    document.querySelectorAll('.navigation-bar, .special-footer, .content, .description-box, .sources-box, .region-selector, .region-info, .first-button-container, .other-buttons-container, .commission-details, .privacy-box').forEach(el => {
+        el.classList.remove('hidden', 'no-animation');
     });
 }
 
