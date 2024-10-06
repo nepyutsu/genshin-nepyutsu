@@ -1,0 +1,119 @@
+{
+    "page": "Coffres",
+    "Mondstadt": [
+        {
+            "title": "Coffres de la région de Mondstadt",
+            "description": [
+                "<strong><img src='/images/emotes/anemo.webp' class='emote' alt='Anemo'> Mondstadt : Cité du vent et de la chanson</strong>",
+                "<ul><li><strong>17</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'></li>",
+                "<li><strong>51</strong> ou <strong>52</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> (<i><strong>Une</strong> fée ne compte plus dans les succès depuis la <strong>1.2)</strong></i></li>",
+                "<li>Entre <strong>518</strong> et <strong>523</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'> (<i><strong>3</strong> coffres comptent pour <strong>Liyue</strong> depuis la <strong>1.2</strong>, <strong>1</strong> coffre vient de l'événement <strong>Archipel de la pomme dorée</strong> de la <strong>1.6</strong> et <strong>1</strong> coffre vient de l'événement <strong>Ombre des anciens</strong> de la <strong>2.2</strong></i>)</li></ul>",
+                "<strong><img src='/images/emotes/anemo.webp' class='emote' alt='Anemo'> Visite à Dosdragon</strong>",
+                "<ul><li><strong>16</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'> (<i>Pas affiché dans les succès</i>), <strong>32</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> et <strong>234</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/youtube.webp' class='emote' alt='YouTube'> Vidéos</strong>",
+                "<ul><li><a href='https://youtu.be/yWynFiS41HE' target='_blank'>Mondstadt : Cité du vent et de la chanson</a></li>",
+                "<li><a href='https://youtu.be/gbM0WjrOrps' target='_blank'>Visite à Dosdragon</a></li></ul>"
+            ]
+        }
+    ],
+    "Liyue": [
+        {
+            "title": "Coffres de la région de Liyue",
+            "description": [
+                "<strong><img src='/images/emotes/geo.webp' class='emote' alt='Geo'> Liyue : Port de pierre et des contrats</strong>",
+                "<ul><li><strong>47</strong> ou <strong>48</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'> (<i><strong>Un</strong> défi vient de l'événement <strong>Festival des lanternes</strong> de la <strong>1.3</strong></i>)</li>",
+                "<li>Entre <strong>81</strong> et <strong>84</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> (<i><strong>3</strong> fées viennent de l'événement <strong>Festival des lanternes</strong> de la <strong>1.3</strong></i>)</li>",
+                "<li>Entre <strong>1070</strong> et <strong>1149</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'> (<i><strong>59</strong> coffres ne comptaient pas dans les succès pendant la <strong>1.0</strong>, <strong>3</strong> coffres qui comptaient pour <strong>Mondstadt</strong> comptent pour <strong>Liyue</strong> depuis la <strong>1.2</strong>, <strong>15</strong> coffres viennent de l'événement <strong>Festival des Lanternes</strong> de la <strong>1.3</strong> et <strong>2</strong> coffres viennent de l'événement <strong>Ombre des anciens</strong> de la <strong>2.2</strong></i>)</li></ul>",
+                "<strong><img src='/images/emotes/geo.webp' class='emote' alt='Geo'> Gouffre éclairé</strong>",
+                "<ul><li><strong>20</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>37</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> et <strong>248</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/geo.webp' class='emote' alt='Geo'> Splendeur du jade</strong>",
+                "<ul><li><strong>63</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>20</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> et <strong>333</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/youtube.webp' class='emote' alt='YouTube'> Vidéos</strong>",
+                "<ul><li>Liyue : Port de pierre et des contrats (<a href='https://youtu.be/rx2zN0copDc' target='_blank'>Partie 1</a> | <a href='https://youtu.be/YuV55aiKUOg' target='_blank'>Partie 2</a>)</li>",
+                "<li><a href='https://youtu.be/KjioTcsWt9k' target='_blank'>Gouffre éclairé</a></li>",
+                "<li><a href='https://youtu.be/FBifq_u6wgs' target='_blank'>Splendeur du jade</a></li></ul>"
+            ]
+        }
+    ],
+    "Inazuma": [
+        {
+            "title": "Coffres de la région d'Inazuma",
+            "description": [
+                "<strong><img src='/images/emotes/electro.webp' class='emote' alt='Electro'> Inazuma : Archipel de la foudre éternelle - I</strong>",
+                "<ul><li><strong>35</strong> ou <strong>36</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'> (<i><strong>Un</strong> défi vient de l'événement <strong>Richesses perdues</strong> de la <strong>2.0</strong></i>)</li>",
+                "<li><strong>21</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> et <strong>43</strong> <img src='/images/emotes/electroseelie.webp' class='emote' alt='Electro Seelie'></li>",
+                "<li><strong>357</strong> ou <strong>358</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'> (<i><strong>Un</strong> coffre vient de l'événement <strong>Ombre des anciens</strong> de la <strong>2.2</strong></i>)</li></ul>",
+                "<strong><img src='/images/emotes/electro.webp' class='emote' alt='Electro'> Inazuma : Archipel de la foudre éternelle - II</strong>",
+                "<ul><li><strong>29</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>7</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> (<i>Non affiché après <strong>6</strong></i>), <strong>19</strong> <img src='/images/emotes/electroseelie.webp' class='emote' alt='Electro Seelie'> et <strong>204</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/electro.webp' class='emote' alt='Electro'> Chroniques de la mer de brouillard</strong>",
+                "<ul><li><strong>16</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>9</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> (<i>Non affiché après <strong>6</strong></i>), <strong>10</strong> <img src='/images/emotes/electroseelie.webp' class='emote' alt='Electro Seelie'> (<i>Non affiché après <strong>6</strong></i>) et <strong>169</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/electro.webp' class='emote' alt='Electro'> À la lumière du jour</strong>",
+                "<ul><li><strong>18</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>36</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> et <strong>185</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/youtube.webp' class='emote' alt='YouTube'> Vidéos</strong>",
+                "<ul><li><a href='https://youtu.be/8--wsXarC6g' target='_blank'>Inazuma : Archipel de la foudre éternelle - I</a></li>",
+                "<li><a href='https://youtu.be/Vw4xw5mrIq0' target='_blank'>Inazuma : Archipel de la foudre éternelle - II</a></li>",
+                "<li><a href='https://youtu.be/EpYz5cTqLc8' target='_blank'>Chroniques de la mer de brouillard</a></li>",
+                "<li><a href='https://youtu.be/IQqI1zb1kQc' target='_blank'>À la lumière du jour</a></li></ul>"
+            ]
+        }
+    ],
+    "Sumeru": [
+        {
+            "title": "Coffres de la région de Sumeru",
+            "description": [
+                "<strong><img src='/images/emotes/dendro.webp' class='emote' alt='Dendro'> Sumeru : Selve de connaissances</strong>",
+                "<ul><li><strong>45</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>54</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> et <strong>575</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/dendro.webp' class='emote' alt='Dendro'> Sumeru : Désert doré - I</strong>",
+                "<ul><li><strong>52</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>52</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> et <strong>354</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/dendro.webp' class='emote' alt='Dendro'> Sumeru : Désert doré - II</strong>",
+                "<ul><li><strong>37</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>27</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> et <strong>290</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></ul></li>",
+                "<strong><img src='/images/emotes/dendro.webp' class='emote' alt='Dendro'> Hamada bénie</strong>",
+                "<ul><li><strong>26</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>21</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> et <strong>256</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></ul></li>",
+                "<strong><img src='/images/emotes/youtube.webp' class='emote' alt='YouTube'> Vidéos</strong>",
+                "<ul><li>Sumeru : Selve de connaissances (<a href='https://youtu.be/ZvIUk5fSb8Q' target='_blank'>Partie 1</a> | <a href='https://youtu.be/MOeeKwVRCXg' target='_blank'>Partie 2</a>)</li>",
+                "<li><a href='https://youtu.be/qFAOFczZ8Eo' target='_blank'>Sumeru : Désert doré - I</a></li>",
+                "<li><a href='https://youtu.be/0BXrNMzeXRo' target='_blank'>Sumeru : Désert doré - II</a></li>",
+                "<li><a href='https://youtu.be/Y_OHIZZN-sU' target='_blank'>Hamada bénie</a></li></ul>"
+            ]
+        }
+    ],
+    "Fontaine": [
+        {
+            "title": "Coffres de la région de Fontaine",
+            "description": [
+                "<strong><img src='/images/emotes/hydro.webp' class='emote' alt='Hydro'> Fontaine - Danse de la rosée blanche (1)</strong>",
+                "<ul><li><strong>53</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>42</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> et <strong>344</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></ul></li>",
+                "<strong><img src='/images/emotes/hydro.webp' class='emote' alt='Hydro'> Fontaine - Danse de la rosée blanche (2)</strong>",
+                "<ul><li><strong>28</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>13</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> et <strong>243</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></ul></li>",
+                "<strong><img src='/images/emotes/hydro.webp' class='emote' alt='Hydro'> Fontaine - Danse de la rosée blanche (3)</strong>",
+                "<ul><li><strong>30</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>13</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> et <strong>207</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></ul></li>",
+                "<strong><img src='/images/emotes/hydro.webp' class='emote' alt='Hydro'> Rhapsodie en mer antique</strong>",
+                "<ul><li><strong>33</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>7</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> et <strong>151</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></ul></li>",
+                "<strong><img src='/images/emotes/youtube.webp' class='emote' alt='YouTube'> Vidéos</strong>",
+                "<ul><li><a href='https://youtu.be/T-OGmfUpQw8' target='_blank'>Fontaine - Danse de la rosée blanche (1)</a></li>",
+                "<li><a href='https://youtu.be/Ko0wruxef3c' target='_blank'>Fontaine - Danse de la rosée blanche (2)</a></li>",
+                "<li><a href='https://youtu.be/4PtiKcX4W58' target='_blank'>Fontaine - Danse de la rosée blanche (3)</a></li>",
+                "<li><a href='https://youtu.be/Udj5h0Nf-zc' target='_blank'>Rhapsodie en mer antique</a></li></ul>"
+            ]
+        }
+    ],
+    "Natlan": [
+        {
+            "title": "Coffres de la région de Natlan",
+            "description": [
+                "<strong><img src='/images/emotes/pyro.webp' class='emote' alt='Pyro'> Natlan : Terre d'alliance du feu et de compétition - I</strong>",
+                "<ul><li><strong>17</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>40</strong> <img src='/images/emotes/monetoo.webp' class='emote' alt='Monetoo'> et <strong>407</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></ul></li>",
+                "<strong><img src='/images/emotes/youtube.webp' class='emote' alt='YouTube'> Vidéos</strong>",
+                "<ul><li><a href='https://youtu.be/L5JXbqbwxVA' target='_blank'>Natlan : Terre d'alliance du feu et de compétition - I</a></li></ul>"
+            ]
+        }
+    ],
+    "Snezhnaya": [
+        {
+            "title": "Coffres de la région de Snezhnaya",
+            "description": [
+                "<strong><img src='/images/emotes/cryo.webp' class='emote' alt='Cryo'> Je ne travaille pas chez HoYoverse.</strong>"
+            ]
+        }
+    ]
+}

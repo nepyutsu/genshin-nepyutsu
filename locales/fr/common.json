@@ -1,0 +1,33 @@
+{
+    "header": {
+        "home": "Accueil",
+        "chest": "Coffres",
+        "commission": "Quotidiennes"
+    },
+    "sidebar": {
+        "navigation": "Navigation",
+        "lang": "Langue",
+        "langFrench": "Français",
+        "langEnglish": "Anglais",
+        "theme": "Thème",
+        "themeLight": "Clair",
+        "themeDark": "Sombre",
+        "themeRed": "Rouge",
+        "themeGreen": "Vert",
+        "themeBlue": "Bleu",
+        "themePurple": "Violet",
+        "themeBeige": "Beige",
+        "themeBrown": "Marron"
+    },
+    "footer": {
+        "socials": "Mes Réseaux",
+        "socialsLink1": "<a href='https://www.youtube.com/@Nepyutsu'  target='_blank'>YouTube</a>",
+        "socialsLink2": "<a href='https://discord.com/invite/fYPVqu6Veh'  target='_blank'>Discord</a>",
+        "socialsLink3": "<a href='https://www.twitch.tv/nepyutsu'  target='_blank'>Twitch</a>",
+        "misc": "Divers",
+        "miscLink1": "<a href='https://github.com/nepyutsu/genshin-nepyutsu'  target='_blank'>Code Source</a>",
+        "miscLink2": "<a href='/privacy.html'>Politique de confidentialité</a>",
+        "miscLink3": "<a href='mailto:website@nepyutsu.com'>website@nepyutsu.com</a>",
+        "disclaimer": "Site web non affilié à HoYoverse.<br>Genshin Impact ainsi que tous les contenus et matériaux associés sont des marques déposées de HoYoverse."
+    }
+}

@@ -1,0 +1,252 @@
+/* HEADER */
+
+.navigation-bar {
+    top: 0;
+    z-index: 10;
+    width: 100%;
+    position: fixed;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.8);
+}
+
+.header {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    background-color: var(--primary-color);
+}
+
+.header-content {
+    width: 96%;
+    display: flex;
+    margin: 2px auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    height: 40px;
+    border-radius: 25%;
+    outline: thick double var(--text-color);
+}
+
+#logo-link:focus-visible {
+    outline: none;
+}
+
+.menu {
+    flex-grow: 1;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+
+.menu a {
+    font-size: 20px;
+    margin: 0px 20px;
+    font-weight: bold;
+    position: relative;
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+.menu a::after {
+    width: 0;
+    left: 50%;
+    content: '';
+    height: 2px;
+    bottom: -3px;
+    position: absolute;
+    background-color: var(--hypertext-color);
+    transition: width 0.3s ease, left 0.3s ease;
+}
+
+.menu a:hover::after {
+    left: 0;
+    width: 100%;
+}
+
+.menu-icon svg {
+    z-index: 15;
+    width: 40px;
+    height: 40px;
+    display: block;
+    position: relative;
+    stroke: var(--text-color);
+}
+
+.menu-icon svg:hover {
+    transform: scale(1.1);
+}
+
+@media (max-width: 600px) {
+    .menu {
+        display: none;
+    }
+}
+
+/* SIDEBAR */
+
+.sidebar {
+    top: 0;
+    z-index: 5;
+    height: 100%;
+    width: 280px;
+    display: flex;
+    padding: 20px;
+    right: -330px;
+    position: fixed;
+    overflow-y: auto;
+    overflow-x: hidden;
+    flex-direction: column;
+    transition: right 0.3s ease;
+    background-color: var(--primary-color);
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.8);
+}
+
+.sidebar.open {
+    right: 0;
+}
+
+.sidebar-content {
+    flex-grow: 1;
+    margin: 50px 0px;
+}
+
+.sidebar-column,
+.sidebar-menu {
+    flex: 1;
+    margin: 10px;
+    display: flex;
+    min-width: 200px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sidebar-column h3,
+.sidebar-menu h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.lang-button,
+.theme-button,
+.navigation-button {
+    margin: 5px;
+    width: 90px;
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 8px;
+    text-align: center;
+    color: var(--text-color);
+    border: 2px solid var(--text-color);
+    background-color: var(--primary-color);
+
+}
+
+.lang-button:hover,
+.theme-button:hover,
+.navigation-button:hover {
+    color: var(--primary-color);
+    background-color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.sidebar-menu {
+    display: none;
+}
+
+.sidebar-menu a {
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.random-sticker {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+#random-sticker-image {
+    width: 192px;
+    height: 192px;
+    transition: transform 0.3s ease;
+}
+
+#random-sticker-image:hover {
+    transform: scale(1.1);
+}
+
+@media (max-width: 600px) {
+    .sidebar-menu {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .navigation-button {
+        min-width: 99px;
+    }
+
+}
+
+/* FOOTER */
+
+.special-footer {
+    display: flex;
+    margin-top: auto;
+    color: var(--text-color);
+    justify-content: space-around;
+    background-color: var(--primary-color);
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.8);
+}
+
+.footer-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer-columns {
+    display: flex;
+    max-width: 98%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.footer-columns h3,
+.footer-columns p {
+    margin: 5px 0px;
+}
+
+.footer-columns p {
+    font-weight: bold;
+}
+
+.footer-columns a:link {
+    text-decoration: none;
+    color: var(--hypertext-color);
+}
+
+.footer-columns a:hover {
+    text-decoration: underline;
+}
+
+.footer-columns a:visited {
+    color: var(--hypertext-color);
+}
+
+.footer-column-socials,
+.footer-column-misc {
+    width: 250px;
+    display: flex;
+    margin: 10px 20px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer-column-disclaimer {
+    margin: 0px 12px;
+    text-align: center;
+}

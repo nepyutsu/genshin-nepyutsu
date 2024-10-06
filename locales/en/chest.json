@@ -1,0 +1,119 @@
+{
+    "page": "Chests",
+    "Mondstadt": [
+        {
+            "title": "Chests in the Mondstadt Region",
+            "description": [
+                "<strong><img src='/images/emotes/anemo.webp' class='emote' alt='Anemo'> Mondstadt: The City of Wind and Song</strong>",
+                "<ul><li><strong>17</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'></li>",
+                "<li><strong>51</strong> or <strong>52</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> (<i><strong>One</strong> seelie no longer counts toward achievements since <strong>1.2)</strong></i></li>",
+                "<li>Between <strong>518</strong> and <strong>523</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'> (<i><strong>3</strong> chests count toward <strong>Liyue</strong> since <strong>1.2</strong>, <strong>1</strong> chest comes from the <strong>Golden Apple Archipelago</strong> event in <strong>1.6</strong> and <strong>1</strong> chest comes from the <strong>Shadow of the Ancients</strong> event in <strong>2.2</strong></i>)</li></ul>",
+                "<strong><img src='/images/emotes/anemo.webp' class='emote' alt='Anemo'> Visitors on the Icy Mountain</strong>",
+                "<ul><li><strong>16</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'> (<i>Not displayed in achievements</i>), <strong>32</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> et <strong>234</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/youtube.webp' class='emote' alt='YouTube'> Vidéos</strong>",
+                "<ul><li><a href='https://youtu.be/yWynFiS41HE' target='_blank'>Mondstadt: The City of Wind and Song</a></li>",
+                "<li><a href='https://youtu.be/gbM0WjrOrps' target='_blank'>Visitors on the Icy Mountain</a></li></ul>"
+            ]
+        }
+    ],
+    "Liyue": [
+        {
+            "title": "Chests in the Liyue Region",
+            "description": [
+                "<strong><img src='/images/emotes/geo.webp' class='emote' alt='Geo'> Liyue: The Harbor of Stone and Contracts</strong>",
+                "<ul><li><strong>47</strong> or <strong>48</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'> (<i><strong>One</strong> challenge comes from the <strong>Lantern Rite</strong> event in <strong>1.3</strong></i>)</li>",
+                "<li>Between <strong>81</strong> and <strong>84</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> (<i><strong>3</strong> seelie come from the <strong>Lantern Rite</strong> event in <strong>1.3</strong></i>)</li>",
+                "<li>Between <strong>1070</strong> and <strong>1149</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'> (<i><strong>59</strong> chests did not count toward achievements during <strong>1.0</strong>, <strong>3</strong> chests that counted for <strong>Mondstadt</strong> now count for <strong>Liyue</strong> since <strong>1.2</strong>, <strong>15</strong> chests come from the <strong>Lantern Rite</strong> event in <strong>1.3</strong> and <strong>2</strong> chests come from the <strong>Shadow of the Ancients</strong> event in <strong>2.2</strong></i>)</li></ul>",
+                "<strong><img src='/images/emotes/geo.webp' class='emote' alt='Geo'> Chasmlighter</strong>",
+                "<ul><li><strong>20</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>37</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> and <strong>248</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/geo.webp' class='emote' alt='Geo'> Chenyu's Splendor</strong>",
+                "<ul><li><strong>63</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>20</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> and <strong>333</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/youtube.webp' class='emote' alt='YouTube'> Vidéos</strong>",
+                "<ul><li>Liyue: The Harbor of Stone and Contracts (<a href='https://youtu.be/rx2zN0copDc' target='_blank'>Part 1</a> | <a href='https://youtu.be/YuV55aiKUOg' target='_blank'>Part 2</a>)</li>",
+                "<li><a href='https://youtu.be/KjioTcsWt9k' target='_blank'>Chasmlighter</a></li>",
+                "<li><a href='https://youtu.be/FBifq_u6wgs' target='_blank'>Chenyu's Splendor</a></li></ul>"
+            ]
+        }
+    ],
+    "Inazuma": [
+        {
+            "title": "Chests in the Inazuma Region",
+            "description": [
+                "<strong><img src='/images/emotes/electro.webp' class='emote' alt='Electro'> Inazuma: The Islands of Thunder and Eternity - Series I</strong>",
+                "<ul><li><strong>35</strong> or <strong>36</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'> (<i><strong>One</strong> challenge comes from the <strong>Lost Riches</strong> event in <strong>2.0</strong></i>)</li>",
+                "<li><strong>21</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> and <strong>43</strong> <img src='/images/emotes/electroseelie.webp' class='emote' alt='Electro Seelie'></li>",
+                "<li><strong>357</strong> or <strong>358</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'> (<i><strong>One</strong> chest comes from the <strong>Shadow of the Ancients</strong> event in <strong>2.2</strong></i>)</li></ul>",
+                "<strong><img src='/images/emotes/electro.webp' class='emote' alt='Electro'> Inazuma: The Islands of Thunder and Eternity - Series II</strong>",
+                "<ul><li><strong>29</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>7</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> (<i>Not displayed after <strong>6</strong></i>), <strong>19</strong> <img src='/images/emotes/electroseelie.webp' class='emote' alt='Electro Seelie'> and <strong>204</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/electro.webp' class='emote' alt='Electro'> The Chronicles of the Sea of Fog</strong>",
+                "<ul><li><strong>16</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>9</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> (<i>Not displayed after <strong>6</strong></i>), <strong>10</strong> <img src='/images/emotes/electroseelie.webp' class='emote' alt='Electro Seelie'> (<i>Not displayed after <strong>6</strong></i>) and <strong>169</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/electro.webp' class='emote' alt='Electro'> The Light of Day</strong>",
+                "<ul><li><strong>18</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>36</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> and <strong>185</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/youtube.webp' class='emote' alt='YouTube'> Vidéos</strong>",
+                "<ul><li><a href='https://youtu.be/8--wsXarC6g' target='_blank'>Inazuma: The Islands of Thunder and Eternity - Series I</a></li>",
+                "<li><a href='https://youtu.be/Vw4xw5mrIq0' target='_blank'>Inazuma: The Islands of Thunder and Eternity - Series II</a></li>",
+                "<li><a href='https://youtu.be/EpYz5cTqLc8' target='_blank'>The Chronicles of the Sea of Fog</a></li>",
+                "<li><a href='https://youtu.be/IQqI1zb1kQc' target='_blank'>The Light of Day</a></li></ul>"
+            ]
+        }
+    ],
+    "Sumeru": [
+        {
+            "title": "Chests in the Sumeru Region",
+            "description": [
+                "<strong><img src='/images/emotes/dendro.webp' class='emote' alt='Dendro'> Sumeru: The Rainforest of Lore</strong>",
+                "<ul><li><strong>45</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>54</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> and <strong>575</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/dendro.webp' class='emote' alt='Dendro'> Sumeru: The Gilded Desert - Series I</strong>",
+                "<ul><li><strong>52</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>52</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> and <strong>354</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></li></ul>",
+                "<strong><img src='/images/emotes/dendro.webp' class='emote' alt='Dendro'> Sumeru: The Gilded Desert - Series II</strong>",
+                "<ul><li><strong>37</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>27</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> and <strong>290</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></ul></li>",
+                "<strong><img src='/images/emotes/dendro.webp' class='emote' alt='Dendro'> Blessed Hamada</strong>",
+                "<ul><li><strong>26</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>21</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> and <strong>256</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></ul></li>",
+                "<strong><img src='/images/emotes/youtube.webp' class='emote' alt='YouTube'> Vidéos</strong>",
+                "<ul><li>Sumeru: The Rainforest of Lore (<a href='https://youtu.be/ZvIUk5fSb8Q' target='_blank'>Part 1</a> | <a href='https://youtu.be/MOeeKwVRCXg' target='_blank'>Part 2</a>)</li>",
+                "<li><a href='https://youtu.be/qFAOFczZ8Eo' target='_blank'>Sumeru: The Gilded Desert - Series I</a></li>",
+                "<li><a href='https://youtu.be/0BXrNMzeXRo' target='_blank'>Sumeru: The Gilded Desert - Series II</a></li>",
+                "<li><a href='https://youtu.be/Y_OHIZZN-sU' target='_blank'>Blessed Hamada</a></li></ul>"
+            ]
+        }
+    ],
+    "Fontaine": [
+        {
+            "title": "Chests in the Fontaine Region",
+            "description": [
+                "<strong><img src='/images/emotes/hydro.webp' class='emote' alt='Hydro'> Fontaine: Dance of the Dew-White Springs (I)</strong>",
+                "<ul><li><strong>53</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>42</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> and <strong>344</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></ul></li>",
+                "<strong><img src='/images/emotes/hydro.webp' class='emote' alt='Hydro'> Fontaine: Dance of the Dew-White Springs (II)</strong>",
+                "<ul><li><strong>28</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>13</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> and <strong>243</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></ul></li>",
+                "<strong><img src='/images/emotes/hydro.webp' class='emote' alt='Hydro'> Fontaine: Dance of the Dew-White Springs (III)</strong>",
+                "<ul><li><strong>30</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>13</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> and <strong>207</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></ul></li>",
+                "<strong><img src='/images/emotes/hydro.webp' class='emote' alt='Hydro'> Rhapsodia in the Ancient Sea</strong>",
+                "<ul><li><strong>33</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>7</strong> <img src='/images/emotes/seelie.webp' class='emote' alt='Seelie'> and <strong>151</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></ul></li>",
+                "<strong><img src='/images/emotes/youtube.webp' class='emote' alt='YouTube'> Vidéos</strong>",
+                "<ul><li><a href='https://youtu.be/T-OGmfUpQw8' target='_blank'>Fontaine: Dance of the Dew-White Springs (I)</a></li>",
+                "<li><a href='https://youtu.be/Ko0wruxef3c' target='_blank'>Fontaine: Dance of the Dew-White Springs (II)</a></li>",
+                "<li><a href='https://youtu.be/4PtiKcX4W58' target='_blank'>Fontaine: Dance of the Dew-White Springs (III)</a></li>",
+                "<li><a href='https://youtu.be/Udj5h0Nf-zc' target='_blank'>Rhapsodia in the Ancient Sea</a></li></ul>"
+            ]
+        }
+    ],
+    "Natlan": [
+        {
+            "title": "Chests in the Natlan Region",
+            "description": [
+                "<strong><img src='/images/emotes/pyro.webp' class='emote' alt='Pyro'> Natlan: The Land of Fire and Competition (I)</strong>",
+                "<ul><li><strong>17</strong> <img src='/images/emotes/challenge.webp' class='emote' alt='Challenge'>, <strong>40</strong> <img src='/images/emotes/monetoo.webp' class='emote' alt='Monetoo'> and <strong>407</strong> <img src='/images/emotes/chest.webp' class='emote' alt='Chest'></ul></li>",
+                "<strong><img src='/images/emotes/youtube.webp' class='emote' alt='YouTube'> Vidéos</strong>",
+                "<ul><li><a href='https://youtu.be/L5JXbqbwxVA' target='_blank'>Natlan: The Land of Fire and Competition (I)</a></li></ul>"
+            ]
+        }
+    ],
+    "Snezhnaya": [
+        {
+            "title": "Chests in the Snezhnaya Region",
+            "description": [
+                "<strong><img src='/images/emotes/cryo.webp' class='emote' alt='Cryo'> I do not work at HoYoverse.</strong>"
+            ]
+        }
+    ]
+}

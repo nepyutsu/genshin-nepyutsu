@@ -13,5 +13,5 @@ J'ai personnellement utilisé l'extension [Live Server](https://marketplace.visu
 Une grande partie du code a été générée avec l'aide de l'IA (principalement ChatGPT), avec des ajustements manuels pour répondre aux besoins spécifiques.
 
 ## License
-Ce projet est sous la [licence MIT](https://github.com/nepyutsu/nepyutsu-website/blob/main/LICENSE).
+Ce projet est sous la [licence MIT](https://github.com/nepyutsu/genshin-nepyutsu/blob/main/LICENSE).
 Non affilié à HoYoverse. *Genshin Impact* ainsi que tous les contenus et matériaux associés sont des marques déposées de HoYoverse.

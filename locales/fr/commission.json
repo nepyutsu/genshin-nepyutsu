@@ -1,0 +1,695 @@
+{
+    "page": "Quotidiennes",
+    "MondstadtList": [
+        {
+            "title": "Quotidiennes de Mondstadt",
+            "description": "<p><strong>12</strong> succès sont réalisables pendant <strong>ou</strong> en complétant des <strong>missions quotidiennes</strong> dans la région de <strong>Mondstadt</strong>.</p><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Toujours dans mon cœur</strong></p><ul><li>Emporté par le vent</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Mes plus plates excuses</strong></p><ul><li>Pigeon, canard et enfant</li><li>Pardon Timmy !</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Ça se tient...</strong></p><ul><li>Les limites d'un aventurier</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>« Cher papa... »</strong></p><ul><li>Des pigeons dans la brume</li><li>Lettre et soucis</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Remède miraculeux</strong></p><ul><li>Remèdes en tout genre</li><li>Remise sur pied</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Les aventures d'Anna</strong></p><ul><li>Remèdes en tout genre</li><li>Remise sur pied</li><li>Examen d'aventurière : Tactiques de combat</li><li>Examen d'aventurière : L'art de l'aventure</li><li>Examen d'aventurière : Prendre son envol</li><li>Anna l'aventurière !</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Au nom de Favonius</strong></p><ul><li>Cadeau-surprise</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Ce n'est pas un casse-croûte d'urgence.</strong></p><ul><li>Livraison à domicile</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>... Odomu ?</strong></p><ul><li>Échange linguistique</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Yo dala ?</strong></p><ul><li>Échange linguistique</li><li>Ballades communicantes</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>À la recherche de la perfection</strong></p><ul><li>Faire ce que l'on dit</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Une chose à la fois</strong></p><ul><li>Histoire venue de l'hiver</li></ul>"
+        }
+    ],
+    "Mondstadt01": [
+        {
+            "id": "Mondstadt-01",
+            "achievement": "Toujours dans mon cœur",
+            "commission": "Emporté par le vent",
+            "requirement": "Compléter la mission quotidienne <strong>5 fois</strong>.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/x1LDRkhJrrE'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt02": [
+        {
+            "id": "Mondstadt-02",
+            "achievement": "Mes plus plates excuses",
+            "commission": "Pardon Timmy !",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Pardon Timmy !</strong> il faut <strong>tuer au moins un canard</strong> pendant la mission quotidienne <strong>Pigeon, canard et enfant</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/z4qTi8PF6FM'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt03": [
+        {
+            "id": "Mondstadt-03",
+            "achievement": "Ça se tient...",
+            "commission": "Les limites d'un aventurier",
+            "requirement": "Compléter la mission quotidienne en ayant rapporté les <strong>Matériaux pour mannequin d'entraînement</strong>.",
+            "notes": "<p class='commission-text'>Les <strong>Matériaux pour mannequin d'entraînement</strong> sont obtenus en détruisant le mannequin d'entraînement au cours de la mission quotidienne.</p>",
+            "videoLink": "<a href='https://youtu.be/xLdRorQ5Vtc'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt04": [
+        {
+            "id": "Mondstadt-04",
+            "achievement": "« Cher papa... »",
+            "commission": "Lettre et soucis",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Lettre et soucis</strong> il faut récupérer la <strong>Lettre de Draff</strong> pendant la mission quotidienne <strong>Des pigeons dans la brume</strong>.</p><p class='commission-text'>La mission quotidienne <strong>Des pigeons dans la brume</strong> existe en 3 variantes donc la lettre n'apparaît pas toujours (Les variantes sont <strong>Pigeons uniquement</strong>, <strong>Camp sans lettre</strong> et <strong>Camp avec lettre</strong>).</p>",
+            "videoLink": "<a href='https://youtu.be/33iSwQxosnM'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt05": [
+        {
+            "id": "Mondstadt-05",
+            "achievement": "Remède miraculeux",
+            "commission": "Remise sur pied",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Remise sur pied</strong> il faut compléter la mission quotidienne <strong>Remèdes en tout genre</strong> (<strong>3 fois</strong>).</p>",
+            "videoLink": null
+        }
+    ],
+    "Mondstadt06": [
+        {
+            "id": "Mondstadt-06",
+            "achievement": "Les aventures d'Anna",
+            "commission": "Anna l'aventurière !",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Anna l'aventurière !</strong> il faut compléter les missions quotidiennes:</p><ul><li>Remèdes en tout genre</li><li>Remise sur pied</li><li>Examen d'aventurière : Tactiques de combat</li><li>Examen d'aventurière : L'art de l'aventure</li><li>Examen d'aventurière : Prendre son envol</li></ul><p class='commission-text'>Il faut aussi <strong>répondre correctement</strong> aux questions de la mission quotidienne <strong>Examen d'aventurière : Prendre son envol</strong>.<br><strong>Les bonnes réponses sont</strong>:</p><ul><li>Un planeur ne peut être utilisé que par une seule personne à la fois</li><li>Il faut trouver un endroit approprié pour décoller et adopter une posture correcte</li><li>Il faut choisir un lieu d'atterrissage approprié et ne pas replier le planeur trop brutalement</li></ul>",
+            "videoLink": "<a href='https://youtu.be/nqZR5fOKNcw'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt07": [
+        {
+            "id": "Mondstadt-07",
+            "achievement": "Au nom de Favonius",
+            "commission": "Cadeau-surprise",
+            "requirement": "Compléter la mission quotidienne en ayant sélectionné l'option <strong>Val aura peut-être une suggestion...</strong> lors de la première conversation avec Rudolf.",
+            "notes": "<p class='commission-text'>L'option <strong>Val aura peut-être une suggestion...</strong> apparaît lors de la <strong>quatrième obtention</strong> de la mission quotidienne.</p>",
+            "videoLink": "<a href='https://youtu.be/cE467AnqZKc'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt08": [
+        {
+            "id": "Mondstadt-08",
+            "achievement": "Ce n'est pas un casse-croûte d'urgence.",
+            "commission": "Livraison à domicile",
+            "requirement": "Manger le plat au lieu de le livrer.",
+            "notes": "<p class='commission-text'>Le plat se trouve dans l'onglet <strong>Quêtes</strong> de l'inventaire.</p>",
+            "videoLink": "<a href='https://youtu.be/WNLhpC6n1EY'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt09": [
+        {
+            "id": "Mondstadt-09",
+            "achievement": "... Odomu ?",
+            "commission": "Échange linguistique",
+            "requirement": "Compléter la mission quotidienne en ayant réussi à parler aux Brutocollinus.",
+            "notes": "<p class='commission-text'>Ella peut échouer même sans être repéré par les Brutocollinus du camp.</p>",
+            "videoLink": "<a href='https://youtu.be/jpEPj3F_WiE'  target='_blank'>Nepyutsu</a> (Premier chapitre de la vidéo)"
+        }
+    ],
+    "Mondstadt10": [
+        {
+            "id": "Mondstadt-10",
+            "achievement": "Yo dala ?",
+            "commission": "Ballades communicantes",
+            "requirement": "Complétez la mission quotidienne en sélectionnant les bons dialogues.",
+            "notes": "<p class='commission-text'>Les bonnes réponses sont <strong>Celi dada, mimi nunu !</strong>, <strong>Ye dada !</strong> et <strong>Muhe ye !</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/jpEPj3F_WiE'  target='_blank'>Nepyutsu</a> (Second chapitre de la vidéo)"
+        }
+    ],
+    "Mondstadt11": [
+        {
+            "id": "Mondstadt-11",
+            "achievement": "À la recherche de la perfection",
+            "commission": "Faire ce que l'on dit",
+            "requirement": "Compléter <strong>correctement</strong> les trois variantes de la mission quotidienne.",
+            "notes": "<p class='commission-text'>C'est le joueur qui choisit la variante pendant la première conversation avec Tsarevich.<br>Les variantes sont <strong>bas</strong>, <strong>mi-hauteur</strong> et <strong>sommet</strong>.</p><p class='commission-text'>Si la variante sélectionnée est:</p><ul><li><strong>Bas</strong>: Il faut éliminer les Brutocollinus et revenir en moins de 1 minute.</li><li><strong>Mi-hauteur</strong>: Il faut éliminer les Brutocollinus sans détruire de caisses.</li><li><strong>Sommet</strong>: Il faut éliminer les Brutocollinus dans le bon ordre. (Brutoviandu avec hache, Brutoviandu avec bouclier puis Brutoshaman)</li></ul>",
+            "videoLink": "<a href='https://youtu.be/RKgkEk-2-jk'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt12": [
+        {
+            "id": "Mondstadt-12",
+            "achievement": "Une chose à la fois",
+            "commission": "Histoire venue de l'hiver",
+            "requirement": "Compléter les trois variantes de la mission quotidienne.",
+            "notes": "<p class='commission-text'>C'est le joueur qui choisit la variante pendant la première conversation avec Victor.<br>Les variantes sont <strong>Fatui</strong>, <strong>Œil maléfique</strong> et <strong>Tsarine</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/jKDvIfHTBQ0'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "LiyueList": [
+        {
+            "title": "Quotidiennes de Liyue",
+            "description": "<p><strong>16</strong> succès sont réalisables pendant <strong>ou</strong> en complétant des <strong>missions quotidiennes</strong> dans la région de <strong>Liyue</strong>.</p><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Pirates !</strong></p><ul><li>Des pirates à Liyue !</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Prélude d'un long périple</strong></p><ul><li>Des pirates à Liyue !</li><li>Grandir, c'est mourir un peu</li><li>Ohé ! Petit pirate veut devenir grand !</li><li>Troubles sur les flots</li><li>Petit pirate, hissez ho !</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Le chef et le pêcheur</strong></p><ul><li>Pêcheur solitaire</li><li>Le dilemme de Yanxiao</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Aux immortels les affaires des dieux...</strong></p><ul><li>Bon augure</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Encore un étage</strong></p><ul><li>Tous les chemins mènent à Wangshu</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>La chance du débutant</strong></p><ul><li>Diamant brut</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Aventures studieuses</strong></p><ul><li>Objet perdu</li><li>Pilleurs & reliques</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Rêve et réalité</strong></p><ul><li>Un navire, puis deux, puis trois…</li><li>Problèmes au travail</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Un vieil ami</strong></p><ul><li>Ce roman est génial</li><li>Mais où est passé Chang ?</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Ce roman est génial !</strong></p><ul><li>Ce roman est génial</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Aux mortels les affaires des hommes...</strong></p><ul><li>Bon augure</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>À la recherche d'une « lame sœur »</strong></p><ul><li>Où es-tu, Glaive occulte ?</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Marcher à l'horizon...?</strong></p><ul><li>Maux de gorge et secrets</li><li>Le départ de l'épée</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Histoires du Souverain</strong></p><ul><li>Voyages de l'Archon Géo</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Ouvrez grand vos oreilles...</strong></p><ul><li>Tout vous sera révélé dans le prochain chapitre !</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Il était une fois...</strong></p><ul><li>Tout vous sera révélé dans le prochain chapitre !</li></ul>"
+        }
+    ],
+    "Liyue01": [
+        {
+            "id": "Liyue-01",
+            "achievement": "Pirates !",
+            "commission": "Des pirates à Liyue !",
+            "requirement": "Compléter les <strong>3 variantes</strong> de la mission quotidienne.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/ZqSBauh88CA'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue02": [
+        {
+            "id": "Liyue-02",
+            "achievement": "Prélude d'un long périple",
+            "commission": "Petit pirate, hissez ho !",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Petit pirate, hissez ho !</strong> il faut compléter les missions quotidiennes:</p><ul><li>Des pirates à Liyue !</li><li>Grandir, c'est mourir un peu</li><li>Ohé ! Petit pirate veut devenir grand !</li><li>Troubles sur les flots</li></ul>",
+            "videoLink": "<a href='https://youtu.be/TfUS1SkCR6U'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue03": [
+        {
+            "id": "Liyue-03",
+            "achievement": "Le chef et le pêcheur",
+            "commission": "Pêcheur solitaire / Le dilemme de Yanxiao",
+            "requirement": "Compléter les deux missions quotidiennes.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/3tCCJK9S2gk'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue04": [
+        {
+            "id": "Liyue-04",
+            "achievement": "Aux immortels les affaires des dieux...",
+            "commission": "Bon augure",
+            "requirement": "Repérer les 5 signes favorables de la mission quotidienne.",
+            "notes": "<p class='commission-text'>Les différents signes sont <strong>Shan</strong>, <strong>Chiens</strong>, <strong>Chat et poisson</strong>, <strong>Feuilles</strong> et <strong>Pigeons</strong>.</p><p class='commission-text'><i>Les signes sont sélectionnés aléatoirement au cours de la mission quotidienne.</i></p>",
+            "videoLink": "<a href='https://youtu.be/_oNrgfGt6gI'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue05": [
+        {
+            "id": "Liyue-05",
+            "achievement": "Encore un étage",
+            "commission": "Tous les chemins mènent à Wangshu",
+            "requirement": "Compléter la mission quotidienne <strong>2 fois</strong>.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Tous les chemins mènent à Wangshu</strong> il faut compléter la Quête du monde <strong>Passage encombré</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/-lPqcXckjA0'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue06": [
+        {
+            "id": "Liyue-06",
+            "achievement": "La chance du débutant",
+            "commission": "Diamant brut",
+            "requirement": "Choisir la pierre contenant un cœur de lapis à l'intérieur du premier coup.",
+            "notes": "<p class='commission-text'>Il est possible de faire rentrer la caméra dans la pierre pour savoir quelle pierre il faut choisir pour obtenir le succès.</p><p class='commission-text'><i>Il n'est pas garanti que la pierre nécessaire au succès soit présente.</i><br><i>Le nom du succès est <strong>La chance de la débutante‍</strong> avec <strong>la voyageuse</strong>.</i></p>",
+            "videoLink": "<a href='https://youtu.be/eb8_AittaZM'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue07": [
+        {
+            "id": "Liyue-07",
+            "achievement": "Aventures studieuses",
+            "commission": "Pilleurs & reliques",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Pilleurs & reliques</strong> il faut compléter la variante de la mission quotidienne <strong>Objet perdu</strong> qui permet d'obtenir l'objet <strong>Boîte à babioles</strong>.</p><p class='commission-text'><i>Cette variante est garantie d'être obtenu après avoir au moins terminé 3 fois les autres variantes.</i></p>",
+            "videoLink": "<a href='https://youtu.be/w9nm12z7AO4'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue08": [
+        {
+            "id": "Liyue-08",
+            "achievement": "Rêve et réalité",
+            "commission": "Problèmes au travail",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Problèmes au travail</strong> il faut donner le mauvais nombre de bateaux au cours de la mission quotidienne <strong>Un navire, puis deux, puis trois...</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/1j7yS74V6_c'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue09": [
+        {
+            "id": "Liyue-09",
+            "achievement": "Un vieil ami",
+            "commission": "Mais où est passé Chang ?",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Mais où est passé Chang ?</strong> il faut compléter la mission quotidienne <strong>Ce roman est génial</strong> (<strong>3 fois</strong>) et les Quêtes du monde <strong>Un livre dans les bois</strong> et <strong>Cadeau de Millelithe</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/_1ZWl15Mct0'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue10": [
+        {
+            "id": "Liyue-10",
+            "achievement": "Ce roman est génial !",
+            "commission": "Ce roman est génial",
+            "requirement": "Jeter un œil au manuscrit de Chang le Neuvième avant de le donner à Xu.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/82E4ReJsxPg'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue11": [
+        {
+            "id": "Liyue-11",
+            "achievement": "Aux mortels les affaires des hommes...",
+            "commission": "Bon augure",
+            "requirement": "Gâcher 4 signes différents de la mission quotidienne.",
+            "notes": "<p class='commission-text'>Les signes et comment les gâcher:</p><ul><li><strong>Chiens</strong>: Les faire fuir</li><li><strong>Chat et poissons</strong>: Tuer les poissons ou faire fuir le chat</li><li><strong>Feuilles</strong>: Les brûler / Les disperser</li><li><strong>Pigeons</strong>: En tuer au moins 1</li></ul><p class='commission-text'><i>Les signes sont sélectionnés aléatoirement au cours de la mission quotidienne.</i></p>",
+            "videoLink": "<a href='https://youtu.be/_aUzyrVnNjo'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue12": [
+        {
+            "id": "Liyue-12",
+            "achievement": "À la recherche d'une « lame sœur »",
+            "commission": "Où es-tu, Glaive occulte ?",
+            "requirement": "Compléter la bonne variante de la mission quotidienne.",
+            "notes": "<p class='commission-text'>La variante pour le succès apparaît après lors de la 4ème obtention de la mission quotidienne.</p>",
+            "videoLink": "<a href='https://youtu.be/oPNHrIWV7Ko'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue13": [
+        {
+            "id": "Liyue-13",
+            "achievement": "Marcher à l'horizon...?",
+            "commission": "Le départ de l'épée",
+            "requirement": "Compléter la bonne variante de la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Le départ de l'épée</strong> il faut compléter la mission quotidienne <strong>Maux de gorge et secrets</strong> (<strong>3 fois</strong>).</p><p class='commission-text'><i>La variante pour le succès apparaîtra lors de la 7ème obtention de la mission quotidienne <strong>Le départ de l'épée</strong>.</i></p>",
+            "videoLink": null
+        }
+    ],
+    "Liyue14": [
+        {
+            "id": "Liyue-14",
+            "achievement": "Histoires du Souverain",
+            "commission": "Voyages de l'Archon Géo",
+            "requirement": "Obtenir les 4 histoires de la mission quotidienne.",
+            "notes": "<p class='commission-text'>L'histoire récupérée à la fin de la mission quotidienne dépend de l'objet donné.</p><p class='commission-text'>L'histoire et quel objet donner pour la récupérer:</p><ul><li><strong>Le Dieu des colons</strong>: Une plante ou un ingrédient</li><li><strong>Le Dieu des fourneaux</strong>: Un minerai</li><li><strong>Le Dieu de l'histoire</strong>: Un plat</li><li><strong>Le Dieu de la fortune</strong>: Lys verni</li></ul><p class='commission-text'><i>La mission quotidienne nécessite d'être complétée au moins 4 fois pour obtenir ce succès.</i></p>",
+            "videoLink": "<a href='https://youtu.be/-5ITPeOE4DA'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue15": [
+        {
+            "id": "Liyue-15",
+            "achievement": "Ouvrez grand vos oreilles...",
+            "commission": "Tout vous sera révélé dans le prochain chapitre !",
+            "requirement": "Donner les tomes 1 et 2 de <strong>« Chroniques des lames de pluie »</strong> à <strong>Liu Su</strong>.",
+            "notes": "<p class='commission-text'><i>La mission quotidienne nécessite d'être complétée au moins 2 fois pour obtenir ce succès.</i></p>",
+            "videoLink": "<a href='https://youtu.be/bfMjcjAHtOo'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue16": [
+        {
+            "id": "Liyue-16",
+            "achievement": "Il était une fois...",
+            "commission": "Tout vous sera révélé dans le prochain chapitre !",
+            "requirement": "Donner <strong>« La colère de Haishan »</strong> à <strong>Liu Su</strong>.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/kCDC1jTfF8Q'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "InazumaList": [
+        {
+            "title": "Quotidiennes d'Inazuma",
+            "description": "<p><strong>10</strong> succès sont réalisables pendant <strong>ou</strong> en complétant des <strong>missions quotidiennes</strong> dans la région d'<strong>Inazuma</strong>.</p><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Caché en pleine vue</strong></p><ul><li>L'affaire du Bantan Sango</li><li>L'affaire du Bantan Sango : La recherche</li><li>L'affaire du Bantan Sango : La véritable identité</li><li>L'affaire du Bantan Sango : Un mauvais choix</li><li>L'affaire du Bantan Sango : Le dénouement</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>N'existe-t-il qu'une vérité...?</strong></p><ul><li>L'affaire du Bantan Sango</li><li>L'affaire du Bantan Sango : La recherche</li><li>L'affaire du Bantan Sango : La véritable identité</li><li>L'affaire du Bantan Sango : Un mauvais choix</li><li>L'affaire du Bantan Sango : Le dénouement</li><li>L'affaire du Bantan Sango : Les dernières touches</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Liyue Ichiban</strong></p><ul><li>Le goût de son foyer</li><li>Un mets absolument unique</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Du peps, encore ?</strong></p><ul><li>Les Gourmets suprêmes : Une idée de génie</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Repas pour deux</strong></p><ul><li>Les Gourmets suprêmes : Concours culinaire</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Une question de régime</strong></p><ul><li>Les Gourmets suprêmes : Quiz gourmand</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Samouriz</strong></p><ul><li>Les Gourmets suprêmes : La cuisine de l'extrême</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Pardon pour le dérangement !</strong></p><ul><li>Des ventes décevantes...</li><li>Service après-vente</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Commentaire éditorial</strong></p><ul><li>Un roman... passionnant ?</li><li>Un roman... familier ?</li><li>Un roman... problématique ?</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Vous devriez ouvrir un dojo pour les doushins</strong></p><ul><li>Un art à peaufiner</li><li>L'entraînement ne s'arrête jamais !</li></ul>"
+        }
+    ],
+    "Inazuma01": [
+        {
+            "id": "Inazuma-01",
+            "achievement": "Caché en pleine vue",
+            "commission": "L'affaire du Bantan Sango : Le dénouement",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>L'affaire du Bantan Sango : Le dénouement</strong> il faut compléter les missions quotidiennes:</p><ul><li>L'affaire du Bantan Sango</li><li>L'affaire du Bantan Sango : La recherche (<strong>3 fois</strong>)</li><li>L'affaire du Bantan Sango : La véritable identité</li><li>L'affaire du Bantan Sango : Un mauvais choix (<strong>3 fois</strong>)</li></ul>",
+            "videoLink": "<a href='https://youtu.be/GKF0DPVzhec'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma02": [
+        {
+            "id": "Inazuma-02",
+            "achievement": "N'existe-t-il qu'une vérité...?",
+            "commission": "L'affaire du Bantan Sango : Les dernières touches",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>L'affaire du Bantan Sango : Les dernières touches</strong> il faut compléter les missions quotidiennes:</p><ul><li>L'affaire du Bantan Sango</li><li>L'affaire du Bantan Sango : La recherche (<strong>3 fois</strong>)</li><li>L'affaire du Bantan Sango : La véritable identité</li><li>L'affaire du Bantan Sango : Un mauvais choix (<strong>3 fois</strong>)</li><li>L'affaire du Bantan Sango : Le dénouement</li></ul>",
+            "videoLink": "<a href='https://youtu.be/q5ktC9Sxsw0'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma03": [
+        {
+            "id": "Inazuma-03",
+            "achievement": "Liyue Ichiban",
+            "commission": "Un mets absolument unique",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Un mets absolument unique</strong> il faut donner un <strong>plat suspect</strong> à <strong>Tang Wen</strong> au cours de la mission quotidienne <strong>Le goût de son foyer</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/87BAmExCmgM'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma04": [
+        {
+            "id": "Inazuma-04",
+            "achievement": "Du peps, encore ?",
+            "commission": "Les Gourmets suprêmes : Une idée de génie",
+            "requirement": "Compléter la mission quotidienne en ayant demandé des idées à Xiangling.",
+            "notes": "<p class='commission-text'>Il faut compléter la Quête du monde <strong>Les Gourmets suprêmes : Sur la route</strong> pour pouvoir obtenir la mission quotidienne <strong>Les Gourmets suprêmes : Une idée de génie</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/ZaGcdZ6VLWU'  target='_blank'>Nepyutsu</a> (Premier chapitre de la vidéo)"
+        }
+    ],
+    "Inazuma05": [
+        {
+            "id": "Inazuma-05",
+            "achievement": "Repas pour deux",
+            "commission": "Les Gourmets suprêmes : Concours culinaire",
+            "requirement": "Aider Xudong et Kamei Munehisa à remporter leur compétition une fois chacun.",
+            "notes": "<p class='commission-text'>Il faut faire cette mission quotidienne au minimum <strong>2 fois</strong>.<br>Une fois dans laquelle <strong>Xudong gagne</strong> et une fois dans laquelle <strong>Kamei Munehisa gagne</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/629-W52csIc'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma06": [
+        {
+            "id": "Inazuma-06",
+            "achievement": "Une question de régime",
+            "commission": "Les Gourmets suprêmes : Quiz gourmand",
+            "requirement": "Répondre correctement aux 3 questions pendant la mission quotidienne.",
+            "notes": "<p class='commission-text'>Si la recette est : La réponse est</p><ul><li>Ragoût de pommes du nord : Du poivre</li><li>Viande façon Dubhe : Des fleurs de Qingxin</li><li>Soupe de porc aux pousses de bambou : Des pousses de bambou</li><li>Brochettes trois saveurs : Des œufs</li><li>Marmite de perche à dos noir : Du sel</li></ul>",
+            "videoLink": "<a href='https://youtu.be/4O0w9PVrARU'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma07": [
+        {
+            "id": "Inazuma-07",
+            "achievement": "Samouriz",
+            "commission": "Les Gourmets suprêmes : La cuisine de l'extrême",
+            "requirement": "Aider Kamei Munehisa à collecter les ingrédients des deux camps.",
+            "notes": "<p class='commission-text'>Il faut faire cette mission quotidienne au minimum <strong>2 fois</strong>.<br>Une fois en choississant d'aller au <strong>camp de droite</strong> et une fois en choississant d'aller au <strong>camp de gauche</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/cmogOJry_UE'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma08": [
+        {
+            "id": "Inazuma-08",
+            "achievement": "Pardon pour le dérangement !",
+            "commission": "Service après-vente",
+            "requirement": "Récupérer les 10 champignons et compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Service après-vente</strong> il faut donner de mauvaises instructions au cours de la mission quotidienne <strong>Des ventes décevantes...</strong>.</p><p class='commission-text'>Pour obtenir la mission quotidienne <strong>Des ventes décevantes...</strong> il faut compléter les Quêtes du monde <strong>Dans un autre pays</strong> et <strong>Le trésor d'un paysan</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/-1VHqgKgx5c'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma09": [
+        {
+            "id": "Inazuma-09",
+            "achievement": "Commentaire éditorial",
+            "commission": "Un roman... familier ? / Un roman... problématique ?",
+            "requirement": "Compléter les deux missions quotidiennes.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Un roman... familier ?</strong> il faut être d'accord avec <strong>Shigeru</strong> au cours de la mission quotidienne <strong>Un roman... passionnant ?</strong>.<br><i>(À faire jusqu'à obtenir la mission quotidienne <strong>Un roman... familier ?</strong>)</i></p><p class='commission-text'>Pour obtenir la mission quotidienne <strong>Un roman... problématique ?</strong> il faut être d'accord avec <strong>Junkichi</strong> au cours de la mission quotidienne <strong>Un roman... passionnant ?</strong>.<br><i>(À faire jusqu'à obtenir la mission quotidienne <strong>Un roman... problématique ?</strong>)</i></p><p class='commission-text'><i>Dans le cas où vous êtes d'accord avec l'un puis l'autre, la mission quotidienne suivante obtenue sera aléatoire.</i></p>",
+            "videoLink": "<a href='https://youtu.be/eaSpEhNY-dw'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma10": [
+        {
+            "id": "Inazuma-10",
+            "achievement": "Vous devriez ouvrir un dojo pour les doushins",
+            "commission": "L'entraînement ne s'arrête jamais !",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>L'entraînement ne s'arrête jamais !</strong> il faut compléter la mission quotidienne <strong>Un art à peaufiner</strong> (<strong>4 fois</strong>) puis compléter la Quête du monde <strong>Lutte pour la rédemption</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/A_PN0UOZC_0'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "SumeruList": [
+        {
+            "title": "Quotidiennes de Sumeru",
+            "description": "<p><strong>15</strong> succès sont réalisables pendant <strong>ou</strong> en complétant des <strong>missions quotidiennes</strong> dans la région de <strong>Sumeru</strong>.</p><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Fongus de Kalimi</strong></p><ul><li>Repas d'or et moras à foison</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Quand la fortune fait toc toc</strong></p><ul><li>Repas d'or et moras à foison</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Attrape-miaou si tu peux !</strong></p><ul><li>Miaou... Miaou, miaou ? Miaou ! Miaou...</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Principes arithmétiques</strong></p><ul><li>L'hymne de Garcia : Objet clé</li><li>L'hymne de Garcia : Substitution</li><li>L'hymne de Garcia : Par roulement</li><li>L'hymne de Garcia : Un tour de main</li><li>L'hymne de Garcia : Écho d'autrui</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Le travail, c'est la santé...</strong></p><ul><li>Attaché en pays étranger</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>C'est thérapeutique !</strong></p><ul><li>Ordres du médecin</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Par les racines</strong></p><ul><li>Fleurs qui ne poussent pas</li><li>Quand les fleurs s'ouvrent</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>À la mesure du monde...</strong></p><ul><li>Celui qui mesure le monde !</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Une demande optionnelle</strong></p><ul><li>Projet précieux</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Le p'tit bateau qui va sur l'eau ♪</strong></p><ul><li>Conversion de problème</li><li>Conversion de problème : Force théorique</li><li>Conversion de problème : Problème de charge</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Un souci ? Quel souci ?</strong></p><ul><li>Alimentation et apprentissage</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>La tête pensante de Sumeru</strong></p><ul><li>Petites questions sur l'Académie</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Attention, ça glisse !</strong></p><ul><li>Cours, Hilmi, cours !</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Une vraie écriture de médecin</strong></p><ul><li>Rareté de panacée</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Fragrance durable</strong></p><ul><li>Fleur dans les sables</li><li>Fleur sur les sables : Arôme durable</li></ul>"
+        }
+    ],
+    "Sumeru01": [
+        {
+            "id": "Sumeru-01",
+            "achievement": "Fongus de Kalimi",
+            "commission": "Repas d'or et moras à foison",
+            "requirement": "Compléter la variante de la mission quotidienne dans laquelle <strong>Hatim fait fortune</strong>.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/5i_sU_DGztw'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru02": [
+        {
+            "id": "Sumeru-02",
+            "achievement": "Quand la fortune fait toc toc",
+            "commission": "Repas d'or et moras à foison",
+            "requirement": "Compléter la variante de la mission quotidienne dans laquelle <strong>Hatim</strong> demande du <strong>Cidre de pomme</strong>.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/iaZRQiB1pQE'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru03": [
+        {
+            "id": "Sumeru-03",
+            "achievement": "Attrape-miaou si tu peux !",
+            "commission": "Miaou... Miaou, miaou ? Miaou ! Miaou...",
+            "requirement": "Capturer les 3 chats.",
+            "notes": "<p class='commission-text'>Les 3 chats sont <strong>Rozan</strong>, <strong>Lale</strong> et <strong>Nargis</strong>.<br><i>Le chat est sélectionné aléatoirement au début de la mission quotidienne.</i></p><p class='commission-text'>La bonne réponse pour chaque chat:<ul><li><strong>Rozan</strong>: Miaou miaou miaou, miaou miaou miaou.</li><li><strong>Lale</strong>: Miaou, miaou miaou miaou, miaou...</li><li><strong>Nargis</strong>: Miaou ! Miaou miaou, miaou.</li></ul></p>",
+            "videoLink": "<a href='https://youtu.be/2crAWlyadc4'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru04": [
+        {
+            "id": "Sumeru-04",
+            "achievement": "Principes arithmétiques",
+            "commission": "L'hymne de Garcia : Écho d'autrui",
+            "requirement": "Compléter la mission quotidienne <strong>3 fois</strong>.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>L'hymne de Garcia : Écho d'autrui</strong> il faut compléter les missions quotidiennes:</p><ul><li>L'hymne de Garcia : Objet clé (<strong>3 fois</strong>)</li><li>L'hymne de Garcia : Substitution (<strong>3 fois</strong>)</li><li>L'hymne de Garcia : Par roulement</li><li>L'hymne de Garcia : Un tour de main (<strong>4 fois</strong>)</li></ul><p class='commission-text'><i>Il faut compléter la Quête du monde <strong>L'hymne de Garcia</strong> avant de pouvoir recevoir l'une des missions quotidiennes cité précédemment.</i></p>",
+            "videoLink": "<a href='https://youtu.be/Uxj42-lREuQ'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru05": [
+        {
+            "id": "Sumeru-05",
+            "achievement": "Le travail, c'est la santé...",
+            "commission": "Attaché en pays étranger",
+            "requirement": "Récupérer <strong>plus de 5 champignons</strong> et compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Attaché en pays étranger</strong> il faut compléter la série de Quêtes du monde <strong>Les contes de Tatara</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/c61e9uTfHCs'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru06": [
+        {
+            "id": "Sumeru-06",
+            "achievement": "C'est thérapeutique !",
+            "commission": "Ordres du médecin",
+            "requirement": "Réaliser les souhaits des 3 patients.",
+            "notes": "<ul><li><strong>Aftab</strong>: Lui donner un Steak (délicieux)</li><li><strong>Azra</strong>: Donner un sucre</li><li><strong>Gurgen</strong>: Désherber les champs (La mission quotidienne demande de retourner lui parler une fois terminé)</li></ul>",
+            "videoLink": "<a href='https://youtu.be/Lf77ZXS5CyI'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru07": [
+        {
+            "id": "Sumeru-07",
+            "achievement": "Par les racines",
+            "commission": "Quand les fleurs s'ouvrent",
+            "requirement": "Vaincre la fleur mensongère après la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Quand les fleurs s'ouvrent</strong> il faut compléter plusieurs fois la mission quotidienne <strong>Fleurs qui ne poussent pas</strong>.</p><p class='commission-text'><i>La fleur mensongère n'est pas garantie d'apparaître à la fin de la mission quotidienne, si elle apparaît, il faut aller la tuer et éviter de se téléporter pour ne pas la faire disparaître.</i></p>",
+            "videoLink": "<a href='https://youtu.be/102zhFe2xe4'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru08": [
+        {
+            "id": "Sumeru-08",
+            "achievement": "À la mesure du monde...",
+            "commission": "Celui qui mesure le monde !",
+            "requirement": "Compléter les <strong>3 variantes</strong> de la mission quotidienne.",
+            "notes": "<p class='commission-text'>Les variantes sont <strong>Installation des balises</strong>, <strong>Récupération des balises</strong> et <strong>Élimination d'ennemis</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/4sNxlobde_Y'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru09": [
+        {
+            "id": "Sumeru-09",
+            "achievement": "Une demande optionnelle",
+            "commission": "Projet précieux",
+            "requirement": "Trouver les 3 jouets des serpents de Gulabgir.",
+            "notes": "<p class='commission-text'>Il existe 5 variantes de cette mission quotidienne, 3 d'entre elles sont nécessaires à l'obtention du succès.</p><p class='commission-text'>Les objets à récupérer sont:</p><ul><li><strong>Étagère miteuse</strong> dans le camp avec des <strong>rochers</strong></li><li><strong>Perle étrange</strong> dans le camp avec des <strong>Fongus</strong></li><li><strong>Petits chapeaux étranges</strong> dans le camp avec des <strong>nids</strong></li></ul>",
+            "videoLink": "<a href='https://youtu.be/X32DlYUAPRQ'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru10": [
+        {
+            "id": "Sumeru-10",
+            "achievement": "Le p'tit bateau qui va sur l'eau ♪",
+            "commission": "Conversion de problème : Problème de charge",
+            "requirement": "Compléter la mission quotidienne en ayant récupéré 5 planches dans la mission quotidienne précédente.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Conversion de problème : Problème de charge</strong> il faut compléter les missions quotidiennes:</p><ul><li>Conversion de problème</li><li>Conversion de problème : Force théorique</li></ul><p class='commission-text'><i>Il faut récupérer les 5 planches au cours de la mission quotidienne <strong>Conversion de problème : Force théorique</strong>.</i></p>",
+            "videoLink": "<a href='https://youtu.be/lUn3UhFybNM'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru11": [
+        {
+            "id": "Sumeru-11",
+            "achievement": "Un souci ? Quel souci ?",
+            "commission": "Alimentation et apprentissage",
+            "requirement": "Compléter les <strong>3 variantes</strong> de la mission quotidienne.",
+            "notes": "<p class='commission-text'>Les variantes sont <strong>Viande crue</strong>, <strong>Menthe</strong> et <strong>Pomme de terre</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/FNPBiqPrlpU'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru12": [
+        {
+            "id": "Sumeru-12",
+            "achievement": "La tête pensante de Sumeru",
+            "commission": "Petites questions sur l'Académie",
+            "requirement": "Répondre correctement aux 6 questions de la mission quotidienne.",
+            "notes": "<p class='commission-text'>3 questions sont posées aléatoirement pendant la mission quotidienne.<br>Les réponses sont <strong>L'Amurta</strong>, <strong>Le Spantamad</strong>, <strong>L'arbre divin</strong>, <strong>Le Mur de Samiel</strong>, <strong>Des bêtes de somme</strong> et <strong>Fongus</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/UKWkm42_7Ms'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru13": [
+        {
+            "id": "Sumeru-13",
+            "achievement": "Attention, ça glisse !",
+            "commission": "Cours, Hilmi, cours !",
+            "requirement": "Laisser Hilmi gagner la course.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/hwCiWneTh6A'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru14": [
+        {
+            "id": "Sumeru-14",
+            "achievement": "Une vraie écriture de médecin",
+            "commission": "Rareté de panacée",
+            "requirement": "Réciter correctement l'ordonnance.",
+            "notes": "<p class='commission-text'>Il existe 3 variantes pour cette mission quotidienne donc 3 ordonnance différentes:</p><p class='commission-text'>Pour la variante <strong>Vision trouble</strong> il faut sélectionner:</p><ul><li>Des champitoiles</li><li>D'abord à feu vif, puis à feu doux</li><li>Il faut faire cuire la soupe jusqu'à ce qu'elle prenne une couleur sombre</li></ul><p class='commission-text'>Pour la variante <strong>Mal au ventre</strong> il faut sélectionner:</p><ul><li>Des quandongs</li><li>À feu doux durant toute la cuisson</li><li>Il faut faire cuire la soupe jusqu'à ce que les ingrédients soient complètement mous</li></ul><p class='commission-text'>Pour la variante <strong>Maux de tête</strong> il faut sélectionner:</p><ul><li>De la menthe</li><li>À feu vif pendant toute la cuisson</li><li>Il faut faire cuire la soupe jusqu'à ce que les ingrédients flottent à la surface</li></ul>",
+            "videoLink": "<a href='https://youtu.be/jbr-5Y1uav8'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru15": [
+        {
+            "id": "Sumeru-15",
+            "achievement": "Fragrance durable",
+            "commission": "Fleur sur les sables : Arôme durable",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Fleur sur les sables : Arôme durable</strong> il faut compléter les 3 variantes de la mission quotidienne <strong>Fleur dans les sables</strong>.</p><p class='commission-text'>Les variantes de la mission quotidienne <strong>Fleur dans les sables</strong> sont <strong>Pêches zaytun</strong>, <strong>Chaton paresseux</strong> et <strong>Arrosage de plantes</strong>.</p><p class='commission-text'><i>Pour pouvoir obtenir la mission quotidienne <strong>Fleur dans les sables</strong> il faut compléter la Quête du monde <strong>Fleur sur les sables</strong>.</i></p><p class='commission-text'><i>Il est possible de changer la variante de la mission quotidienne <strong>Fleur dans les sables</strong> en vous déconnectant pendant le premier dialogue.</i>",
+            "videoLink": "<a href='https://youtu.be/GmaDxVOccWc'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "FontaineList": [
+        {
+            "title": "Quotidiennes de Fontaine",
+            "description": "<p><strong>5</strong> succès sont réalisables pendant <strong>ou</strong> en complétant des <strong>missions quotidiennes</strong> dans la région de <strong>Fontaine</strong>.</p><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Bureau sur rue</strong></p><ul><li>Contes de la Cour</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Moi, c'est le goût</strong></p><ul><li>Un café, l'addition !</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Critique esthétique</strong></p><ul><li>Critique esthétique : Principes de l'élégance</li><li>Critique esthétique : Pratique de la créativité</li><li>Critique esthétique : Auto-critique</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Jeux d'enfants</strong></p><ul><li>Leur enfance</li><li>Leur enfance : Le temps n'attend pas</li><li>Leur enfance : Virée en ville</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Nouvelle inspiration ! Nouveaux produits !</strong></p><ul><li>Plus qu'une boisson, un frisson !</li><li>Un pour la route</li></ul>"
+        }
+    ],
+    "Fontaine01": [
+        {
+            "id": "Fontaine-01",
+            "achievement": "Bureau sur rue",
+            "commission": "Contes de la Cour",
+            "requirement": "Compléter les <strong>3 variantes</strong> de la mission quotidienne.",
+            "notes": "<p class='commission-text'>Les variantes sont <strong>Isadora</strong>, <strong>Livre</strong> et <strong>Staelle</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/KA39qebZ3CU'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Fontaine02": [
+        {
+            "id": "Fontaine-02",
+            "achievement": "Moi, c'est le goût",
+            "commission": "Un café, l'addition !",
+            "requirement": "Compléter la mission quotidienne <strong>3 fois sans échouer</strong>.",
+            "notes": "<p class='commission-text'>Les 2 premières fois il va demander de faire une recette, la troisième fois il demandera de choisir un ingrédient.</p><p class='commission-text'>Les recettes sont:</p><ul><li><strong>Café latté</strong>: Café, Lait puis Mousse de lait</li><li><strong>Café sveglio</strong>: Café puis Eau</li><li><strong>Café moussé</strong>: Café, Lait puis Crème</li><li><strong>Café espresso</strong>: Café puis Café</li></ul>",
+            "videoLink": "<a href='https://youtu.be/NCnHqD2p5Us'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Fontaine03": [
+        {
+            "id": "Fontaine-03",
+            "achievement": "Critique esthétique",
+            "commission": "Critique esthétique : Auto-critique",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Critique esthétique : Auto-critique</strong> il faut compléter les missions quotidiennes:</p><ul><li>Critique esthétique : Principes de l'élégance (<strong>2 fois</strong>)</li><li>Critique esthétique : Pratique de la créativité</li></ul>",
+            "videoLink": "<a href='https://youtu.be/zHdH4gl4opM'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Fontaine04": [
+        {
+            "id": "Fontaine-04",
+            "achievement": "Jeux d'enfants",
+            "commission": "Leur enfance : Virée en ville",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Leur enfance : Virée en ville</strong> il faut compléter les missions quotidiennes:</p><ul><li>Leur enfance (<strong>2 fois</strong>)</li><li>Leur enfance : Le temps n'attend pas</li></ul>",
+            "videoLink": "<a href='https://youtu.be/QrqePLEW-jo'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Fontaine05": [
+        {
+            "id": "Fontaine-05",
+            "achievement": "Nouvelle inspiration ! Nouveaux produits !",
+            "commission": "Un pour la route",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Un pour la route</strong> il faut compléter la mission quotidienne <strong>Plus qu'une boisson, un frisson !</strong> (<strong>3 fois</strong>).</p>",
+            "videoLink": "<a href='https://youtu.be/mTGTHOMEma0'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "NatlanList": [
+        {
+            "title": "Quotidiennes de Natlan",
+            "description": "<p><strong>7</strong> succès sont réalisables pendant <strong>ou</strong> en complétant des <strong>missions quotidiennes</strong> dans la région de <strong>Natlan</strong>.</p><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Berceau du saurien</strong></p><ul><li>Comment se faire des amis</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Académique de Natlan</strong></p><ul><li>Hmm ? Natlan ?</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>« Hora, au pied... »</strong></p><ul><li>Aux soins d'un tepetlisaure</li><li>Aux soins d'un tepetlisaure : Besoin d'une coupe</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>La musique ne meurt jamais !</strong></p><ul><li>Qui peut prédire la pop ?</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Victoire des feuilles volantes</strong></p><ul><li>Saurien et montagne</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Marche inspirante</strong></p><ul><li>Tireur à portée de main</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Citius, altius, fortius !</strong></p><ul><li>Grandis vite, mon p'tit</li></ul>"
+        }
+    ],
+    "Natlan01": [
+        {
+            "id": "Natlan-01",
+            "achievement": "Berceau du saurien",
+            "commission": "Comment se faire des amis",
+            "requirement": "Compléter la mission quotidienne en choisissant de réconforter le yumkasaure. (<strong>3 fois</strong>)",
+            "notes": "<p class='commission-text'>L'option à choisir est <strong>Concentrez-vous plutôt sur le yumkasaure.</strong>.</p>",
+            "videoLink": null
+        }
+    ],
+    "Natlan02": [
+        {
+            "id": "Natlan-02",
+            "achievement": "Académique de Natlan",
+            "commission": "Hmm ? Natlan ?",
+            "requirement": "Compléter la mission quotidienne en répondant correctement à toutes les questions.",
+            "notes": "<p class='commission-text'>Qui sont les compagnons des Enfants des échos ? Quel est leur véritable nom ?<br><ul><li><strong>Les tepetlisaures</strong></li></ul></p><p class='commission-text'>Au sein de quelle tribu vivent les yumkasaures ?<br><ul><li><strong>Chez les Êtres des canopées</strong></li></ul></p><p class='commission-text'>Natlan possède une ressource particulière qui peut être utilisée pour la forge ... Comment s'appelle cette ressource ?<br><ul><li><strong>Le phlogistique</strong></li></ul></p><p class='commission-text'>Qui sont les compagnons du Peuple des sources ? Quel est leur véritable nom ?<br><ul><li><strong>Les koholasaures</strong></li></ul></p><p class='commission-text'>À Natlan, il existe un champignon qui contient du phlogistique. Comment s'appelle-t-il ?<br><ul><li><strong>Un candélapignon</strong></li></ul></p><p class='commission-text'>À Natlan, il existe une fleur qui contient du phlogistique. Comment s'appelle-t-elle ?<br><ul><li><strong>Une fleur braisée</strong></li></ul>",
+            "videoLink": "<a href='https://youtu.be/4SNuTeBGvT8'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Natlan03": [
+        {
+            "id": "Natlan-03",
+            "achievement": "« Hora, au pied… »",
+            "commission": "Aux soins d'un tepetlisaure : Besoin d'une coupe",
+            "requirement": "Compléter la mission quotidienne <strong>sans couper</strong> les griffes de Hora.",
+            "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Aux soins d'un tepetlisaure : Besoin d'une coupe</strong> il faut compléter la mission quotidienne <strong>Aux soins d'un tepetlisaure</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/schCa31CwM4'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Natlan04": [
+        {
+            "id": "Natlan-04",
+            "achievement": "La musique ne meurt jamais !",
+            "commission": "Qui peut prédire la pop ?",
+            "requirement": "Rapporter le disque intact.",
+            "notes": "<p class='commission-text'>Le disque se trouve sur une caisse, il ne faut pas détruire cette caisse pour ne pas endommager le disque.</p><p class='commission-text'><i><strong>Milu Nui</strong> demande de récupérer le disque après avoir complété au moins une fois la mission quotidienne <strong>Qui peut prédire la pop ?</i></strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/OEVxPTfbnjA'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Natlan05": [
+        {
+            "id": "Natlan-05",
+            "achievement": "Victoire des feuilles volantes",
+            "commission": "Saurien et montagne",
+            "requirement": "Atteindre le sommet de la montagne dans le temps imparti.",
+            "notes": "<p class='commission-text'>Cette mission quotidienne existe en <strong>deux variantes</strong>. Si la mission ne demande pas d'<strong>escalader une montagne</strong>, il n'y a pas de succès à obtenir.</p>",
+            "videoLink": "<a href='https://youtu.be/xlr1wnhf_zU'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Natlan06": [
+        {
+            "id": "Natlan-06",
+            "achievement": "Marche inspirante",
+            "commission": "Tireur à portée de main",
+            "requirement": "Compléter la tâche principale et la tâche optionelle.",
+            "notes": "<p class='commission-text'>La mission quotidienne existe en <strong>3 variantes</strong> donc les tâches sont différentes en fonction de la variante.</p><p class='commission-text'>Photos à prendre pour les tâches optionnelles:</p><ul><li><strong>Studio Djembe</strong>: Deux autres magasins célèbres</li><li><strong>Scène Tepetl</strong>: Grande boutique de pierres précieuses</li><li><strong>Maison longue des coursiers</strong>: Immense fresque sur les falaises</li></ul>",
+            "videoLink": "<a href='https://youtu.be/YSJlXjtrbOg'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Natlan07": [
+        {
+            "id": "Natlan-07",
+            "achievement": "Citius, altius, fortius !",
+            "commission": "Grandis vite, mon p'tit",
+            "requirement": "Compléter la mission quotidienne.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/KqLNqJzo7Rg'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "SnezhnayaList": [
+        {
+            "title": "Quotidiennes de Snezhnaya",
+            "description": "<strong><img src='/images/emotes/cryo.webp' class='emote' alt='Cryo'> Je ne travaille pas chez HoYoverse.</strong>"
+        }
+    ]
+}

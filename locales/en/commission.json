@@ -1,0 +1,695 @@
+{
+    "page": "Commissions",
+    "MondstadtList": [
+        {
+            "title": "Mondstadt Commissions",
+            "description": "<p><strong>12</strong> achievements can be obtained during <strong>or</strong> by completing <strong>commissions</strong> in the region of <strong>Mondstadt</strong>.</p><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>For the Love of Godwin</strong></p><ul><li>Whispers in the Wind</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Taking Responsibility for Your Actions</strong></p><ul><li>Pigeon, Duck, and Child</li><li>Sorry, Timmie!</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Making Do</strong></p><ul><li>The Limitations of an Adventurer</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>“Dear Daddy…”</strong></p><ul><li>Pigeons Go AWOL</li><li>A Boy's Letter</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Marvelous Medicine</strong></p><ul><li>Miracle Medicine</li><li>Recuperating From a Severe Illness</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Anna's Adventures</strong></p><ul><li>Miracle Medicine</li><li>Recuperating From a Severe Illness</li><li>Adventurer Exam: Battle Tactics</li><li>Adventurer Exam: The Art of Adventure</li><li>Adventurer Exam: Taking Flight</li><li>Anna the Adventurer!</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>In the Name of Favonius</strong></p><ul><li>A Surprise Gift</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Get Your Own Emergency Food!</strong></p><ul><li>Food Delivery</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>…Odomu?</strong></p><ul><li>Language Exchange</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Yo dala?</strong></p><ul><li>Language Exchange</li><li>Poetry Exchange</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Perfectionist</strong></p><ul><li>Reliable Helper</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Telling It How It Is</strong></p><ul><li>Tales of Winter</li></ul>"
+        }
+    ],
+    "Mondstadt01": [
+        {
+            "id": "Mondstadt-01",
+            "achievement": "For the Love of Godwin",
+            "commission": "Whispers in the Wind",
+            "requirement": "Complete the commission <strong>5 times</strong>.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/x1LDRkhJrrE'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt02": [
+        {
+            "id": "Mondstadt-02",
+            "achievement": "Taking Responsibility for Your Actions",
+            "commission": "Sorry, Timmie!",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Sorry, Timmie!</strong> you must <strong>kill at least one duck</strong> during the commission <strong>Pigeon, Duck, and Child</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/z4qTi8PF6FM'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt03": [
+        {
+            "id": "Mondstadt-03",
+            "achievement": "Making Do",
+            "commission": "The Limitations of an Adventurer",
+            "requirement": "Complete the commission by bringing back the <strong>Materials for Training Dummy</strong>.",
+            "notes": "<p class='commission-text'>The <strong>Materials for Training Dummy</strong> are obtained by destroying the training dummy during the commission.</p>",
+            "videoLink": "<a href='https://youtu.be/xLdRorQ5Vtc'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt04": [
+        {
+            "id": "Mondstadt-04",
+            "achievement": "“Dear Daddy…”",
+            "commission": "A Boy's Letter",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>A Boy's Letter</strong> you need to pick up the <strong>Draff's Letter</strong> during the commission <strong>Pigeons Go AWOL</strong>.</p><p class='commission-text'>The commission <strong>Pigeons Go AWOL</strong> has 3 versions so the letter does not always appear (The versions are <strong>Pigeons only</strong>, <strong>Camp without letter</strong> and <strong>Camp with letter</strong>).</p>",
+            "videoLink": "<a href='https://youtu.be/33iSwQxosnM'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt05": [
+        {
+            "id": "Mondstadt-05",
+            "achievement": "Marvelous Medicine",
+            "commission": "Recuperating From a Severe Illness",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Recuperating From a Severe Illness</strong> you must complete the commission <strong>Miracle Medicine</strong> (<strong>3 times</strong>).</p>",
+            "videoLink": null
+        }
+    ],
+    "Mondstadt06": [
+        {
+            "id": "Mondstadt-06",
+            "achievement": "Anna's Adventures",
+            "commission": "Anna the Adventurer!",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Anna the Adventurer!</strong> you must complete the commissions:</p><ul><li>Miracle Medicine</li><li>Recuperating From a Severe Illness</li><li>Adventurer Exam: Battle Tactics</li><li>Adventurer Exam: The Art of Adventure</li><li>Adventurer Exam: Taking Flight</li></ul><p class='commission-text'>You must also <strong>answer correctly</strong> to the questions in the commission <strong>Adventurer Exam: Taking Flight</strong>.<br><strong>The correct answers are</strong>:</p><ul><li>One person per glider</li><li>To select appropriate take-off points and to assume the correct take-off posture</li><li>Select an appropriate landing spot, and do not fold your wind glider in abruptly</li></ul>",
+            "videoLink": "<a href='https://youtu.be/nqZR5fOKNcw'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt07": [
+        {
+            "id": "Mondstadt-07",
+            "achievement": "In the Name of Favonius",
+            "commission": "A Surprise Gift",
+            "requirement": "Complete the commission by selecting the option <strong>Vile might have some suggestions for us.</strong> during the first conversation with Rudolf.",
+            "notes": "<p class='commission-text'>The option <strong>Vile might have some suggestions for us.</strong> appears on the <strong>fourth time</strong> you receive the commission.</p>",
+            "videoLink": "<a href='https://youtu.be/cE467AnqZKc'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt08": [
+        {
+            "id": "Mondstadt-08",
+            "achievement": "Get Your Own Emergency Food!",
+            "commission": "Food Delivery",
+            "requirement": "Eat the food instead of delivering it.",
+            "notes": "<p class='commission-text'>The food can be found in the <strong>Quest</strong> section of the inventory.</p>",
+            "videoLink": "<a href='https://youtu.be/WNLhpC6n1EY'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt09": [
+        {
+            "id": "Mondstadt-09",
+            "achievement": "…Odomu?",
+            "commission": "Language Exchange",
+            "requirement": "Complete the commission by successfully speaking to the Hilichurls.",
+            "notes": "<p class='commission-text'>Ella can fail even without being spotted by the Hilichurls at the camp.</p>",
+            "videoLink": "<a href='https://youtu.be/jpEPj3F_WiE'  target='_blank'>Nepyutsu</a> (First chapter of the video)"
+        }
+    ],
+    "Mondstadt10": [
+        {
+            "id": "Mondstadt-10",
+            "achievement": "Yo dala",
+            "commission": "Poetry Exchange",
+            "requirement": "Complete the commission by selecting the correct dialogues.",
+            "notes": "<p class='commission-text'>The correct dialogues are <strong>Celi dada, mimi nunu!</strong>, <strong>Ye dada!</strong> and <strong>Muhe ye!</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/jpEPj3F_WiE'  target='_blank'>Nepyutsu</a> (Second chapter of the video)"
+        }
+    ],
+    "Mondstadt11": [
+        {
+            "id": "Mondstadt-11",
+            "achievement": "Perfectionist",
+            "commission": "Reliable Helper",
+            "requirement": "<strong>Correctly</strong> complete the three versions of the commission.",
+            "notes": "<p class='commission-text'>The player chooses the version during the first dialogue with Tsarevich.<br>The versions are <strong>foot of the mountains</strong>, <strong>mountainside</strong> and <strong>mountaintop</strong>.</p><p class='commission-text'>If the selected version is:</p><ul><li><strong>Foot of the mountains</strong>: Defeat the Hilichurls and return in less than 1 minute.</li><li><strong>Mountainside</strong>: Defeat the Hilichurls without destroying any crates.</li><li><strong>Mountaintop</strong>: Defeat the Hilichurls in the correct order. (Axe Mitachurl, Shield Mitachurl then Samachurl)</li></ul>",
+            "videoLink": "<a href='https://youtu.be/RKgkEk-2-jk'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Mondstadt12": [
+        {
+            "id": "Mondstadt-12",
+            "achievement": "Telling It How It Is",
+            "commission": "Tales of Winter",
+            "requirement": "Complete the three versions of the commission.",
+            "notes": "<p class='commission-text'>The player chooses the version during the first dialogue with Viktor.<br>The versions are <strong>Fatui</strong>, <strong>Delusions</strong> and <strong>Tsaritsa</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/jKDvIfHTBQ0'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "LiyueList": [
+        {
+            "title": "Liyue Commissions",
+            "description": "<p><strong>16</strong> achievements can be obtained during <strong>or</strong> by completing <strong>commissions</strong> in the region of <strong>Liyue</strong>.</p><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Pirates! Argh!</strong></p><ul><li>Pirate Invasion, in Liyue Harbor!</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Prelude to the Journey</strong></p><ul><li>Pirate Invasion, in Liyue Harbor!</li><li>Growing Pains</li><li>Ahoy! A Pirate's Growth for Ye!</li><li>Troubles Traveling Through Tributaries</li><li>The Little Pirate Goes Out to Sea</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>A Nourishing Friendship</strong></p><ul><li>Fishing Jiangxue</li><li>Yanxiao's Dilemma</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Love Is All Around</strong></p><ul><li>Good Sign</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Level Up</strong></p><ul><li>Stairway to Wangshu</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Beginner's Luck</strong></p><ul><li>Diamond in the Rough…</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Scholarly Pretensions</strong></p><ul><li>The Lost Relic</li><li>A Little Raid</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Poet Vs. Paycheck</strong></p><ul><li>One Ship, Two Ships, Three Ships…</li><li>So-Called Work</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>All's Well That Ends Well</strong></p><ul><li>This Novel Is Amazing!</li><li>For Old Time's Sake</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>This Novel Is Amazing!</strong></p><ul><li>This Novel Is Amazing!</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Open to Interpretation</strong></p><ul><li>Good Sign</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Swordseeker</strong></p><ul><li>Where Is the Unseen Razor?</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>To Walk The Horizon…?</strong></p><ul><li>The Sparrow Studies the Blade</li><li>The Day the Sword Departs</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Geo Archon Anecdotes</strong></p><ul><li>Geo Travel Diary</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Friends, Travelers, Lend Me Your Ears…</strong></p><ul><li>Cliffhanger</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Once Upon a Time…</strong></p><ul><li>Cliffhanger</li></ul>"
+        }
+    ],
+    "Liyue01": [
+        {
+            "id": "Liyue-01",
+            "achievement": "Pirates! Argh!",
+            "commission": "Pirate Invasion, in Liyue Harbor!",
+            "requirement": "Complete the <strong>3 versions</strong> of the commission.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/ZqSBauh88CA'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue02": [
+        {
+            "id": "Liyue-02",
+            "achievement": "Prelude to the Journey",
+            "commission": "The Little Pirate Goes Out to Sea",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>The Little Pirate Goes Out to Sea</strong> you must complete the commissions:</p><ul><li>Pirate Invasion, in Liyue Harbor!</li><li>Growing Pains</li><li>Ahoy! A Pirate's Growth for Ye!</li><li>Troubles Traveling Through Tributaries</li></ul>",
+            "videoLink": "<a href='https://youtu.be/TfUS1SkCR6U'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue03": [
+        {
+            "id": "Liyue-03",
+            "achievement": "A Nourishing Friendship",
+            "commission": "Fishing Jiangxue / Yanxiao's Dilemma",
+            "requirement": "Complete both commissions.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/3tCCJK9S2gk'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue04": [
+        {
+            "id": "Liyue-04",
+            "achievement": "Love Is All Around",
+            "commission": "Good Sign",
+            "requirement": "Find the 5 good signs of the commission.",
+            "notes": "<p class='commission-text'>The different signs are <strong>Granny Shan</strong>, <strong>Dogs</strong>, <strong>Cat and fish</strong>, <strong>Leaves</strong> and <strong>Pigeons</strong>.</p><p class='commission-text'><i>The signs are selected randomly during the commission.</i></p>",
+            "videoLink": "<a href='https://youtu.be/_oNrgfGt6gI'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue05": [
+        {
+            "id": "Liyue-05",
+            "achievement": "Level Up",
+            "commission": "Stairway to Wangshu",
+            "requirement": "Complete the commission <strong>2 times</strong>.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Stairway to Wangshud</strong> you must complete the World Quest <strong>A Provisional Arrangement</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/-lPqcXckjA0'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue06": [
+        {
+            "id": "Liyue-06",
+            "achievement": "Beginner's Luck",
+            "commission": "Diamond in the Rough…",
+            "requirement": "Choose the stone with a Cor Lapis inside in the first try.",
+            "notes": "<p class='commission-text'>It is possible to clip the camera inside the stone to determine which stone to choose for the achievement.</p><p class='commission-text'><i>It is not guaranteed that the required stone will appear.</i></p>",
+            "videoLink": "<a href='https://youtu.be/eb8_AittaZM'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue07": [
+        {
+            "id": "Liyue-07",
+            "achievement": "Scholarly Pretensions",
+            "commission": "A Little Raid",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>A Little Raid</strong> you must complete the version of the commission <strong>The Lost Relic</strong> which gives the item <strong>A Box of Gadgets</strong>.</p><p class='commission-text'><i>This version is guaranteed to appear after completing the other versions at least 3 times.</i></p>",
+            "videoLink": "<a href='https://youtu.be/w9nm12z7AO4'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue08": [
+        {
+            "id": "Liyue-08",
+            "achievement": "Poet Vs. Paycheck",
+            "commission": "So-Called Work",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>So-Called Work</strong> you must give the wrong number of ships during the commission <strong>One Ship, Two Ships, Three Ships…</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/1j7yS74V6_c'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue09": [
+        {
+            "id": "Liyue-09",
+            "achievement": "All's Well That Ends Well",
+            "commission": "For Old Time's Sake",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>For Old Time's Sake</strong> you must complete the commission <strong>This Novel Is Amazing!</strong> (<strong>3 times</strong>) and the World Quests <strong>Book in the Woods</strong> and <strong>Will of Stone</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/_1ZWl15Mct0'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue10": [
+        {
+            "id": "Liyue-10",
+            "achievement": "This Novel Is Amazing!",
+            "commission": "This Novel Is Amazing!",
+            "requirement": "Sneak a peek at Chang the Ninth's manuscript before delivering it to Xu.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/82E4ReJsxPg'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue11": [
+        {
+            "id": "Liyue-11",
+            "achievement": "Open to Interpretation",
+            "commission": "Good Sign",
+            "requirement": "Ruin 4 different signs of the commission.",
+            "notes": "<p class='commission-text'>The signs and how to ruin them:</p><ul><li><strong>Dogs</strong>: Chase them away</li><li><strong>Cat and Fish</strong>: Kill the fish or chase the cat away</li><li><strong>Leaves</strong>: Burn them / Blow them away</li><li><strong>Pigeons</strong>: Kill at least 1</li></ul><p class='commission-text'><i>The signs are selected randomly during the commission.</i></p>",
+            "videoLink": "<a href='https://youtu.be/_aUzyrVnNjo'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue12": [
+        {
+            "id": "Liyue-12",
+            "achievement": "Swordseeker",
+            "commission": "Where Is the Unseen Razor?",
+            "requirement": "Complete the correct version of the commission.",
+            "notes": "<p class='commission-text'>The version for the achievement appears on the fourth time you receive the commission.</p>",
+            "videoLink": "<a href='https://youtu.be/oPNHrIWV7Ko'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue13": [
+        {
+            "id": "Liyue-13",
+            "achievement": "To Walk The Horizon…?",
+            "commission": "The Day the Sword Departs",
+            "requirement": "Complete the correct version of the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>The Day the Sword Departs</strong> you must complete the commission <strong>The Sparrow Studies the Blade</strong> (<strong>3 times</strong>).</p><p class='commission-text'><i>The version for the achievement will appear on the seventh time you receive the commission <strong>The Day the Sword Departs</strong>.</i></p>",
+            "videoLink": null
+        }
+    ],
+    "Liyue14": [
+        {
+            "id": "Liyue-14",
+            "achievement": "Geo Archon Anecdotes",
+            "commission": "Geo Travel Diary",
+            "requirement": "Obtain the 4 stories of the commission.",
+            "notes": "<p class='commission-text'>The story obtained at the end of the commission depends on the item given.</p><p class='commission-text'>The story and which item to give to obtain it:</p><ul><li><strong>The Groundbreaker</strong>: A plant or ingredient</li><li><strong>God of the Stove</strong>: An ore</li><li><strong>God of History</strong>: A dish</li><li><strong>God of Wealth</strong>: Glaze Lily</li></ul><p class='commission-text'><i>The commission needs to be completed at least 4 times to obtain this achievement.</i></p>",
+            "videoLink": "<a href='https://youtu.be/-5ITPeOE4DA'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue15": [
+        {
+            "id": "Liyue-15",
+            "achievement": "Friends, Travelers, Lend Me Your Ears…",
+            "commission": "Cliffhanger",
+            "requirement": "Give the two parts of <strong>Ring of Raining Blades</strong> to <strong>Liu Su</strong>.",
+            "notes": "<p class='commission-text'><i>The commission needs to be completed at least 2 times to obtain this achievement.</i></p>",
+            "videoLink": "<a href='https://youtu.be/bfMjcjAHtOo'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Liyue16": [
+        {
+            "id": "Liyue-16",
+            "achievement": "Once Upon a Time…",
+            "commission": "Cliffhanger",
+            "requirement": "Give <strong>The Wrath of Haishan</strong> to <strong>Liu Su</strong>.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/kCDC1jTfF8Q'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "InazumaList": [
+        {
+            "title": "Inazuma Commissions",
+            "description": "<p><strong>10</strong> achievements can be obtained during <strong>or</strong> by completing <strong>commissions</strong> in the region of <strong>Inazuma</strong>.</p><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Hidden in Plain Sight</strong></p><ul><li>Bantan Sango Case File</li><li>Bantan Sango Case File: The Search</li><li>Bantan Sango Case File: The Right Identity</li><li>Bantan Sango Case File: Misdirection</li><li>Bantan Sango Case File: Case-Closing Time</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Is There But One Truth…?</strong></p><ul><li>Bantan Sango Case File</li><li>Bantan Sango Case File: The Search</li><li>Bantan Sango Case File: The Right Identity</li><li>Bantan Sango Case File: Misdirection</li><li>Bantan Sango Case File: Case-Closing Time</li><li>Bantan Sango Case File: Cleanup Work</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Liyue Ichiban</strong></p><ul><li>The Taste of Home</li><li>Absolutely Unique Delicacy</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Boom Shaka-Laka, More Boom-Shaka-Laka</strong></p><ul><li>The Gourmet Supremos: Breakthrough Thinking</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Meal For Two</strong></p><ul><li>The Gourmet Supremos: Cook-Off</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>A Question of Diet</strong></p><ul><li>The Gourmet Supremos: Foodie Quiz</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Samurice</strong></p><ul><li>The Gourmet Supremos: Extreme Cookery</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>“Sorry for the Trouble!”</strong></p><ul><li>Inazuma Sales Specialist</li><li>Post-Sale Service</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Editorial Opinion</strong></p><ul><li>Is This Novel Amazing?</li><li>This Novel… Seems Familiar?</li><li>This Novel Seems… Problematic?</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>You Should Start A Doushin Dojo</strong></p><ul><li>An Art to Be Honed</li><li>Ceaseless Training</li></ul>"
+        }
+    ],
+    "Inazuma01": [
+        {
+            "id": "Inazuma-01",
+            "achievement": "Hidden in Plain Sight",
+            "commission": "Bantan Sango Case File: Case-Closing Time",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Bantan Sango Case File: Case-Closing Time</strong> you must complete the commissions:</p><ul><li>Bantan Sango Case File</li><li>Bantan Sango Case File: The Search (<strong>3 times</strong>)</li><li>Bantan Sango Case File: The Right Identity</li><li>Bantan Sango Case File: Misdirection (<strong>3 times</strong>)</li></ul>",
+            "videoLink": "<a href='https://youtu.be/GKF0DPVzhec'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma02": [
+        {
+            "id": "Inazuma-02",
+            "achievement": "Is There But One Truth…?",
+            "commission": "Bantan Sango Case File: Cleanup Work",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Bantan Sango Case File: Cleanup Work</strong> you must complete the commissions:</p><ul><li>Bantan Sango Case File</li><li>Bantan Sango Case File: The Search (<strong>3 times</strong>)</li><li>Bantan Sango Case File: The Right Identity</li><li>Bantan Sango Case File: Misdirection (<strong>3 times</strong>)</li><li>Bantan Sango Case File: Case-Closing Time</li></ul>",
+            "videoLink": "<a href='https://youtu.be/q5ktC9Sxsw0'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma03": [
+        {
+            "id": "Inazuma-03",
+            "achievement": "Liyue Ichiban",
+            "commission": "Absolutely Unique Delicacy",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Absolutely Unique Delicacy</strong> you must give a <strong>Suspicious dish</strong> to <strong>Tang Wen</strong> during the commission <strong>The Taste of Home</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/87BAmExCmgM'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma04": [
+        {
+            "id": "Inazuma-04",
+            "achievement": "Boom Shaka-Laka, More Boom-Shaka-Laka",
+            "commission": "The Gourmet Supremos: Breakthrough Thinking",
+            "requirement": "Complete the commission after asking Xiangling for ideas.",
+            "notes": "<p class='commission-text'>You must complete the World Quest <strong>The Gourmet Supremos: On the Road</strong> to obtain the commission <strong>The Gourmet Supremos: Breakthrough Thinking</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/ZaGcdZ6VLWU'  target='_blank'>Nepyutsu</a> (First chapter of the video)"
+        }
+    ],
+    "Inazuma05": [
+        {
+            "id": "Inazuma-05",
+            "achievement": "Meal For Two",
+            "commission": "The Gourmet Supremos: Cook-Off",
+            "requirement": "Help Xudong and Kamei Munehisa win their competition once each.",
+            "notes": "<p class='commission-text'>The commission needs to be completed at least <strong>2 times</strong>.<br>Once where <strong>Xudong wins</strong> and once where <strong>Kamei Munehisa wins</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/629-W52csIc'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma06": [
+        {
+            "id": "Inazuma-06",
+            "achievement": "A Question of Diet",
+            "commission": "The Gourmet Supremos: Foodie Quiz",
+            "requirement": "Answer all 3 questions correctly during the commission.",
+            "notes": "<p class='commission-text'>If the recipe is : The answer is</p><ul><li>Northern Apple Stew : Pepper</li><li>Tianshu Meat : Qingxin</li><li>Bamboo Shoot Soup : Bamboo Shoots</li><li>Tri-Flavored Skewer : Bird Eggs</li><li>Black-Back Perch Stew : Salt</li></ul>",
+            "videoLink": "<a href='https://youtu.be/4O0w9PVrARU'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma07": [
+        {
+            "id": "Inazuma-07",
+            "achievement": "Samurice",
+            "commission": "The Gourmet Supremos: Extreme Cookery",
+            "requirement": "Help Kamei Munehisa gather ingredients from both camps.",
+            "notes": "<p class='commission-text'>The commission needs to be completed at least <strong>2 times</strong>.<br>Once by choosing the <strong>right camp</strong> and once by choosing the <strong>left camp</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/cmogOJry_UE'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma08": [
+        {
+            "id": "Inazuma-08",
+            "achievement": "“Sorry for the Trouble!”",
+            "commission": "Post-Sale Service",
+            "requirement": "Collect 10 mushrooms and complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Post-Sale Service</strong> you must give the wrong instructions during the commission <strong>Inazuma Sales Specialist</strong>.</p><p class='commission-text'>To obtain the commission <strong>Inazuma Sales Specialist</strong> you must complete the World Quests <strong>In Another Land</strong> and <strong>The Farmer's Treasure</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/-1VHqgKgx5c'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma09": [
+        {
+            "id": "Inazuma-09",
+            "achievement": "Editorial Opinion",
+            "commission": "This Novel… Seems Familiar? / This Novel Seems… Problematic?",
+            "requirement": "Complete both commissions.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>This Novel… Seems Familiar?</strong> you must support <strong>Shigeru</strong> during the commission <strong>Is This Novel Amazing?</strong>.<br><i>(Keep doing it until you get the commission <strong>This Novel… Seems Familiar?</strong>)</i></p><p class='commission-text'>To obtain the commission <strong>This Novel Seems… Problematic?</strong> you must support <strong>Junkichi</strong> during the commission <strong>Is This Novel Amazing?</strong>.<br><i>(Keep doing it until you get the commission <strong>This Novel Seems… Problematic?</strong>)</i></p><p class='commission-text'><i>If you support one and then the other, the next commission you receive will be random.</i></p>",
+            "videoLink": "<a href='https://youtu.be/eaSpEhNY-dw'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma10": [
+        {
+            "id": "Inazuma-10",
+            "achievement": "You Should Start A Doushin Dojo",
+            "commission": "Ceaseless Training",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Ceaseless Training</strong> you must complete the commission <strong>An Art to Be Honed</strong> (<strong>4 times</strong>) and the World Quest <strong>Battle of Revenge</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/A_PN0UOZC_0'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "SumeruList": [
+        {
+            "title": "Sumeru Commissions",
+            "description": "<p><strong>15</strong> achievements can be obtained during <strong>or</strong> by completing <strong>commissions</strong> in the region of <strong>Sumeru</strong>.</p><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Kalimi's Fungus</strong></p><ul><li>Gold Devouring and Mora Gathering</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>When Wealth Comes A-Knockin'</strong></p><ul><li>Gold Devouring and Mora Gathering</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Catch Me-ow if You Can!</strong></p><ul><li>Meow… Meow meow? Meow! Meow.</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Principia Arithmetica</strong></p><ul><li>Garcia's Paean: Key Items</li><li>Garcia's Paean: Substitutes</li><li>Garcia's Paean: By Bearings</li><li>Garcia's Paean: Easy Peasy</li><li>Garcia's Paean: the Echo of Someone</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>“It's My Job.”</strong></p><ul><li>Attaché in Another Land</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Relaxation Therapy</strong></p><ul><li>Doctor's Orders</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Up by the Roots</strong></p><ul><li>The Flowers That Won't Grow</li><li>When Flowers Bloom</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>The Sky is Vast; The Earth…</strong></p><ul><li>To Measure the World!</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Non-Obligatory Request</strong></p><ul><li>Project Baby</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>The Ship Has It</strong></p><ul><li>Problem Conversion</li><li>Problem Conversion: Theory Reliability</li><li>Problem Conversion: Loading Capacity</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>What's the Matter?</strong></p><ul><li>Eat and Learn</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Scholarly in Sumeru</strong></p><ul><li>Akademiya Q&A</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>One Step Too Far</strong></p><ul><li>Run, Hilmi, Run!</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Doctor's Handwriting</strong></p><ul><li>Good Medicine Is Hard to Come By</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>A Lingering Fragrance</strong></p><ul><li>Desert Bloom</li><li>Blooming Sands: Lasting Scent</li></ul>"
+        }
+    ],
+    "Sumeru01": [
+        {
+            "id": "Sumeru-01",
+            "achievement": "Kalimi's Fungus",
+            "commission": "Gold Devouring and Mora Gathering",
+            "requirement": "Complete the <strong>Fortune</strong> version of the commission.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/5i_sU_DGztw'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru02": [
+        {
+            "id": "Sumeru-02",
+            "achievement": "When Wealth Comes A-Knockin'",
+            "commission": "Gold Devouring and Mora Gathering",
+            "requirement": "Complete the <strong>Apple Cider</strong> version of the commission.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/iaZRQiB1pQE'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru03": [
+        {
+            "id": "Sumeru-03",
+            "achievement": "Catch Me-ow if You Can!",
+            "commission": "Meow… Meow meow? Meow! Meow.",
+            "requirement": "Catch the 3 cats.",
+            "notes": "<p class='commission-text'>The 3 cats are <strong>Rozan</strong>, <strong>Lale</strong> and <strong>Nargis</strong>.<br><i>The cat is selected randomly at the start of the commission.</i></p></p><p class='commission-text'>The correct answer for each cat:<ul><li><strong>Rozan</strong>: Meow meow meow, meow meow meow.</li><li><strong>Lale</strong>: Meow, meow meow meow, meeeeow!</li><li><strong>Nargis</strong>: Meow! Meow meow, meow.</li></ul></p>",
+            "videoLink": "<a href='https://youtu.be/2crAWlyadc4'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru04": [
+        {
+            "id": "Sumeru-04",
+            "achievement": "Principia Arithmetica",
+            "commission": "Garcia's Paean: the Echo of Someone",
+            "requirement": "Complete the commission <strong>3 times</strong>.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Garcia's Paean: the Echo of Someone</strong> you must complete the commissions:</p><ul><li>Garcia's Paean: Key Items (<strong>3 times</strong>)</li><li>Garcia's Paean: Substitutes (<strong>3 times</strong>)</li><li>Garcia's Paean: By Bearings</li><li>Garcia's Paean: Easy Peasy (<strong>4 timestimes</strong>)</li></ul><p class='commission-text'><i>You must complete the World Quest <strong>Garcia's Paean</strong> before you can receive any of the previously mentioned commissions.</i></p>",
+            "videoLink": "<a href='https://youtu.be/Uxj42-lREuQ'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru05": [
+        {
+            "id": "Sumeru-05",
+            "achievement": "“It's My Job.”",
+            "commission": "Attaché in Another Land",
+            "requirement": "Collect <strong>more than 5 mushrooms</strong> and complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Attaché in Another Land</strong> you must complete the World Quest Series <strong>Tatara Tales</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/c61e9uTfHCs'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru06": [
+        {
+            "id": "Sumeru-06",
+            "achievement": "Relaxation Therapy",
+            "commission": "Doctor's Orders",
+            "requirement": "Fulfill the 3 patients' wishes.",
+            "notes": "<ul><li><strong>Aftab</strong>: Give Delicious Steak</li><li><strong>Azra</strong>: Give Sugar</li><li><strong>Gurgen</strong>: Destroy the shrubs in his garden (The commission requires returning to talk to him once completed)</li></ul>",
+            "videoLink": "<a href='https://youtu.be/Lf77ZXS5CyI'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru07": [
+        {
+            "id": "Sumeru-07",
+            "achievement": "Up by the Roots",
+            "commission": "When Flowers Bloom",
+            "requirement": "Defeat the Whopperflower after the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>When Flowers Bloom</strong> you must complete the commission <strong>The Flowers That Won't Grow</strong> several times.</p><p class='commission-text'><i>The Whopperflower is not guaranteed to appear at the end of the commission, if it appears you must go kill it and avoid teleporting so it does not despawn.</i></p>",
+            "videoLink": "<a href='https://youtu.be/102zhFe2xe4'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru08": [
+        {
+            "id": "Sumeru-08",
+            "achievement": "The Sky is Vast; The Earth…",
+            "commission": "To Measure the World!",
+            "requirement": "Complete the <strong>3 versions</strong> of the commission.",
+            "notes": "<p class='commission-text'>The versions are <strong>Setting beacons up</strong>, <strong>Retrieving beacons</strong> and <strong>Defeating enemies</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/4sNxlobde_Y'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru09": [
+        {
+            "id": "Sumeru-09",
+            "achievement": "Non-Obligatory Request",
+            "commission": "Project Baby",
+            "requirement": "Find all 3 snake toys of Gulabgir.",
+            "notes": "<p class='commission-text'>There are 5 versions of this commission, 3 of them are required to get the achievement.</p><p class='commission-text'>The items to collect are:</p><ul><li><strong> Shabby Rack</strong> in the camp with <strong>rockslide</strong></li><li><strong>Strange Bead</strong> in the camp with <strong>Fungi</strong></li><li><strong> Strange Tiny Hats</strong> in the camp with <strong>tree and bird nests</strong></li></ul>",
+            "videoLink": "<a href='https://youtu.be/X32DlYUAPRQ'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru10": [
+        {
+            "id": "Sumeru-10",
+            "achievement": "The Ship Has It",
+            "commission": "Problem Conversion: Loading Capacity",
+            "requirement": "Complete the commission after collecting 5 planks in the previous commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Problem Conversion: Loading Capacity</strong> you must complete the commissions:</p><ul><li>Problem Conversion</li><li>Problem Conversion: Theory Reliability</li></ul><p class='commission-text'><i>You must collect the 5 planks during the commission <strong>Problem Conversion: Theory Reliability</strong>.</i></p>",
+            "videoLink": "<a href='https://youtu.be/lUn3UhFybNM'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru11": [
+        {
+            "id": "Sumeru-11",
+            "achievement": "What's the Matter?",
+            "commission": "Eat and Learn",
+            "requirement": "Complete the <strong>3 versions</strong> of the commission.",
+            "notes": "<p class='commission-text'>The versions are <strong>Raw Meat</strong>, <strong>Mint</strong> and <strong>Potato</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/FNPBiqPrlpU'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru12": [
+        {
+            "id": "Sumeru-12",
+            "achievement": "Scholarly in Sumeru",
+            "commission": "Akademiya Q&A",
+            "requirement": "Answer correctly to the 6 questions of the commission.",
+            "notes": "<p class='commission-text'>3 questions are asked randomly during the commission.<br>The answers are <strong>Amurta</strong>, <strong>Spantamad</strong>, <strong>Divine Tree</strong>, <strong>Wall of Samiel</strong>, <strong>Sumpter Beast</strong> et <strong>Fungi</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/UKWkm42_7Ms'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru13": [
+        {
+            "id": "Sumeru-13",
+            "achievement": "One Step Too Far",
+            "commission": "Run, Hilmi, Run!",
+            "requirement": "Let Hilmi win the race.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/hwCiWneTh6A'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru14": [
+        {
+            "id": "Sumeru-14",
+            "achievement": "Doctor's Handwriting",
+            "commission": "Good Medicine Is Hard to Come By",
+            "requirement": "Convey the correct prescription.",
+            "notes": "<p class='commission-text'>There are 3 versions for this commission so 3 different prescriptions:</p><p class='commission-text'>For the version <strong>Can't see well</strong> you must select:</p><ul><li>Starshroom</li><li>A high flame first, and then a low flame</li><li>Until the soup deepens in color</li></ul><p class='commission-text'>For the version <strong>Stomachache</strong> you must select:</p><ul><li>Henna Berry</li><li>Brew on a low flame throughout</li><li>Until the ingredients turn mushy</li></ul><p class='commission-text'>For the version <strong>Headache</strong> you must select:</p><ul><li>Mint</li><li>Brew on a high flame throughout</li><li>Until the ingredients float</li></ul>",
+            "videoLink": "<a href='https://youtu.be/jbr-5Y1uav8'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru15": [
+        {
+            "id": "Sumeru-15",
+            "achievement": "A Lingering Fragrance",
+            "commission": "Blooming Sands: Lasting Scent",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Blooming Sands: Lasting Scent</strong> you must complete the 3 versions of the commission <strong>Desert Bloom</strong>.</p><p class='commission-text'>The versions of the commission <strong>Desert Bloom</strong> are <strong>Zaytun Peach</strong>, <strong>Lazy Kitten</strong> and <strong>Watering Plants</strong>.</p><p class='commission-text'><i>To obtain the commission <strong>Desert Bloom</strong> you must complete the World Quest <strong>Blooming Sands</strong>.</i></p><p class='commission-text'><i>It is possible to change the version of the commission <strong>Desert Bloom</strong> by disconnecting during the first dialogue.</i>",
+            "videoLink": "<a href='https://youtu.be/GmaDxVOccWc'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "FontaineList": [
+        {
+            "title": "Fontaine Commissions",
+            "description": "<p><strong>5</strong> achievements can be obtained during <strong>or</strong> by completing <strong>commissions</strong> in the region of <strong>Fontaine</strong>.</p><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Office on the Avenue</strong></p><ul><li>Tales From the Court</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Not Your Average Joe</strong></p><ul><li>Get a Drink at Least!</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Aesthetic Critique</strong></p><ul><li>Aesthetic Critique: Principles of Aesthetics</li><li>Aesthetic Critique: Practice of Aesthetics</li><li>Aesthetic Critique: Self-Critique</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Second Childhood</strong></p><ul><li>Their Childhood</li><li>Their Childhood: Time Waits for No One</li><li>Their Childhood: City Caper</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>New Inspiration! New Products!</strong></p><ul><li>Refreshing Fonta, a Font of Refreshment!</li><li>Time to Drink</li></ul>"
+        }
+    ],
+    "Fontaine01": [
+        {
+            "id": "Fontaine-01",
+            "achievement": "Office on the Avenue",
+            "commission": "Tales From the Court",
+            "requirement": "Complete the <strong>3 versions</strong> of the commission.",
+            "notes": "<p class='commission-text'>The versions are <strong>Isadora</strong>, <strong>Livre</strong> and <strong>Staelle</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/KA39qebZ3CU'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Fontaine02": [
+        {
+            "id": "Fontaine-02",
+            "achievement": "Not Your Average Joe",
+            "commission": "Get a Drink at Least!",
+            "requirement": "Complete the commission <strong>3 times without failing</strong>.",
+            "notes": "<p class='commission-text'>The first two times he will ask you to make a recipe, the third time he will ask you to choose an ingredient.</p><p class='commission-text'>The recipes are:</p><ul><li><strong>Latte</strong>: Coffee, Milk then Milk foam</li><li><strong>Clarity Coffee</strong>: Coffee then Water</li><li><strong>Milk Coffee</strong>: Coffee, Milk then Cream</li><li><strong>Espresso</strong>: Coffee then Coffee</li></ul>",
+            "videoLink": "<a href='https://youtu.be/NCnHqD2p5Us'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Fontaine03": [
+        {
+            "id": "Fontaine-03",
+            "achievement": "Aesthetic Critique",
+            "commission": "Aesthetic Critique: Self-Critique",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Aesthetic Critique: Self-Critique</strong> you must complete the commissions:</p><ul><li>Aesthetic Critique: Principles of Aesthetics (<strong>2 times</strong>)</li><li>Aesthetic Critique: Practice of Aesthetics</li></ul>",
+            "videoLink": "<a href='https://youtu.be/zHdH4gl4opM'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Fontaine04": [
+        {
+            "id": "Fontaine-04",
+            "achievement": "Second Childhood",
+            "commission": "Their Childhood: City Caper",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Their Childhood: City Caper</strong> you must complete the commissions:</p><ul><li>Their Childhood (<strong>2 times</strong>)</li><li>Their Childhood: Time Waits for No One</li></ul>",
+            "videoLink": "<a href='https://youtu.be/QrqePLEW-jo'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Fontaine05": [
+        {
+            "id": "Fontaine-05",
+            "achievement": "New Inspiration! New Products!",
+            "commission": "Time to Drink",
+            "requirement": "Complete the commission.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Time to Drink</strong> you must complete the commission <strong>Refreshing Fonta, a Font of Refreshment!</strong> (<strong>3 times</strong>).</p>",
+            "videoLink": "<a href='https://youtu.be/mTGTHOMEma0'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "NatlanList": [
+        {
+            "title": "Natlan Commissions",
+            "description": "<p><strong>7</strong> achievements can be obtained during <strong>or</strong> by completing <strong>commissions</strong> in the region of <strong>Natlan</strong>.</p><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Saurian's Cradle</strong></p><ul><li>How to Make Friends</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Natlan Academic</strong></p><ul><li>Hmm? Natlan?</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>“Hora, Come Here—”</strong></p><ul><li>Tending to a Tepetlisaurus</li><li>Tending to a Tepetlisaurus: In Need of a Trim</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Music Never Dies!</strong></p><ul><li>Prophets of Pop</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Victory From the Flying Leaves</strong></p><ul><li>Saurian Versus Mountain</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Inspiration Walk</strong></p><ul><li>Sharpshooter on Hand</li></ul><p><img src='/images/emotes/achievement.webp' class='emote' alt='Achievement'></img> <strong>Citius, Altius, Fortius!</strong></p><ul><li>Grow Up Quickly, Littl'Un</li></ul>"
+        }
+    ],
+    "Natlan01": [
+        {
+            "id": "Natlan-01",
+            "achievement": "Saurian's Cradle",
+            "commission": "How to Make Friends",
+            "requirement": "Complete the commission by choosing to comfort the Yumkasaurus. (<strong>3 times</strong>)",
+            "notes": "<p class='commission-text'>The option to choose is <strong>I'd suggest you focus on the comforting.</strong>.</p>",
+            "videoLink": null
+        }
+    ],
+    "Natlan02": [
+        {
+            "id": "Natlan-02",
+            "achievement": "Natlan Academic",
+            "commission": "Hmm? Natlan?",
+            "requirement": "Complete the commission by correctly answering all questions.",
+            "notes": "<p class='commission-text'>Who are the companions of the Children of Echoes? What is their true name?<br><ul><li><strong>Tepetlisaurus</strong></li></ul></p><p class='commission-text'>What is the name of the tribe where the Yumkasaurs live?<br><ul><li><strong>The Scions of the Canopy</strong></li></ul></p><p class='commission-text'>Natlan has a certain thing. It can be used for forging ... What's the name of that thing?<br><ul><li><strong>Phlogiston</strong></li></ul></p><p class='commission-text'>Who are the companions of the People of the Springs? What is their true name?<br><ul><li><strong>Koholasaurus</strong></li></ul></p><p class='commission-text'>In Natlan, there is a type of mushroom that contains phlogiston. What is its name?<br><ul><li><strong>Candlecap Mushroom</strong></li></ul></p><p class='commission-text'>In Natlan, there is a type of flower that contains phlogiston. What is its name?<br><ul><li><strong>Embercore Flower</strong></li></ul>",
+            "videoLink": "<a href='https://youtu.be/4SNuTeBGvT8'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Natlan03": [
+        {
+            "id": "Natlan-03",
+            "achievement": "“Hora, Come Here—”",
+            "commission": "Tending to a Tepetlisaurus: In Need of a Trim",
+            "requirement": "Complete the commission <strong>without trimming</strong> Hora's claws.",
+            "notes": "<p class='commission-text'>To obtain the commission <strong>Tending to a Tepetlisaurus: In Need of a Trim</strong> you must complete the commission <strong>Tending to a Tepetlisaurus</strong>.</p>",
+            "videoLink": "<a href='https://youtu.be/schCa31CwM4'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Natlan04": [
+        {
+            "id": "Natlan-04",
+            "achievement": "Music Never Dies!",
+            "commission": "Prophets of Pop",
+            "requirement": "Bring back the intact record.",
+            "notes": "<p class='commission-text'>The record is found on a crate, do not destroy this crate to avoid damaging the record.</p><p class='commission-text'><i><strong>Milu Nui</strong> asks to retrieve the record after completing the commission <strong>Prophets of Pop</i></strong> at least once.</p>",
+            "videoLink": "<a href='https://youtu.be/OEVxPTfbnjA'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Natlan05": [
+        {
+            "id": "Natlan-05",
+            "achievement": "Victory From the Flying Leaves",
+            "commission": "Saurian Versus Mountain",
+            "requirement": "Reach the destination within the time limit.",
+            "notes": "<p class='commission-text'>This commission has <strong>two versions</strong>. If the commission does not require <strong>climbing a mountain</strong>, there is no achievement to get.</p>",
+            "videoLink": "<a href='https://youtu.be/xlr1wnhf_zU'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Natlan06": [
+        {
+            "id": "Natlan-06",
+            "achievement": "Inspiration Walk",
+            "commission": "Sharpshooter on Hand",
+            "requirement": "Complete the main task and the optional task.",
+            "notes": "<p class='commission-text'>This commission has <strong>3 versions</strong> so the tasks differ depending on the version.</p><p class='commission-text'>Photos to take for the optional tasks:</p><ul><li><strong>Djembe Studios</strong>: Two other famous stores</li><li><strong>Stage Tepetl</strong>: Large gemstone shop</li><li><strong>Courier's Longhouse</strong>: Huge mural at the cliffs</li></ul>",
+            "videoLink": "<a href='https://youtu.be/YSJlXjtrbOg'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Natlan07": [
+        {
+            "id": "Natlan-07",
+            "achievement": "Citius, Altius, Fortius!",
+            "commission": "Grow Up Quickly, Littl'Un",
+            "requirement": "Complete the commission.",
+            "notes": null,
+            "videoLink": "<a href='https://youtu.be/KqLNqJzo7Rg'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "SnezhnayaList": [
+        {
+            "title": "Snezhnaya Commissions",
+            "description": "<strong><img src='/images/emotes/cryo.webp' class='emote' alt='Cryo'> I do not work at HoYoverse.</strong>"
+        }
+    ]
+}

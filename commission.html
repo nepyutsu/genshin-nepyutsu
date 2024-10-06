@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="dark">
+
+<head>
+
+    <title>Quotidiennes | Nepyutsu</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="icon" type="image/x-icon" href="/images/logo.ico?v=1.0.0">
+
+    <!-- Meta Data -->
+    <meta name="description"
+        content="Liste des missions quotidiennes permettant d'obtenir des succès, ainsi que toutes les informations sur la manière de les obtenir.">
+    <meta name="keywords" content="nepyutsu, quotidiennes, succès, commissions, achievements, genshin impact">
+    <meta name="author" content="Nepyutsu">
+
+    <meta property="og:title" content="Quotidiennes | Nepyutsu">
+    <meta property="og:description"
+        content="Liste des missions quotidiennes permettant d'obtenir des succès, ainsi que toutes les informations sur la manière de les obtenir.">
+    <meta property="og:image" content="https://genshin.nepyutsu.com/images/logo.webp?v=1.0.0">
+    <meta property="og:url" content="https://genshin.nepyutsu.com/commission">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Nepyutsu">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Quotidiennes | Nepyutsu">
+    <meta name="twitter:description"
+        content="Liste des missions quotidiennes permettant d'obtenir des succès, ainsi que toutes les informations sur la manière de les obtenir.">
+    <meta name="twitter:image" content="https://genshin.nepyutsu.com/images/logo.webp?v=1.0.0">
+    <meta name="twitter:site" content="@Nepyutsu">
+
+    <link rel="canonical" href="https://genshin.nepyutsu.com/commission">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/styles/layout.css?v=1.0.0">
+    <link rel="stylesheet" href="/styles/common.css?v=1.0.0">
+    <link rel="stylesheet" href="/styles/themes.css?v=1.0.0">
+
+    <link rel="stylesheet" href="/styles/pages/commission.css?v=1.0.0">
+
+    <!-- Scripts -->
+    <script src="/components/header.js?v=1.0.0"></script>
+    <script src="/components/footer.js?v=1.0.0"></script>
+    <script src="/scripts/themeManager.js?v=1.0.0"></script>
+
+    <script src="/scripts/langManager.js?v=1.0.0"></script>
+    <script src="/scripts/langApplier.js?v=1.0.0"></script>
+    <script src="/scripts/commissionManager.js"></script>
+
+</head>
+
+<body>
+
+    <!-- NoScript -->
+    <noscript>
+        <div class="noscript-container">
+            <p><strong>Please enable JavaScript.</strong></p>
+        </div>
+    </noscript>
+
+    <!-- Navigation Bar -->
+    <navigation-bar class="navigation-bar hidden"></navigation-bar>
+
+    <!-- Main Body -->
+    <main>
+
+        <div class="background-image"></div>
+
+        <div class="content hidden">
+            <div class="region-selector no-animation">
+                <button class="region-button" data-region="mondstadt">Mondstadt</button>
+                <button class="region-button" data-region="liyue">Liyue</button>
+                <button class="region-button" data-region="inazuma">Inazuma</button>
+                <button class="region-button" data-region="sumeru">Sumeru</button>
+                <button class="region-button" data-region="fontaine">Fontaine</button>
+                <button class="region-button" data-region="natlan">Natlan</button>
+                <button class="region-button" data-region="snezhnaya">Snezhnaya</button>
+            </div>
+
+            <div class="commission-container">
+                <div class="commission-list">
+                    <div class="first-button-container no-animation"></div>
+                    <div class="other-buttons-container no-animation"></div>
+                </div>
+
+                <div class="commission-details no-animation" id="commission-details">
+                </div>
+
+            </div>
+
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <special-footer class="special-footer hidden"></special-footer>
+
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+{
+    "header": {
+        "home": "Home",
+        "chest": "Chests",
+        "commission": "Commissions"
+    },
+    "sidebar": {
+        "navigation": "Navigation",
+        "lang": "Language",
+        "langFrench": "French",
+        "langEnglish": "English",
+        "theme": "Theme",
+        "themeLight": "Light",
+        "themeDark": "Dark",
+        "themeRed": "Red",
+        "themeGreen": "Green",
+        "themeBlue": "Blue",
+        "themePurple": "Purple",
+        "themeBeige": "Beige",
+        "themeBrown": "Brown"
+    },
+    "footer": {
+        "socials": "My Socials",
+        "socialsLink1": "<a href='https://www.youtube.com/@Nepyutsu'  target='_blank'>YouTube</a>",
+        "socialsLink2": "<a href='https://discord.com/invite/fYPVqu6Veh'  target='_blank'>Discord</a>",
+        "socialsLink3": "<a href='https://www.twitch.tv/nepyutsu'  target='_blank'>Twitch</a>",
+        "misc": "Misc",
+        "miscLink1": "<a href='https://github.com/nepyutsu/genshin-nepyutsu'  target='_blank'>Source Code</a>",
+        "miscLink2": "<a href='/privacy.html'>Privacy Policy</a>",
+        "miscLink3": "<a href='mailto:website@nepyutsu.com'>website@nepyutsu.com</a>",
+        "disclaimer": "Website not affiliated with HoYoverse.<br>Genshin Impact and all associated content and materials are registered trademarks of HoYoverse."
+    }
+}

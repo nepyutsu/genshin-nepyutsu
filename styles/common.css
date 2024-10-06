@@ -1,0 +1,74 @@
+/* COMMON */
+
+html {
+    overflow-y: scroll;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    color: var(--text-color);
+    background-color: var(--secondary-color);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.noscript-container {
+    height: 100vh;
+    display: flex;
+    font-size: 2.5rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--secondary-color);
+}
+
+.background-image {
+    width: 100%;
+    z-index: -1;
+    height: 100vh;
+    position: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.no-animation {
+    animation: none !important;
+}
+
+/* REGION BUTTON */
+
+.region-selector {
+    gap: 8px;
+    opacity: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.region-button {
+    width: 100%;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    max-width: 150px;
+    border-radius: 20px;
+    color: var(--text-color);
+    background-color: var(--primary-color);
+    border: 2px solid var(--secondary-color);
+}
+
+.region-button.active {
+    font-weight: bold;
+    border: 2px solid var(--primary-color);
+    background-color: var(--secondary-color);
+}
+
+.region-button:hover {
+    transform: translateY(-2px);
+}

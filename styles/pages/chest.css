@@ -1,0 +1,76 @@
+.content {
+    gap: 10px;
+    display: flex;
+    max-width: 800px;
+    align-items: center;
+    flex-direction: column;
+    margin: 100px auto 30px;
+}
+
+.region-info {
+    width: 90%;
+    opacity: 0;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 16px;
+    color: var(--text-color);
+    padding: 0px 20px 20px 20px;
+    animation: load 1s 0.25s forwards;
+    border: 3px solid var(--primary-color);
+    background-color: var(--secondary-color);
+}
+
+.region-info h2 {
+    font-size: 24px;
+    text-align: center;
+    margin: 20px 0px;
+    text-decoration: underline;
+}
+
+.region-info p {
+    font-size: 18px;
+}
+
+.region-info ul {
+    margin-top: 8px;
+}
+
+.region-info li {
+    margin-top: 4px;
+}
+
+.region-info a:link {
+    text-decoration: none;
+    color: var(--hypertext-color);
+}
+
+.region-info a:hover {
+    text-decoration: underline;
+}
+
+.region-info a:visited {
+    color: var(--hypertext-color);
+}
+
+.emote {
+    width: 18px;
+    height: 18px;
+    vertical-align: text-top;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 1));
+}
+
+.region-selector {
+    animation: load 1s 0s forwards;
+}
+
+@keyframes load {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
