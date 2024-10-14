@@ -2,11 +2,9 @@
 <html lang="fr" data-theme="dark">
 
 <head>
-
-    <title>Coffres | Nepyutsu</title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <link rel="icon" type="image/x-icon" href="/images/logo.ico?v=1.0.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Coffres | Nepyutsu</title>
 
     <!-- Meta Data -->
     <meta name="description"
@@ -17,33 +15,27 @@
     <meta property="og:title" content="Coffres | Nepyutsu">
     <meta property="og:description"
         content="Nombre maximal possible de défis, fées et coffres dans toutes les catégories de succès de Genshin Impact.">
-    <meta property="og:image" content="https://genshin.nepyutsu.com/images/logo.webp?v=1.0.0">
+    <meta property="og:image" content="https://genshin.nepyutsu.com/images/logo.webp">
     <meta property="og:url" content="https://genshin.nepyutsu.com/chest">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Nepyutsu">
 
+    <link rel="icon" type="image/x-icon" href="/images/logo.ico">
     <link rel="canonical" href="https://genshin.nepyutsu.com/chest">
 
     <!-- CSS -->
-    <link rel="stylesheet" href="/styles/layout.css?v=1.0.0">
-    <link rel="stylesheet" href="/styles/common.css?v=1.0.0">
-    <link rel="stylesheet" href="/styles/themes.css?v=1.0.0">
-
-    <link rel="stylesheet" href="/styles/pages/chest.css?v=1.0.0">
+    <link rel="stylesheet" href="/styles/layout.css?v=2">
+    <link rel="stylesheet" href="/styles/themes.css?v=1">
+    <link rel="stylesheet" href="/styles/pages.css?v=1">
 
     <!-- Scripts -->
-    <script src="/components/header.js?v=1.0.0"></script>
-    <script src="/components/footer.js?v=1.0.0"></script>
-    <script src="/scripts/themeManager.js?v=1.0.0"></script>
-
-    <script src="/scripts/langManager.js?v=1.0.0"></script>
-    <script src="/scripts/langApplier.js?v=1.0.0"></script>
-    <script src="/scripts/chestManager.js"></script>
-
+    <script src="/components/layout.js?v=1"></script>
+    <script src="/scripts/theme.js?v=1"></script>
+    <script src="/scripts/lang.js?v=1"></script>
+    <script src="/scripts/chest.js?v=1"></script>
 </head>
 
 <body>
-
     <!-- NoScript -->
     <noscript>
         <div class="noscript-container">
@@ -56,9 +48,7 @@
 
     <!-- Main Body -->
     <main>
-
         <div class="background-image"></div>
-
         <div class="content hidden">
             <div class="region-selector no-animation">
                 <button class="region-button" data-region="mondstadt">Mondstadt</button>
@@ -69,19 +59,15 @@
                 <button class="region-button" data-region="natlan">Natlan</button>
                 <button class="region-button" data-region="snezhnaya">Snezhnaya</button>
             </div>
-
             <div class="region-info no-animation" id="region-info">
                 <h2 id="region-title"></h2>
                 <p id="region-description"></p>
             </div>
-
         </div>
-
     </main>
 
     <!-- Footer -->
     <special-footer class="special-footer hidden"></special-footer>
-
 </body>
 
 </html>
