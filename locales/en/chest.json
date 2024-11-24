@@ -102,9 +102,12 @@
             "title": "Chests in the Natlan Region",
             "description": [
                 "<strong><img src='/images/emotes/pyro.webp' class='emote'> Natlan: The Land of Fire and Competition (I)</strong>",
-                "<ul><li><strong>17</strong> <img src='/images/emotes/challenge.webp' class='emote'>, <strong>40</strong> <img src='/images/emotes/monetoo.webp' class='emote'> and <strong>407</strong> <img src='/images/emotes/chest.webp' class='emote'></ul></li>",
+                "<ul><li><strong>17</strong> <img src='/images/emotes/challenge.webp' class='emote'>, <strong>40</strong> <img src='/images/emotes/monetoo.webp' class='emote'> and <strong>408</strong> <img src='/images/emotes/chest.webp' class='emote'></ul></li>",
+                "<strong><img src='/images/emotes/pyro.webp' class='emote'> Natlan: The Land of Fire and Competition (II)</strong>",
+                "<ul><li><strong>11</strong> <img src='/images/emotes/challenge.webp' class='emote'>, <strong>12</strong> <img src='/images/emotes/monetoo.webp' class='emote'> and <strong>202</strong> <img src='/images/emotes/chest.webp' class='emote'></ul></li>",
                 "<strong><img src='/images/emotes/youtube.webp' class='emote'> Vidéos</strong>",
-                "<ul><li><a href='https://youtu.be/L5JXbqbwxVA' target='_blank'>Natlan: The Land of Fire and Competition (I)</a></li></ul>"
+                "<ul><li>Natlan: The Land of Fire and Competition (I) (<a href='https://youtu.be/L5JXbqbwxVA' target='_blank'>Part 1</a> | <a href='https://youtu.be/U0uOaDNXzdA' target='_blank'>Part 2</a>)</li>",
+                "<li><a href='https://youtu.be/ZZyFRXSDrXU' target='_blank'>Natlan: The Land of Fire and Competition (II)</a></li></ul>"
             ]
         }
     ],
