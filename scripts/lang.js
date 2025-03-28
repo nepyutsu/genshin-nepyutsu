@@ -137,7 +137,6 @@ function applyHomeText(data) {
     document.title = `${data.page} | Nepyutsu`;
     document.getElementById('description-title').innerHTML = data.description;
     document.getElementById('sources-title').innerHTML = `<u>${data.sources}</u>`;
-    document.getElementById('notice-text').innerHTML = data.notice;
 
     const sources = [
         { id: 'sources-title-1', href: 'https://docs.google.com/spreadsheets/d/1J24Rnn5-j4pDWB0ann_tYYj28_YJs67gY2sDLODzenM/edit', text: data.title1 },

@@ -398,6 +398,36 @@
             "videoLink": "<a href='https://youtu.be/A_PN0UOZC_0'  target='_blank'>Nepyutsu</a>"
         }
     ],
+    "Inazuma11": [
+        {
+            "id": "Inazuma-11",
+            "achievement": "Her and Her Cat",
+            "commission": "A Fishy Flavor / Shrine Cleanup / The Cat's Trail",
+            "requirement": "Complete the World Quest <strong>The Narukami Trail</strong>.",
+            "notes": "<p class='commission-text'>To obtain the World Quest <strong>The Narukami Trail</strong> you must complete 4 times the commissions related to Neko.</p><p class='commission-text'><ul><li>A Fishy Flavor</li><li>Shrine Cleanup</li><li>The Cat's Trail</li></ul></p><p class='commission-text'><i>To obtain the commissions related to Neko you must complete the World Quest Series <strong>Neko Is a Cat</strong>.</i></p>",
+            "videoLink": "<a href='https://youtu.be/tPDF1gDdnxM'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma12": [
+        {
+            "id": "Inazuma-12",
+            "achievement": "Well, At Least It Ended",
+            "commission": "This Novel... Seems Familiar? / This Novel Seems... Problematic?",
+            "requirement": "Complete the World Quest <strong>Storytelling Method</strong>.",
+            "notes": "<p class='commission-text'>To obtain the World Quest <strong>Storytelling Method</strong> you must complete the World Quests <strong>This Novel... Seems Familiar?</strong> and <strong>This Novel Seems... Problematic?</strong>.</p><p class='commission-text'><i>The information to obtain these commissions can be found in the achievement <strong>Editorial Opinion</strong>.</i></p>",
+            "videoLink": "<a href='https://youtu.be/WjBOG3QV0RQ'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma13": [
+        {
+            "id": "Inazuma-13",
+            "achievement": "Don't Blame the Mora!",
+            "commission": "The Gourmet Supremos: Where'd the Ingredients Go?",
+            "requirement": "Complete the World Quest <strong>Gourmet Supremos: Within Our Duties</strong>.",
+            "notes": "<p class='commission-text'>To obtain the World Quest <strong>Gourmet Supremos: Within Our Duties</strong> you must:<ul><li>Complete the <strong>Chapter 3: Acte 2</strong> of the <strong>Archon Quest</strong></li><li>Obtain the achievement <strong>Meal for Two</strong></li><li>Obtain the achievement <strong>A Question of Diet</strong></li><li>Obtain the achievement <strong>Samurice</strong></li><li>Complete the commission <strong>The Gourmet Supremos: Where'd the Ingredients Go?</strong></li></ul></p><p class='commission-text'><i>Once unlocked, the World Quest begins in <strong>Sumeru</strong>.</i></p>",
+            "videoLink": "<a href='https://youtu.be/-A2QXKSfqbE'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
     "SumeruList": [
         {
             "title": "Sumeru Commissions",
@@ -552,6 +582,26 @@
             "requirement": "Complete the commission.",
             "notes": "<p class='commission-text'>To obtain the commission <strong>Blooming Sands: Lasting Scent</strong> you must complete the 3 versions of the commission <strong>Desert Bloom</strong>.</p><p class='commission-text'>The versions of the commission <strong>Desert Bloom</strong> are <strong>Zaytun Peach</strong>, <strong>Lazy Kitten</strong> and <strong>Watering Plants</strong>.</p><p class='commission-text'><i>To obtain the commission <strong>Desert Bloom</strong> you must complete the World Quest <strong>Blooming Sands</strong>.</i></p><p class='commission-text'><i>It is possible to change the version of the commission <strong>Desert Bloom</strong> by disconnecting during the first dialogue.</i>",
             "videoLink": "<a href='https://youtu.be/GmaDxVOccWc'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru16": [
+        {
+            "id": "Sumeru-16",
+            "achievement": "Aha! What's on the Hook?",
+            "commission": "Supreme Hookshot?",
+            "requirement": "Complete the World Quest <strong>Cost-Effective Hook</strong>.",
+            "notes": "<p class='commission-text'>The World Quest <strong>Cost-Effective Hook</strong> is obtained by completing 3 times the commission <strong>Supreme Hookshot?</strong>.",
+            "videoLink": "<a href='https://youtu.be/-dE6wfkho_o'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru17": [
+        {
+            "id": "Sumeru-17",
+            "achievement": "In Those Ruins of Dreams...",
+            "commission": "Garcia's Paean: Key Items / Garcia's Paean: Substitutes",
+            "requirement": "Complete the World Quest <strong>Daydreams Beyond Space and Time</strong>.",
+            "notes": "<p class='commission-text'>To obtain the World Quest <strong>Daydreams Beyond Space and Time</strong> you must complete the World Quest <strong>Where His Life Lies</strong>.</p><p class='commission-text'>To obtain the World Quest <strong>Where His Life Lies</strong> you must complete the <strong>Chapter IV: Act V</strong> of <strong>the Archon Quest</strong> and <strong>2 times</strong> the commissions <strong>Garcia's Paean: Key Items</strong> or <strong>Garcia's Paean: Substitutes</strong> (After obtaining the achievement <strong>Principia Arithmetica</strong>).</p><p class='commission-text'><i>This achievement is a direct continuation of the achievement <strong>Principia Arithmetica</strong>.</i></p>",
+            "videoLink": "<a href='https://youtu.be/h9edmwSYNh0'  target='_blank'>Where His Life Lies</a> - <a href='https://youtu.be/yZzSha0EvRc'  target='_blank'>Daydreams Beyond Space and Time</a>"
         }
     ],
     "FontaineList": [

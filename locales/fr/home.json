@@ -1,8 +1,7 @@
 {
     "page": "Accueil",
     "description": "<p>Ce site a pour objectif de répertorier le nombre maximal de défis, fées et coffres pour chaque catégorie de succès, ainsi que les informations sur les méthodes d'obtention des succès liés aux missions quotidiennes.<br>Des listes de missions quotidiennes en lien avec des succès sont également disponibles.</p><p><i>Dernière mise à jour: <u>24 Novembre 2024</u></i></p>",
-    "notice": "",
-    "sources": "Sources utilisés",
+    "sources": "Sources utilisées",
     "title1": "NPC commission pool",
     "description1": "Le document contient l'intégralité des missions quotidiennes impliquant des PNJs. Les missions quotidiennes sont triées par région, avec une colonne sur le côté listant les prérequis nécessaires pour les obtenir, ainsi qu'une autre dédiée aux succès, dans le cas où la mission permet d'en débloquer un.",
     "title2": "Genshin Impact Chest Count",

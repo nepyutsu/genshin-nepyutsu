@@ -398,6 +398,36 @@
             "videoLink": "<a href='https://youtu.be/A_PN0UOZC_0'  target='_blank'>Nepyutsu</a>"
         }
     ],
+    "Inazuma11": [
+        {
+            "id": "Inazuma-11",
+            "achievement": "Son chat et elle",
+            "commission": "La saveur du poisson / Grand ménage au sanctuaire / Sur la piste du chat",
+            "requirement": "Compléter la Quête du monde <strong>La piste de Narukami</strong>.",
+            "notes": "<p class='commission-text'>Pour obtenir la Quête du monde <strong>La piste de Narukami</strong> il faut compléter 4 fois les missions quotidiennes en rapport avec Neko.</p><p class='commission-text'><ul><li>La saveur du poisson</li><li>Grand ménage au sanctuaire</li><li>Sur la piste du chat</li></ul></p><p class='commission-text'><i>Pour obtenir les missions quotidiennes en rapport avec Neko il faut compléter la Série de Quêtes du monde <strong>Neko est un chat</strong>.</i></p>",
+            "videoLink": "<a href='https://youtu.be/tPDF1gDdnxM'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma12": [
+        {
+            "id": "Inazuma-12",
+            "achievement": "Au moins, il y a une fin",
+            "commission": "Un roman... familier ? / Un roman... problématique ?",
+            "requirement": "Compléter la Quête du monde <strong>Structuration de l'intrigue</strong>.",
+            "notes": "<p class='commission-text'>Pour obtenir la Quête du monde <strong>Structuration de l'intrigue</strong> il faut compléter les missions quotidiennes <strong>Un roman... familier ?</strong> et <strong>Un roman... problématique ?</strong>.</p><p class='commission-text'><i>Les informations pour obtenir ces missions quotidiennes se trouvent dans le succès <strong>Commentaire éditorial</strong>.</i></p>",
+            "videoLink": "<a href='https://youtu.be/WjBOG3QV0RQ'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Inazuma13": [
+        {
+            "id": "Inazuma-13",
+            "achievement": "Pas la faute des moras !",
+            "commission": "Les Gourmets suprêmes : Où sont les ingrédients ?",
+            "requirement": "Compléter la Quête du monde <strong>Les Gourmets suprêmes : Parmi nos responsabilités</strong>.",
+            "notes": "<p class='commission-text'>Pour obtenir la Quête du monde <strong>Les Gourmets suprêmes : Parmi nos responsabilités</strong> il faut:<ul><li>Compléter l'<strong>Acte 2</strong> du <strong>Chapitre 3</strong> de la <strong>Quête d'Archons</strong></li><li>Obtenir le succès <strong>Repas pour deux</strong></li><li>Obtenir le succès <strong>Une question de régime</strong></li><li>Obtenir le succès <strong>Samouriz</strong></li><li>Compléter la mission quotidienne <strong>Les Gourmets suprêmes : Où sont les ingrédients ?</strong></li></ul></p><p class='commission-text'><i>Une fois débloquée, la Quête du monde se commence à <strong>Sumeru</strong>.</i></p>",
+            "videoLink": "<a href='https://youtu.be/-A2QXKSfqbE'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
     "SumeruList": [
         {
             "title": "Quotidiennes de Sumeru",
@@ -552,6 +582,26 @@
             "requirement": "Compléter la mission quotidienne.",
             "notes": "<p class='commission-text'>Pour obtenir la mission quotidienne <strong>Fleur sur les sables : Arôme durable</strong> il faut compléter les 3 variantes de la mission quotidienne <strong>Fleur dans les sables</strong>.</p><p class='commission-text'>Les variantes de la mission quotidienne <strong>Fleur dans les sables</strong> sont <strong>Pêches zaytun</strong>, <strong>Chaton paresseux</strong> et <strong>Arrosage de plantes</strong>.</p><p class='commission-text'><i>Pour pouvoir obtenir la mission quotidienne <strong>Fleur dans les sables</strong> il faut compléter la Quête du monde <strong>Fleur sur les sables</strong>.</i></p><p class='commission-text'><i>Il est possible de changer la variante de la mission quotidienne <strong>Fleur dans les sables</strong> en vous déconnectant pendant le premier dialogue.</i>",
             "videoLink": "<a href='https://youtu.be/GmaDxVOccWc'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru16": [
+        {
+            "id": "Sumeru-16",
+            "achievement": "Hein, ça a mordu ?",
+            "commission": "Le splendide hameçon ?",
+            "requirement": "Compléter la Quête du monde <strong>Le meilleur usage d'un hameçon</strong>.",
+            "notes": "<p class='commission-text'>La Quête du monde <strong>Le meilleur usage d'un hameçon</strong> s'obtient en complétant 3 fois la mission quotidienne <strong>Le splendide hameçon ?</strong>.",
+            "videoLink": "<a href='https://youtu.be/-dE6wfkho_o'  target='_blank'>Nepyutsu</a>"
+        }
+    ],
+    "Sumeru17": [
+        {
+            "id": "Sumeru-17",
+            "achievement": "Dans les ruines des rêves...",
+            "commission": "L'hymne de Garcia : Objet clé / L'hymne de Garcia : Substitution",
+            "requirement": "Compléter la Quête du monde <strong>Rêvasseries au-delà de l'espace et du temps</strong>.",
+            "notes": "<p class='commission-text'>Pour obtenir la Quête du monde <strong>Rêvasseries au-delà de l'espace et du temps</strong> il faut compléter la Quête du monde <strong>Là où se trouve sa vie</strong>.</p><p class='commission-text'>Pour obtenir la Quête du monde <strong>Là où se trouve sa vie</strong> il faut compléter l'<strong>Acte 5</strong> du <strong>Chapitre 4</strong> de la <strong>Quête d'Archons</strong> et <strong>2 fois</strong> les missions quotidiennes <strong>L'hymne de Garcia : Objet clé</strong> ou <strong>L'hymne de Garcia : Substitution</strong> (Après avoir obtenu le succès <strong>Principes arithmétiques</strong>).</p><p class='commission-text'><i>Ce succès est la suite direct du succès <strong>Principes arithmétiques</strong>.</i></p>",
+            "videoLink": "<a href='https://youtu.be/h9edmwSYNh0'  target='_blank'>Là où se trouve sa vie</a> - <a href='https://youtu.be/yZzSha0EvRc'  target='_blank'>Rêvasseries au-delà de l'espace et du temps</a>"
         }
     ],
     "FontaineList": [

@@ -46,17 +46,6 @@
   animation: load 1s 0.25s forwards;
 }
 
-.notice {
-  color: #ff0000;
-  font-weight: bold;
-  font-size: large;
-  text-decoration: underline;
-}
-
-.notice p {
-  margin: 8px;
-}
-
 /* ---------- Chest ---------- */
 .region-info {
   opacity: 0;
