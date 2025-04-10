@@ -3,7 +3,7 @@ class NavigationBar extends HTMLElement {
     constructor() {
         super();
         this.stickerImages = [
-            "/images/stickers/kokomi-1.webp", "/images/stickers/kokomi-2.webp", "/images/stickers/kokomi-3.webp", "/images/stickers/kokomi-4.webp",
+            "/images/stickers/kokomi-1.webp", "/images/stickers/kokomi-2.webp", "/images/stickers/kokomi-3.webp", "/images/stickers/kokomi-4.webp", "/images/stickers/kokomi-5.webp", "/images/stickers/kokomi-6.webp", "/images/stickers/kokomi-7.webp",
             "/images/stickers/lynette-1.webp", "/images/stickers/lynette-2.webp", "/images/stickers/lynette-3.webp", "/images/stickers/lynette-4.webp",
             "/images/stickers/yunjin-1.webp", "/images/stickers/yunjin-2.webp", "/images/stickers/yunjin-3.webp", "/images/stickers/yunjin-4.webp",
         ];
