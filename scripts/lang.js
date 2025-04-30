@@ -66,8 +66,8 @@ async function applyTranslation(lang) {
     const applyTextFunction = getApplyTextFunctionForPage(currentPage);
 
     Promise.all([
-        loadJSON(`/locales/${lang}/common.json?v=2`),
-        (applyTextFunction !== applyErrorText) ? loadJSON(`/locales/${lang}/${currentPage}.json?v=2`) : loadJSON(`/locales/${lang}/404.json?v=2`)
+        loadJSON(`/locales/${lang}/common.json?v=3`),
+        (applyTextFunction !== applyErrorText) ? loadJSON(`/locales/${lang}/${currentPage}.json?v=3`) : loadJSON(`/locales/${lang}/404.json?v=3`)
     ]).then(([commonData, pageData]) => {
         if (commonData) { applyCommonText(commonData); }
         if (pageData) { applyPageText(pageData, applyTextFunction); }
@@ -79,12 +79,12 @@ async function applyTranslation(lang) {
 }
 
 function showPageElements() {
-    document.querySelectorAll('.navigation-bar, .special-footer, .content, .description-box, .sources-box, .region-selector, .region-info, .commission-details, .privacy-box, .commission-container').forEach(el => {
+    document.querySelectorAll('.navigation-bar, .special-footer, .content, .description-box, .sources-box, .region-selector, .region-info, .commission-details, .privacy-box, .commission-container, .progress-chest, .progress-info, .progress-commission, .progress-button').forEach(el => {
         el.classList.remove('hidden', 'no-animation');
     });
 }
 
-const pageFunctions = { 'home': applyHomeText, 'chest': applyChestText, 'commission': applyCommissionsText, 'privacy': applyPrivacyText };
+const pageFunctions = { 'home': applyHomeText, 'chest': applyChestText, 'commission': applyCommissionsText, 'progress': applyProgressText, 'privacy': applyPrivacyText };
 function getApplyTextFunctionForPage(page) {
     return pageFunctions[page] || applyErrorText;
 }
@@ -99,10 +99,12 @@ function applyCommonText(data) {
         'home-link': data.header.home,
         'chest-link': data.header.chest,
         'commissions-link': data.header.commission,
+        'progress-link': data.header.progress,
         'sidebar-navigation': data.sidebar.navigation,
         'sidebar-home-link': data.header.home,
         'sidebar-chest-link': data.header.chest,
         'sidebar-commissions-link': data.header.commission,
+        'sidebar-progress-link': data.header.progress,
         'lang-title': data.sidebar.lang,
         'lang-fr': data.sidebar.langFrench,
         'lang-en': data.sidebar.langEnglish,
@@ -165,6 +167,21 @@ function applyCommissionsText(data) {
     document.title = `${data.page} | Nepyutsu`;
     const selectedRegion = localStorage.getItem('selectedRegion') || 'mondstadt';
     updateCommissionRegion(selectedRegion);
+}
+
+function applyProgressText(data) {
+    document.title = `${data.page} | Nepyutsu`;
+    document.getElementById('info-description').innerHTML = data.info;
+    document.getElementById('acknowledge-button').innerHTML = data.acknowledgeButton;
+    document.getElementById('chests-title').innerHTML = data.chestTitle;
+    document.getElementById('achievement-title').innerHTML = data.achievementTitle;
+    window.translations = { check: data.checkButton, uncheck: data.uncheckButton, export: data.exportButton, import: data.importButton, };
+
+    renderProgressChests(data);
+    renderAchievements(data);
+    updateImportExportButtons();
+
+    if (!localStorage.getItem('progress-data') || !localStorage.getItem('achievement-data')) { saveData(); }
 }
 
 function applyPrivacyText(data) {

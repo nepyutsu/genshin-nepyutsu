@@ -2,7 +2,8 @@
     "header": {
         "home": "Accueil",
         "chest": "Coffres",
-        "commission": "Quotidiennes"
+        "commission": "Quotidiennes",
+        "progress": "Progression"
     },
     "sidebar": {
         "navigation": "Navigation",

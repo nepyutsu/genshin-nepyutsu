@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
     function updateRegion(region) {
         const lang = document.documentElement.getAttribute('lang') || 'en';
 
-        loadJSON(`/locales/${lang}/chest.json?v=2`).then(data => {
+        loadJSON(`/locales/${lang}/chest.json?v=3`).then(data => {
             // Mettre à jour le texte affiché
             applyChestText(data);
 

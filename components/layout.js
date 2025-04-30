@@ -4,8 +4,9 @@ class NavigationBar extends HTMLElement {
         super();
         this.stickerImages = [
             "/images/stickers/kokomi-1.webp", "/images/stickers/kokomi-2.webp", "/images/stickers/kokomi-3.webp", "/images/stickers/kokomi-4.webp", "/images/stickers/kokomi-5.webp", "/images/stickers/kokomi-6.webp", "/images/stickers/kokomi-7.webp",
-            "/images/stickers/lynette-1.webp", "/images/stickers/lynette-2.webp", "/images/stickers/lynette-3.webp", "/images/stickers/lynette-4.webp",
+            "/images/stickers/lynette-1.webp", "/images/stickers/lynette-2.webp", "/images/stickers/lynette-3.webp", "/images/stickers/lynette-4.webp", "/images/stickers/lynette-5.webp", "/images/stickers/lynette-6.webp",
             "/images/stickers/yunjin-1.webp", "/images/stickers/yunjin-2.webp", "/images/stickers/yunjin-3.webp", "/images/stickers/yunjin-4.webp",
+            "/images/stickers/mualani-1.webp", "/images/stickers/mualani-2.webp", "/images/stickers/mualani-3.webp", "/images/stickers/mualani-4.webp", "/images/stickers/mualani-4.webp",
         ];
     }
 
@@ -23,6 +24,7 @@ class NavigationBar extends HTMLElement {
                         <a id="home-link" href="/home.html"></a>
                         <a id="chest-link" href="/chest.html"></a>
                         <a id="commissions-link" href="/commission.html"></a>
+                        <a id="progress-link" href="/progress.html"></a>
                     </nav>
 
                     <a href="#" class="menu-icon" id="menu-toggle">
@@ -55,6 +57,7 @@ class NavigationBar extends HTMLElement {
                             <a href="/home.html" class="navigation-button" id="sidebar-home-link"></a>
                             <a href="/chest.html" class="navigation-button" id="sidebar-chest-link"></a>
                             <a href="/commission.html" class="navigation-button" id="sidebar-commissions-link"></a>
+                            <a href="/progress.html" class="navigation-button" id="sidebar-progress-link"></a>
                         </nav>
 
                         <div class="sidebar-settings">

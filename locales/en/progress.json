@@ -1,0 +1,229 @@
+{
+    "page": "Progress",
+    "info": "<p><img src='/images/emotes/notes.webp' class='emote-info'> Values shown for Mondstadt, Liyue and Inazuma can be different from your own maximum counters. This does not necessarily mean you're missing something, only that the maximum is tied to several factors depending on when you started playing. (See <a href='/chest.html'>Chests</a> for more details). </p><p><img src='/images/emotes/notes.webp' class='emote-info'> Seelies and time trial challenges counters can be buggy in some regions. It's possible to have fewer or more of them than the maximum amount.</p><p><img src='/images/emotes/notes.webp' class='emote-info'> Some achievement categories don't track the total amount of seelies and time trial challenges, which is why they are not included below.</p><p><img src='/images/emotes/notes.webp' class='emote-info'> <strong>Don't forget to export your data!</strong></p>",
+    "acknowledgeButton": "<strong>I understand.</strong><p><i>This message will no longer appear after clicking here.</i></p>",
+    "chestTitle": "Chest counter",
+    "achievementTitle": "Achievement Tracker",
+    "checkButton": "Check all",
+    "uncheckButton": "Uncheck all",
+    "exportButton": "Export",
+    "importButton": "Import",
+    "chests": {
+        "Mondstadt-1": {
+            "title": "Mondstadt: The City of Wind and Song",
+            "icon": "anemo",
+            "challenge": "17",
+            "seelie": "52",
+            "chest": "523"
+        },
+        "Mondstadt-2": {
+            "title": "Visitors on the Icy Mountain",
+            "icon": "anemo",
+            "seelie": "32",
+            "chest": "234"
+        },
+        "Liyue-1": {
+            "title": "Liyue: The Harbor of Stone and Contracts",
+            "icon": "geo",
+            "challenge": "48",
+            "seelie": "84",
+            "chest": "1149"
+        },
+        "Liyue-2": {
+            "title": "Chasmlighter",
+            "icon": "geo",
+            "challenge": "20",
+            "seelie": "37",
+            "chest": "248"
+        },
+        "Liyue-3": {
+            "title": "Chenyu's Splendor",
+            "icon": "geo",
+            "challenge": "63",
+            "seelie": "20",
+            "chest": "333"
+        },
+        "Inazuma-1": {
+            "title": "Inazuma: The Islands of Thunder and Eternity - Series I",
+            "icon": "electro",
+            "challenge": "36",
+            "seelie": "21",
+            "electroseelie": "43",
+            "chest": "358"
+        },
+        "Inazuma-2": {
+            "title": "Inazuma: The Islands of Thunder and Eternity - Series II",
+            "icon": "electro",
+            "challenge": "29",
+            "electroseelie": "19",
+            "chest": "204"
+        },
+        "Inazuma-3": {
+            "title": "The Chronicles of the Sea of Fog",
+            "icon": "electro",
+            "challenge": "16",
+            "chest": "169"
+        },
+        "Inazuma-4": {
+            "title": "The Light of Day",
+            "icon": "electro",
+            "challenge": "18",
+            "seelie": "36",
+            "chest": "185"
+        },
+        "Sumeru-1": {
+            "title": "Sumeru: The Rainforest of Lore",
+            "icon": "dendro",
+            "challenge": "45",
+            "seelie": "54",
+            "chest": "575"
+        },
+        "Sumeru-2": {
+            "title": "Sumeru: The Gilded Desert - Series I",
+            "icon": "dendro",
+            "challenge": "52",
+            "seelie": "52",
+            "chest": "354"
+        },
+        "Sumeru-3": {
+            "title": "Sumeru: The Gilded Desert - Series II",
+            "icon": "dendro",
+            "challenge": "37",
+            "seelie": "27",
+            "chest": "290"
+        },
+        "Sumeru-4": {
+            "title": "Blessed Hamada",
+            "icon": "dendro",
+            "challenge": "26",
+            "seelie": "21",
+            "chest": "256"
+        },
+        "Fontaine-1": {
+            "title": "Fontaine: Dance of the Dew-White Springs (I)",
+            "icon": "hydro",
+            "challenge": "53",
+            "seelie": "42",
+            "chest": "344"
+        },
+        "Fontaine-2": {
+            "title": "Fontaine: Dance of the Dew-White Springs (II)",
+            "icon": "hydro",
+            "challenge": "28",
+            "seelie": "13",
+            "chest": "243"
+        },
+        "Fontaine-3": {
+            "title": "Fontaine: Dance of the Dew-White Springs (III)",
+            "icon": "hydro",
+            "challenge": "30",
+            "seelie": "13",
+            "chest": "207"
+        },
+        "Fontaine-4": {
+            "title": "Rhapsodia in the Ancient Sea",
+            "icon": "hydro",
+            "challenge": "33",
+            "chest": "151"
+        },
+        "Natlan-1": {
+            "title": "Natlan: The Land of Fire and Competition (I)",
+            "icon": "pyro",
+            "challenge": "17",
+            "monetoo": "40",
+            "chest": "411"
+        },
+        "Natlan-2": {
+            "title": "Natlan: The Land of Fire and Competition (II)",
+            "icon": "pyro",
+            "challenge": "11",
+            "monetoo": "12",
+            "chest": "202"
+        },
+        "Natlan-3": {
+            "title": "Sacred Mountain's Fading Glow",
+            "icon": "pyro",
+            "challenge": "14",
+            "monetoo": "14",
+            "chest": "217"
+        }
+    },
+    "achievements": {
+        "Mondstadt-0": "<img src='/images/emotes/anemo.webp' class='emote'> Mondstadt",
+        "Mondstadt-1": "For the Love of Godwin",
+        "Mondstadt-2": "Taking Responsibility for Your Actions",
+        "Mondstadt-3": "Making Do",
+        "Mondstadt-4": "\"Dear Daddy...\"",
+        "Mondstadt-5": "Marvelous Medicine",
+        "Mondstadt-6": "Anna's Adventures",
+        "Mondstadt-7": "In the Name of Favonius",
+        "Mondstadt-8": "Get Your Own Emergency Food!",
+        "Mondstadt-9": "...Odomu?",
+        "Mondstadt-10": "Yo dala?",
+        "Mondstadt-11": "Perfectionist",
+        "Mondstadt-12": "Telling It How It Is",
+        "Liyue-0": "<img src='/images/emotes/geo.webp' class='emote'> Liyue",
+        "Liyue-1": "Pirates! Argh!",
+        "Liyue-2": "Prelude to the Journey",
+        "Liyue-3": "A Nourishing Friendship",
+        "Liyue-4": "Love Is All Around",
+        "Liyue-5": "Level Up",
+        "Liyue-6": "Beginner's Luck",
+        "Liyue-7": "Scholarly Pretensions",
+        "Liyue-8": "Poet Vs. Paycheck",
+        "Liyue-9": "All's Well That Ends Well",
+        "Liyue-10": "This Novel Is Amazing!",
+        "Liyue-11": "Open to Interpretation",
+        "Liyue-12": "Swordseeker",
+        "Liyue-13": "To Walk The Horizon...?",
+        "Liyue-14": "Geo Archon Anecdotes",
+        "Liyue-15": "Friends, Travelers, Lend Me Your Ears...",
+        "Liyue-16": "Once Upon a Time...",
+        "Inazuma-0": "<img src='/images/emotes/electro.webp' class='emote'> Inazuma",
+        "Inazuma-1": "Hidden in Plain Sight",
+        "Inazuma-2": "Is There But One Truth...?",
+        "Inazuma-3": "Liyue Ichiban",
+        "Inazuma-4": "Boom Shaka-Laka, More Boom-Shaka-Laka",
+        "Inazuma-5": "Meal For Two",
+        "Inazuma-6": "A Question of Diet",
+        "Inazuma-7": "Samurice",
+        "Inazuma-8": "\"Sorry for the Trouble!\"",
+        "Inazuma-9": "Editorial Opinion",
+        "Inazuma-10": "You Should Start A Doushin Dojo",
+        "Inazuma-11": "Her and Her Cat",
+        "Inazuma-12": "Well, At Least It Ended",
+        "Inazuma-13": "Don't Blame the Mora!",
+        "Sumeru-0": "<img src='/images/emotes/dendro.webp' class='emote'> Sumeru",
+        "Sumeru-1": "Kalimi's Fungus",
+        "Sumeru-2": "When Wealth Comes A-Knockin'",
+        "Sumeru-3": "Catch Me-ow if You Can!",
+        "Sumeru-4": "Principia Arithmetica",
+        "Sumeru-5": "\"It's My Job.\"",
+        "Sumeru-6": "Relaxation Therapy",
+        "Sumeru-7": "Up by the Roots",
+        "Sumeru-8": "The Sky is Vast; The Earth...",
+        "Sumeru-9": "Non-Obligatory Request",
+        "Sumeru-10": "The Ship Has It",
+        "Sumeru-11": "What's the Matter?",
+        "Sumeru-12": "Scholarly in Sumeru",
+        "Sumeru-13": "One Step Too Far",
+        "Sumeru-14": "Doctor's Handwriting",
+        "Sumeru-15": "A Lingering Fragrance",
+        "Sumeru-16": "Aha! What's on the Hook?",
+        "Sumeru-17": "In Those Ruins of Dreams...",
+        "Fontaine-0": "<img src='/images/emotes/hydro.webp' class='emote'> Fontaine",
+        "Fontaine-1": "Office on the Avenue",
+        "Fontaine-2": "Not Your Average Joe",
+        "Fontaine-3": "Aesthetic Critique",
+        "Fontaine-4": "Second Childhood",
+        "Fontaine-5": "New Inspiration! New Products!",
+        "Natlan-0": "<img src='/images/emotes/pyro.webp' class='emote'> Natlan",
+        "Natlan-1": "Saurian's Cradle",
+        "Natlan-2": "Natlan Academic",
+        "Natlan-3": "\"Hora, Come Here—\"",
+        "Natlan-4": "Music Never Dies!",
+        "Natlan-5": "Victory From the Flying Leaves",
+        "Natlan-6": "Inspiration Walk",
+        "Natlan-7": "Citius, Altius, Fortius!"
+    }
+}

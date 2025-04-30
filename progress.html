@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Progression | Nepyutsu</title>
+
+    <!-- Meta Data -->
+    <meta name="description"
+        content="Nombre maximal possible de défis, fées et coffres dans toutes les catégories de succès de Genshin Impact.">
+    <meta name="keywords" content="nepyutsu, coffres, succès, chests, achievements, genshin impact">
+    <meta name="author" content="Nepyutsu">
+
+    <meta property="og:title" content="Progression | Nepyutsu">
+    <meta property="og:description"
+        content="Nombre maximal possible de défis, fées et coffres dans toutes les catégories de succès de Genshin Impact.">
+    <meta property="og:image" content="https://genshin.nepyutsu.com/images/logo.webp">
+    <meta property="og:url" content="https://genshin.nepyutsu.com/progress">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Nepyutsu">
+
+    <link rel="icon" type="image/x-icon" href="/images/logo.ico">
+    <link rel="canonical" href="https://genshin.nepyutsu.com/progress">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/styles/layout.css?v=3">
+    <link rel="stylesheet" href="/styles/themes.css?v=3">
+    <link rel="stylesheet" href="/styles/pages.css?v=3">
+
+    <!-- Scripts -->
+    <script src="/components/layout.js?v=3"></script>
+    <script src="/scripts/theme.js?v=3"></script>
+    <script src="/scripts/lang.js?v=3"></script>
+    <script src="/scripts/progress.js?v=3"></script>
+</head>
+
+<body>
+    <!-- NoScript -->
+    <noscript>
+        <div class="noscript-container">
+            <p><strong>Please enable JavaScript.</strong></p>
+        </div>
+    </noscript>
+
+    <!-- Navigation Bar -->
+    <navigation-bar class="navigation-bar hidden"></navigation-bar>
+
+    <!-- Main Body -->
+    <main>
+        <div class="background-image" style="background-image: url('/images/backgrounds/snezhnaya.webp');"></div>
+
+        <div class="content hidden">
+
+            <!-- Info -->
+            <div id="progress-info-container" class="progress-info no-animation">
+                <div id="info-description"></div>
+                <button id="acknowledge-button" class="acknowledge-btn"></button>
+            </div>
+
+            <!-- Compteur de coffres -->
+            <div id="progress-chest-container" class="progress-chest no-animation">
+                <h2 id="chests-title"></h2>
+                <div id="chests-content"></div>
+            </div>
+
+            <!-- Suivi de succès -->
+            <div id="progress-commission-container" class="progress-commission no-animation">
+                <h2 id="achievement-title"></h2>
+                <div id="achievement-content"></div>
+            </div>
+
+            <!-- Boutons -->
+            <div class="progress-button no-animation">
+                <button onclick="exportFullData()" class="big-action-button" id="export-button">Export</button>
+                <button class="big-action-button" id="import-button"
+                    onclick="document.getElementById('import-file').click()">Import</button>
+                <input type="file" id="import-file" accept=".json" style="display: none;" onchange="importFullData()">
+            </div>
+
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <special-footer class="special-footer hidden"></special-footer>
+
+</body>
+
+</html>

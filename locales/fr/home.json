@@ -1,11 +1,11 @@
 {
     "page": "Accueil",
-    "description": "<p>Ce site a pour objectif de répertorier le nombre maximal de défis, fées et coffres pour chaque catégorie de succès, ainsi que les informations sur les méthodes d'obtention des succès liés aux missions quotidiennes.<br>Des listes de missions quotidiennes en lien avec des succès sont également disponibles.</p><p><i>Dernière mise à jour: <u>10 Avril 2025</u></i></p>",
+    "description": "<p>Ce site a pour objectif de répertorier le nombre maximal de défis, de fées et de coffres pour chaque catégorie de succès, ainsi que de fournir des informations sur les méthodes d'obtention des succès liés aux missions quotidiennes.</p><p>Des listes de missions quotidiennes liées à des succès sont également disponibles.</p><p>Il est aussi possible de sauvegarder sa progression concernant le nombre de coffres collectés et les succès de missions quotidiennes obtenus.</p><p><i>Dernière mise à jour: <u>30 Avril 2025</u></i></p>",
     "sources": "Sources utilisées",
     "title1": "NPC commission pool",
     "description1": "Le document contient l'intégralité des missions quotidiennes impliquant des PNJs. Les missions quotidiennes sont triées par région, avec une colonne sur le côté listant les prérequis nécessaires pour les obtenir, ainsi qu'une autre dédiée aux succès, dans le cas où la mission permet d'en débloquer un.",
     "title2": "Genshin Impact Chest Count",
     "description2": "Le document répertorie l'ensemble des coffres récupérables du jeu.<br>Des feuilles spécifiques indiquent les détails en fonction de la version dans laquelle ils ont été ajoutés (donjons et événements inclus).<br>L'une des feuilles affiche le total des défis, fées et coffres pour chaque catégorie de succès.",
     "title3": "Genshin Impact : Site officiel",
-    "description3": "Les images de fond proviennent du site officiel de Genshin Impact.<br>Quant aux stickers et aux icônes, ils proviennent directement du jeu."
+    "description3": "Les images de fond proviennent du site officiel de Genshin Impact.<br>Quant aux stickers et aux icônes, ils proviennent de HoYoLAB et du jeu."
 }

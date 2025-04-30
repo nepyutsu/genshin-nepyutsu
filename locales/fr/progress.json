@@ -1,0 +1,229 @@
+{
+    "page": "Progression",
+    "info": "<p><img src='/images/emotes/notes.webp' class='emote-info'> Les valeurs affichées pour Mondstadt, Liyue et Inazuma peuvent différer de votre maximum possible. Cela ne signifie pas forcément qu'il vous manque quelque chose, juste que le maximum dépend de plusieurs facteurs en fonction de la date à laquelle vous avez commencé à jouer. (Voir <a href='/chest.html'>Coffres</a> pour plus de détails).</p><p><img src='/images/emotes/notes.webp' class='emote-info'> Les compteurs de fées et de défis peuvent être bug dans certaines régions. Il est possible d'en avoir plus ou moins que le maximum.</p><p><img src='/images/emotes/notes.webp' class='emote-info'> Certaines catégories de succès n'affichent pas précisément le nombre de défis ou de fées, c'est pourquoi ils ne sont pas inclus dans le compteur ci-dessous.</p><p><img src='/images/emotes/notes.webp' class='emote-info'> <strong>Pensez à exporter vos données !</strong></p>",
+    "acknowledgeButton": "<strong>J'ai compris.</strong><p><i>Ce message n'apparaîtra plus après avoir cliqué ici.</i></p>",
+    "chestTitle": "Compteur de coffres",
+    "achievementTitle": "Suivi de Succès",
+    "checkButton": "Tout cocher",
+    "uncheckButton": "Tout décocher",
+    "exportButton": "Exporter",
+    "importButton": "Importer",
+    "chests": {
+        "Mondstadt-1": {
+            "title": "Mondstadt : Cité du vent et de la chanson",
+            "icon": "anemo",
+            "challenge": "17",
+            "seelie": "52",
+            "chest": "523"
+        },
+        "Mondstadt-2": {
+            "title": "Visite à Dosdragon",
+            "icon": "anemo",
+            "seelie": "32",
+            "chest": "234"
+        },
+        "Liyue-1": {
+            "title": "Liyue : Port de pierre et des contrats",
+            "icon": "geo",
+            "challenge": "48",
+            "seelie": "84",
+            "chest": "1149"
+        },
+        "Liyue-2": {
+            "title": "Gouffre éclairé",
+            "icon": "geo",
+            "challenge": "20",
+            "seelie": "37",
+            "chest": "248"
+        },
+        "Liyue-3": {
+            "title": "Splendeur du jade",
+            "icon": "geo",
+            "challenge": "63",
+            "seelie": "20",
+            "chest": "333"
+        },
+        "Inazuma-1": {
+            "title": "Inazuma : Archipel de la foudre éternelle - I",
+            "icon": "electro",
+            "challenge": "36",
+            "seelie": "21",
+            "electroseelie": "43",
+            "chest": "358"
+        },
+        "Inazuma-2": {
+            "title": "Inazuma : Archipel de la foudre éternelle - II",
+            "icon": "electro",
+            "challenge": "29",
+            "electroseelie": "19",
+            "chest": "204"
+        },
+        "Inazuma-3": {
+            "title": "Chroniques de la mer de brouillard",
+            "icon": "electro",
+            "challenge": "16",
+            "chest": "169"
+        },
+        "Inazuma-4": {
+            "title": "À la lumière du jour",
+            "icon": "electro",
+            "challenge": "18",
+            "seelie": "36",
+            "chest": "185"
+        },
+        "Sumeru-1": {
+            "title": "Sumeru : Selve de connaissances",
+            "icon": "dendro",
+            "challenge": "45",
+            "seelie": "54",
+            "chest": "575"
+        },
+        "Sumeru-2": {
+            "title": "Sumeru : Désert doré - I",
+            "icon": "dendro",
+            "challenge": "52",
+            "seelie": "52",
+            "chest": "354"
+        },
+        "Sumeru-3": {
+            "title": "Sumeru : Désert doré - II",
+            "icon": "dendro",
+            "challenge": "37",
+            "seelie": "27",
+            "chest": "290"
+        },
+        "Sumeru-4": {
+            "title": "Hamada bénie",
+            "icon": "dendro",
+            "challenge": "26",
+            "seelie": "21",
+            "chest": "256"
+        },
+        "Fontaine-1": {
+            "title": "Fontaine - Danse de la rosée blanche (1)",
+            "icon": "hydro",
+            "challenge": "53",
+            "seelie": "42",
+            "chest": "344"
+        },
+        "Fontaine-2": {
+            "title": "Fontaine - Danse de la rosée blanche (2)",
+            "icon": "hydro",
+            "challenge": "28",
+            "seelie": "13",
+            "chest": "243"
+        },
+        "Fontaine-3": {
+            "title": "Fontaine - Danse de la rosée blanche (3)",
+            "icon": "hydro",
+            "challenge": "30",
+            "seelie": "13",
+            "chest": "207"
+        },
+        "Fontaine-4": {
+            "title": "Rhapsodie en mer antique",
+            "icon": "hydro",
+            "challenge": "33",
+            "chest": "151"
+        },
+        "Natlan-1": {
+            "title": "Natlan : Terre d'alliance du feu et de compétition - I",
+            "icon": "pyro",
+            "challenge": "17",
+            "monetoo": "40",
+            "chest": "411"
+        },
+        "Natlan-2": {
+            "title": "Natlan : Terre d'alliance du feu et de compétition - II",
+            "icon": "pyro",
+            "challenge": "11",
+            "monetoo": "12",
+            "chest": "202"
+        },
+        "Natlan-3": {
+            "title": "Lueur déclinante de la Montagne sacrée",
+            "icon": "pyro",
+            "challenge": "14",
+            "monetoo": "14",
+            "chest": "217"
+        }
+    },
+    "achievements": {
+        "Mondstadt-0": "<img src='/images/emotes/anemo.webp' class='emote'> Mondstadt",
+        "Mondstadt-1": "Toujours dans mon cœur",
+        "Mondstadt-2": "Mes plus plates excuses",
+        "Mondstadt-3": "Ça se tient...",
+        "Mondstadt-4": "« Cher papa... »",
+        "Mondstadt-5": "Remède miraculeux",
+        "Mondstadt-6": "Les aventures d'Anna",
+        "Mondstadt-7": "Au nom de Favonius",
+        "Mondstadt-8": "Ce n'est pas un casse-croûte d'urgence.",
+        "Mondstadt-9": "... Odomu ?",
+        "Mondstadt-10": "Yo dala ?",
+        "Mondstadt-11": "À la recherche de la perfection",
+        "Mondstadt-12": "Une chose à la fois",
+        "Liyue-0": "<img src='/images/emotes/geo.webp' class='emote'> Liyue",
+        "Liyue-1": "Pirates !",
+        "Liyue-2": "Prélude d'un long périple",
+        "Liyue-3": "Le chef et le pêcheur",
+        "Liyue-4": "Aux immortels les affaires des dieux...",
+        "Liyue-5": "Encore un étage",
+        "Liyue-6": "La chance du débutant / La chance de la débutante",
+        "Liyue-7": "Aventures studieuses",
+        "Liyue-8": "Rêve et réalité",
+        "Liyue-9": "Un vieil ami",
+        "Liyue-10": "Ce roman est génial !",
+        "Liyue-11": "Aux mortels les affaires des hommes...",
+        "Liyue-12": "À la recherche d'une « lame sœur »",
+        "Liyue-13": "Marcher à l'horizon...?",
+        "Liyue-14": "Histoires du Souverain",
+        "Liyue-15": "Ouvrez grand vos oreilles...",
+        "Liyue-16": "Il était une fois...",
+        "Inazuma-0": "<img src='/images/emotes/electro.webp' class='emote'> Inazuma",
+        "Inazuma-1": "Caché en pleine vue",
+        "Inazuma-2": "N'existe-t-il qu'une vérité...?",
+        "Inazuma-3": "Liyue Ichiban",
+        "Inazuma-4": "Du peps, encore ?",
+        "Inazuma-5": "Repas pour deux",
+        "Inazuma-6": "Une question de régime",
+        "Inazuma-7": "Samouriz",
+        "Inazuma-8": "Pardon pour le dérangement !",
+        "Inazuma-9": "Commentaire éditorial",
+        "Inazuma-10": "Vous devriez ouvrir un dojo pour les doushins",
+        "Inazuma-11": "Son chat et elle",
+        "Inazuma-12": "Au moins, il y a une fin",
+        "Inazuma-13": "Pas la faute des moras !",
+        "Sumeru-0": "<img src='/images/emotes/dendro.webp' class='emote'> Sumeru",
+        "Sumeru-1": "Fongus de Kalimi",
+        "Sumeru-2": "Quand la fortune fait toc toc",
+        "Sumeru-3": "Attrape-miaou si tu peux !",
+        "Sumeru-4": "Principes arithmétiques",
+        "Sumeru-5": "Le travail, c'est la santé...",
+        "Sumeru-6": "C'est thérapeutique !",
+        "Sumeru-7": "Par les racines",
+        "Sumeru-8": "À la mesure du monde...",
+        "Sumeru-9": "Une demande optionnelle",
+        "Sumeru-10": "Le p'tit bateau qui va sur l'eau ♪",
+        "Sumeru-11": "Un souci ? Quel souci ?",
+        "Sumeru-12": "La tête pensante de Sumeru",
+        "Sumeru-13": "Attention, ça glisse !",
+        "Sumeru-14": "Une vraie écriture de médecin",
+        "Sumeru-15": "Fragrance durable",
+        "Sumeru-16": "Hein, ça a mordu ?",
+        "Sumeru-17": "Dans les ruines des rêves...",
+        "Fontaine-0": "<img src='/images/emotes/hydro.webp' class='emote'> Fontaine",
+        "Fontaine-1": "Bureau sur rue",
+        "Fontaine-2": "Moi, c'est le goût",
+        "Fontaine-3": "Critique esthétique",
+        "Fontaine-4": "Jeux d'enfants",
+        "Fontaine-5": "Nouvelle inspiration ! Nouveaux produits !",
+        "Natlan-0": "<img src='/images/emotes/pyro.webp' class='emote'> Natlan",
+        "Natlan-1": "Berceau du saurien",
+        "Natlan-2": "Académique de Natlan",
+        "Natlan-3": "« Hora, au pied... »",
+        "Natlan-4": "La musique ne meurt jamais !",
+        "Natlan-5": "Victoire des feuilles volantes",
+        "Natlan-6": "Marche inspirante",
+        "Natlan-7": "Citius, altius, fortius !"
+    }
+}

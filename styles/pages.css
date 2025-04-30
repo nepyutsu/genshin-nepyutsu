@@ -29,6 +29,10 @@
   background-color: var(--secondary-color);
 }
 
+.description-box p {
+  margin: 10px 0px;
+}
+
 .sources-box h3 {
   margin-bottom: 8px;
 }
@@ -99,24 +103,27 @@
   justify-content: center;
 }
 
-.other-buttons-container {
-  gap: 6px;
-  display: flex;
-  flex-wrap: wrap;
-  max-width: 1000px;
-  justify-content: center;
+.quest-select {
+  width: 400px;
+  padding: 12px;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 14px;
+  color: var(--text-color);
+  background-color: var(--secondary-color);
+  border: 2px solid var(--primary-color);
+}
+
+.quest-select:focus {
+  outline: none;
+  border: 2px solid var(--primary-color);
 }
 
 .first-button-container .quest-button {
   width: 270px;
   font-size: 15px;
   font-weight: bold;
-}
-
-.other-buttons-container .quest-button {
-  width: 156px;
-  height: 50px;
-  font-size: 12px;
 }
 
 .quest-button {
@@ -174,6 +181,263 @@
 
 .commission-text {
   margin: 8px 0px;
+}
+
+/* ---------- Progress ---------- */
+.progress-chest,
+.progress-commission,
+.progress-info {
+  opacity: 0;
+  width: 100%;
+  max-width: 730px;
+  padding: 10px 10px;
+  border-radius: 16px;
+  box-sizing: border-box;
+  border: 3px solid var(--primary-color);
+  background-color: var(--secondary-color);
+}
+
+.emote-info {
+  width: 16px;
+  height: 16px;
+  vertical-align: text-top;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 1));
+}
+
+.progress-info p {
+  font-size: 14px;
+  margin: 6px 0px;
+}
+
+.acknowledge-btn {
+  width: 100%;
+  display: block;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 8px 16px;
+  border-radius: 8px;
+  color: var(--text-color);
+  background-color: var(--primary-color);
+  border: 3px solid var(--primary-color);
+}
+
+.acknowledge-btn:hover {
+  opacity: 0.8;
+  transform: translateY(-2px);
+}
+
+.progress-commission {
+  margin-top: 10px;
+}
+
+.progress-chest h2,
+.progress-commission h2 {
+  text-align: center;
+  margin: 6px 6px 16px 6px;
+  text-decoration: underline;
+}
+
+.progress-info {
+  animation: load 1s 0s forwards;
+}
+
+.progress-chest {
+  animation: load 1s 0.25s forwards;
+}
+
+.progress-commission {
+  animation: load 1s 0.5s forwards;
+}
+
+.chest-subtitle {
+  margin-bottom: 2px;
+}
+
+.chest-block {
+  gap: 4px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 6px;
+  margin: 0px 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.chest-section {
+  padding: 8px;
+  display: flex;
+  border-radius: 8px;
+  align-items: center;
+  align-content: center;
+  justify-content: space-between;
+  border: 2px solid var(--primary-color);
+}
+
+.chest-section.max-reached {
+  background-color: var(--primary-color);
+}
+
+.chest-text {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.chest-values {
+  gap: 2px;
+  display: flex;
+  padding: 0px 4px;
+  align-items: center;
+}
+
+.chest-input {
+  border: none;
+  font-size: 14px;
+  text-align: center;
+  appearance: textfield;
+  color: var(--text-color);
+  background: var(--primary-color);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.slash {
+  padding-left: 2px;
+}
+
+.chest-input::-webkit-outer-spin-button,
+.chest-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.chest-max {
+  font-size: 12px;
+  color: var(--text-color);
+  opacity: 0.8;
+  margin-top: 3px;
+}
+
+.arrow-btn {
+  width: 24px;
+  border: none;
+  margin: 1px 0;
+  cursor: pointer;
+  border-radius: 6px;
+  color: var(--text-color);
+  background-color: var(--primary-color);
+  border: 2px solid var(--secondary-color);
+}
+
+.arrow-btn:hover {
+  opacity: 0.8;
+}
+
+.achievement-section {
+  padding: 0 12px;
+  margin-bottom: 20px;
+}
+
+.achievement-header {
+  display: flex;
+  margin-bottom: 6px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.achievement-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 6px;
+  margin-top: 0px;
+  color: var(--text-color);
+  text-decoration: underline;
+}
+
+.achievement-controls button {
+  border: none;
+  width: 100px;
+  cursor: pointer;
+  font-size: 12px;
+  margin-left: 6px;
+  padding: 4px 8px;
+  border-radius: 6px;
+  color: var(--text-color);
+  background-color: var(--primary-color);
+}
+
+.achievement-controls button:hover {
+  opacity: 0.8;
+  transform: translateY(-2px);
+}
+
+.achievement-item {
+  display: flex;
+  cursor: pointer;
+  padding: 4px 6px;
+  margin-bottom: 4px;
+  border-radius: 6px;
+  align-items: center;
+}
+
+.achievement-item:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.achievement-item.checked {
+  font-weight: bold;
+  color: var(--background-color);
+  background-color: var(--primary-color);
+}
+
+.achievement-item input[type="checkbox"] {
+  display: none;
+}
+
+.checkbox-custom {
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+  border-radius: 4px;
+  position: relative;
+  border: 2px solid var(--primary-color);
+  background-color: var(--background-color);
+}
+
+.achievement-item.checked .checkbox-custom::after {
+  top: -2px;
+  left: 3px;
+  content: "✔";
+  font-size: 12px;
+  position: absolute;
+  color: var(--primary-color-hover);
+}
+
+.achievement-name {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.progress-button {
+  opacity: 0;
+  text-align: center;
+  animation: load 1s 0.75s forwards;
+}
+
+.big-action-button {
+  margin: 6px;
+  width: 250px;
+  cursor: pointer;
+  font-size: 22px;
+  padding: 16px 32px;
+  border-radius: 20px;
+  color: var(--text-color);
+  border: 3px solid var(--primary-color);
+  background-color: var(--secondary-color);
+}
+
+.big-action-button:hover {
+  transform: translateY(-2px);
+  color: var(--hypertext-color);
+  background-color: var(--primary-color);
 }
 
 /* ---------- Privacy ---------- */
