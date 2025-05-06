@@ -58,8 +58,11 @@ function renderProgressChests(data) {
 
     document.querySelectorAll('.chest-input').forEach(input => {
         input.addEventListener('input', () => {
+            let val = input.value.replace(/^0+(?!$)/, '');
+            input.value = val;
+
             const [min, max] = [parseInt(input.min), parseInt(input.max)];
-            let val = parseInt(input.value) || 0;
+            val = parseInt(input.value) || 0;
 
             if (val > max) input.value = max;
             if (val < min) input.value = min;
@@ -71,7 +74,10 @@ function renderProgressChests(data) {
 
         input.addEventListener('keydown', (e) => {
             const allowedKeys = ['Backspace', 'ArrowLeft', 'ArrowRight', 'Delete', 'Tab',];
-            if (!/^\d$/.test(e.key) && !allowedKeys.includes(e.key)) { e.preventDefault(); }
+            const isDigit = /^\d$/.test(e.key);
+
+            if (!isDigit && !allowedKeys.includes(e.key)) { e.preventDefault(); return; }
+            if (isDigit && input.value === '0' && e.key !== '0') { e.preventDefault(); input.value = e.key; input.dispatchEvent(new Event('input')); }
         });
     });
 
