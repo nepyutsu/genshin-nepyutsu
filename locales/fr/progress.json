@@ -1,6 +1,6 @@
 {
     "page": "Progression",
-    "info": "<p><img src='/images/emotes/notes.webp' class='emote-info'> Les valeurs affichées pour Mondstadt, Liyue et Inazuma peuvent différer de votre maximum possible. Cela ne signifie pas forcément qu'il vous manque quelque chose, juste que le maximum dépend de plusieurs facteurs en fonction de la date à laquelle vous avez commencé à jouer. (Voir <a href='/chest.html'>Coffres</a> pour plus de détails).</p><p><img src='/images/emotes/notes.webp' class='emote-info'> Les compteurs de fées et de défis peuvent être bug dans certaines régions. Il est possible d'en avoir plus ou moins que le maximum.</p><p><img src='/images/emotes/notes.webp' class='emote-info'> Certaines catégories de succès n'affichent pas précisément le nombre de défis ou de fées, c'est pourquoi ils ne sont pas inclus dans le compteur ci-dessous.</p><p><img src='/images/emotes/notes.webp' class='emote-info'> <strong>Pensez à exporter vos données !</strong></p>",
+    "info": "<p><img src='/images/emotes/notes.webp' class='emote-info'> Les valeurs affichées pour Mondstadt, Liyue et Inazuma peuvent différer de votre maximum possible. Cela ne signifie pas forcément qu'il vous manque quelque chose, juste que le maximum dépend de plusieurs facteurs en fonction de la date à laquelle vous avez commencé à jouer. (Voir <a href='/chest.html'>Coffres</a> pour plus de détails).</p><p><img src='/images/emotes/notes.webp' class='emote-info'> Les compteurs de fées et de défis peuvent être bug dans certaines régions. Il est possible d'en avoir plus ou moins que le maximum.</p><p><img src='/images/emotes/notes.webp' class='emote-info'> Certaines catégories de succès n'affichent pas précisément le nombre de défis ou de fées, c'est pourquoi ils ne sont pas inclus dans le compteur ci-dessous.</p><p><img src='/images/emotes/notes.webp' class='emote-info'> <strong>Pensez à exporter vos données avec le bouton en bas de la page !</strong></p>",
     "acknowledgeButton": "<strong>J'ai compris.</strong><p><i>Ce message n'apparaîtra plus après avoir cliqué ici.</i></p>",
     "chestTitle": "Compteur de coffres",
     "achievementTitle": "Suivi de Succès",
@@ -146,6 +146,12 @@
             "challenge": "14",
             "monetoo": "14",
             "chest": "217"
+        },
+        "Natlan-4": {
+            "title": "Un été de cendres et de barbarifigues",
+            "icon": "pyro",
+            "challenge": "32",
+            "chest": "169"
         }
     },
     "achievements": {

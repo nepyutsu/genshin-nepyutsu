@@ -1,6 +1,6 @@
 {
     "page": "Progress",
-    "info": "<p><img src='/images/emotes/notes.webp' class='emote-info'> Values shown for Mondstadt, Liyue and Inazuma can be different from your own maximum counters. This does not necessarily mean you're missing something, only that the maximum is tied to several factors depending on when you started playing. (See <a href='/chest.html'>Chests</a> for more details). </p><p><img src='/images/emotes/notes.webp' class='emote-info'> Seelies and time trial challenges counters can be buggy in some regions. It's possible to have fewer or more of them than the maximum amount.</p><p><img src='/images/emotes/notes.webp' class='emote-info'> Some achievement categories don't track the total amount of seelies and time trial challenges, which is why they are not included below.</p><p><img src='/images/emotes/notes.webp' class='emote-info'> <strong>Don't forget to export your data!</strong></p>",
+    "info": "<p><img src='/images/emotes/notes.webp' class='emote-info'> Values shown for Mondstadt, Liyue and Inazuma can be different from your own maximum counters. This does not necessarily mean you're missing something, only that the maximum is tied to several factors depending on when you started playing. (See <a href='/chest.html'>Chests</a> for more details). </p><p><img src='/images/emotes/notes.webp' class='emote-info'> Seelies and time trial challenges counters can be buggy in some regions. It's possible to have fewer or more of them than the maximum amount.</p><p><img src='/images/emotes/notes.webp' class='emote-info'> Some achievement categories don't track the total amount of seelies and time trial challenges, which is why they are not included below.</p><p><img src='/images/emotes/notes.webp' class='emote-info'> <strong>Don't forget to export your data using the button at the bottom of the page!</strong></p>",
     "acknowledgeButton": "<strong>I understand.</strong><p><i>This message will no longer appear after clicking here.</i></p>",
     "chestTitle": "Chest counter",
     "achievementTitle": "Achievement Tracker",
@@ -146,6 +146,12 @@
             "challenge": "14",
             "monetoo": "14",
             "chest": "217"
+        },
+        "Natlan-4": {
+            "title": "A Summer of Ash and Prickly Pears",
+            "icon": "pyro",
+            "challenge": "32",
+            "chest": "169"
         }
     },
     "achievements": {
