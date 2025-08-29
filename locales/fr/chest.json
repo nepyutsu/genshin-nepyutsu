@@ -23,7 +23,7 @@
                 "<strong><img src='/images/emotes/geo.webp' class='emote'> Liyue : Port de pierre et des contrats</strong>",
                 "<ul><li><strong>47</strong> ou <strong>48</strong> <img src='/images/emotes/challenge.webp' class='emote'> (<i><strong>Un</strong> défi vient de l'événement <strong>Festival des lanternes</strong> de la <strong>1.3</strong></i>)</li>",
                 "<li>Entre <strong>81</strong> et <strong>84</strong> <img src='/images/emotes/seelie.webp' class='emote'> (<i><strong>3</strong> fées viennent de l'événement <strong>Festival des lanternes</strong> de la <strong>1.3</strong></i>)</li>",
-                "<li>Entre <strong>1070</strong> et <strong>1149</strong> <img src='/images/emotes/chest.webp' class='emote'> (<i><strong>59</strong> coffres ne comptaient pas dans les succès pendant la <strong>1.0</strong>, <strong>3</strong> coffres qui comptaient pour <strong>Mondstadt</strong> comptent pour <strong>Liyue</strong> depuis la <strong>1.2</strong>, <strong>15</strong> coffres viennent de l'événement <strong>Festival des Lanternes</strong> de la <strong>1.3</strong> et <strong>2</strong> coffres viennent de l'événement <strong>Ombre des anciens</strong> de la <strong>2.2</strong></i>)</li></ul>",
+                "<li>Entre <strong>1073</strong> et <strong>1152</strong> <img src='/images/emotes/chest.webp' class='emote'> (<i><strong>59</strong> coffres ne comptaient pas dans les succès pendant la <strong>1.0</strong>, <strong>3</strong> coffres qui comptaient pour <strong>Mondstadt</strong> comptent pour <strong>Liyue</strong> depuis la <strong>1.2</strong>, <strong>15</strong> coffres viennent de l'événement <strong>Festival des Lanternes</strong> de la <strong>1.3</strong>, <strong>2</strong> coffres viennent de l'événement <strong>Ombre des anciens</strong> de la <strong>2.2</strong> et <strong>3</strong> coffres viennent de la zone <strong>Station balnéaire Brisedouce</strong> de <strong>Natlan</strong> ajoutée en <strong>5.8</strong></i>)</li></ul>",
                 "<strong><img src='/images/emotes/geo.webp' class='emote'> Gouffre éclairé</strong>",
                 "<ul><li><strong>20</strong> <img src='/images/emotes/challenge.webp' class='emote'>, <strong>37</strong> <img src='/images/emotes/seelie.webp' class='emote'> et <strong>248</strong> <img src='/images/emotes/chest.webp' class='emote'></li></ul>",
                 "<strong><img src='/images/emotes/geo.webp' class='emote'> Splendeur du jade</strong>",
@@ -114,6 +114,14 @@
                 "<li><a href='https://youtu.be/ZZyFRXSDrXU' target='_blank'>Natlan : Terre d'alliance du feu et de compétition - II</a></li>",
                 "<li><a href='https://youtu.be/nlNNt3Snta0' target='_blank'>Lueur déclinante de la Montagne sacrée</a></li>",
                 "<li>Un été de cendres et de barbarifigues (<a href='https://youtu.be/Tq2bqjV_AEU' target='_blank'>Partie 1</a> | <a href='https://youtu.be/4wE3hTRRYQ0' target='_blank'>Partie 2</a>)</li></ul>"
+            ]
+        }
+    ],
+    "Nod-krai": [
+        {
+            "title": "Coffres de la région de Nod-Krai",
+            "description": [
+                "<strong><img src='/images/emotes/cryo.webp' class='emote'> À venir.</strong>"
             ]
         }
     ],

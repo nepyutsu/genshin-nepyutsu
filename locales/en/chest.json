@@ -23,7 +23,7 @@
                 "<strong><img src='/images/emotes/geo.webp' class='emote'> Liyue: The Harbor of Stone and Contracts</strong>",
                 "<ul><li><strong>47</strong> or <strong>48</strong> <img src='/images/emotes/challenge.webp' class='emote'> (<i><strong>One</strong> challenge comes from the <strong>Lantern Rite</strong> event in <strong>1.3</strong></i>)</li>",
                 "<li>Between <strong>81</strong> and <strong>84</strong> <img src='/images/emotes/seelie.webp' class='emote'> (<i><strong>3</strong> seelie come from the <strong>Lantern Rite</strong> event in <strong>1.3</strong></i>)</li>",
-                "<li>Between <strong>1070</strong> and <strong>1149</strong> <img src='/images/emotes/chest.webp' class='emote'> (<i><strong>59</strong> chests did not count toward achievements during <strong>1.0</strong>, <strong>3</strong> chests that counted for <strong>Mondstadt</strong> now count for <strong>Liyue</strong> since <strong>1.2</strong>, <strong>15</strong> chests come from the <strong>Lantern Rite</strong> event in <strong>1.3</strong> and <strong>2</strong> chests come from the <strong>Shadow of the Ancients</strong> event in <strong>2.2</strong></i>)</li></ul>",
+                "<li>Between <strong>1073</strong> and <strong>1152</strong> <img src='/images/emotes/chest.webp' class='emote'> (<i><strong>59</strong> chests did not count toward achievements during <strong>1.0</strong>, <strong>3</strong> chests that counted for <strong>Mondstadt</strong> now count for <strong>Liyue</strong> since <strong>1.2</strong>, <strong>15</strong> chests come from the <strong>Lantern Rite</strong> event in <strong>1.3</strong>, <strong>2</strong> chests come from the <strong>Shadow of the Ancients</strong> event in <strong>2.2</strong> and <strong>3</strong> chests come from the <strong>Easybreeze Holiday Resort</strong> area of <strong>Natlan</strong> added in <strong>5.8</strong></i>)</li></ul>",
                 "<strong><img src='/images/emotes/geo.webp' class='emote'> Chasmlighter</strong>",
                 "<ul><li><strong>20</strong> <img src='/images/emotes/challenge.webp' class='emote'>, <strong>37</strong> <img src='/images/emotes/seelie.webp' class='emote'> and <strong>248</strong> <img src='/images/emotes/chest.webp' class='emote'></li></ul>",
                 "<strong><img src='/images/emotes/geo.webp' class='emote'> Chenyu's Splendor</strong>",
@@ -114,6 +114,14 @@
                 "<li><a href='https://youtu.be/ZZyFRXSDrXU' target='_blank'>Natlan: The Land of Fire and Competition (II)</a></li></li>",
                 "<li><a href='https://youtu.be/nlNNt3Snta0' target='_blank'>Sacred Mountain's Fading Glow</a></li>",
                 "<li>A Summer of Ash and Prickly Pears (<a href='https://youtu.be/Tq2bqjV_AEU' target='_blank'>Part 1</a> | <a href='https://youtu.be/4wE3hTRRYQ0' target='_blank'>Part 2</a>)</li></ul>"
+            ]
+        }
+    ],
+    "Nod-krai": [
+        {
+            "title": "Chests in the Nod-Krai Region",
+            "description": [
+                "<strong><img src='/images/emotes/cryo.webp' class='emote'> Coming soon.</strong>"
             ]
         }
     ],

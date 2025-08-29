@@ -2,12 +2,15 @@
 class NavigationBar extends HTMLElement {
     constructor() {
         super();
-        this.stickerImages = [
-            "/images/stickers/kokomi-1.webp", "/images/stickers/kokomi-2.webp", "/images/stickers/kokomi-3.webp", "/images/stickers/kokomi-4.webp", "/images/stickers/kokomi-5.webp", "/images/stickers/kokomi-6.webp", "/images/stickers/kokomi-7.webp",
-            "/images/stickers/lynette-1.webp", "/images/stickers/lynette-2.webp", "/images/stickers/lynette-3.webp", "/images/stickers/lynette-4.webp", "/images/stickers/lynette-5.webp", "/images/stickers/lynette-6.webp",
-            "/images/stickers/yunjin-1.webp", "/images/stickers/yunjin-2.webp", "/images/stickers/yunjin-3.webp", "/images/stickers/yunjin-4.webp",
-            "/images/stickers/mualani-1.webp", "/images/stickers/mualani-2.webp", "/images/stickers/mualani-3.webp", "/images/stickers/mualani-4.webp", "/images/stickers/mualani-4.webp",
-        ];
+
+        const stickerMap = { ineffa: 2, kokomi: 7, lumine: 1, lynette: 6, mualani: 6, yunjin: 4 };
+        this.stickerImages = [];
+
+        for (const [name, count] of Object.entries(stickerMap)) {
+            for (let i = 1; i <= count; i++) {
+                this.stickerImages.push(`/images/stickers/${name}-${i}.webp`);
+            }
+        }
     }
 
     connectedCallback() {
