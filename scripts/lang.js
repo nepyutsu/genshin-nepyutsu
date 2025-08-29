@@ -66,8 +66,8 @@ async function applyTranslation(lang) {
     const applyTextFunction = getApplyTextFunctionForPage(currentPage);
 
     Promise.all([
-        loadJSON(`/locales/${lang}/common.json?v=3`),
-        (applyTextFunction !== applyErrorText) ? loadJSON(`/locales/${lang}/${currentPage}.json?v=3`) : loadJSON(`/locales/${lang}/404.json?v=3`)
+        loadJSON(`/locales/${lang}/common.json?v=4`),
+        (applyTextFunction !== applyErrorText) ? loadJSON(`/locales/${lang}/${currentPage}.json?v=4`) : loadJSON(`/locales/${lang}/404.json?v=4`)
     ]).then(([commonData, pageData]) => {
         if (commonData) { applyCommonText(commonData); }
         if (pageData) { applyPageText(pageData, applyTextFunction); }

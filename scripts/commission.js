@@ -25,7 +25,7 @@ function updateCommissionRegion(region) {
 
     let selectedCommissionId = localStorage.getItem('selectedCommissionId') || 'list';
 
-    loadJSON(`/locales/${lang}/commission.json?v=3`).then(data => {
+    loadJSON(`/locales/${lang}/commission.json?v=4`).then(data => {
         const regionCapitalized = capitalizeFirstLetter(region);
         const commissionListData = data[`${regionCapitalized}List`][0];
         const commissionKeys = Object.keys(data).filter(key => key.startsWith(regionCapitalized) && key !== `${regionCapitalized}List`);
