@@ -121,7 +121,10 @@
         {
             "title": "Coffres de la région de Nod-Krai",
             "description": [
-                "<strong><img src='/images/emotes/cryo.webp' class='emote'> À venir.</strong>"
+                "<strong><img src='/images/emotes/cryo.webp' class='emote'> Nod-Krai : Élysium d'errances au clair de lune - I</strong>",
+                "<ul><li><strong>13</strong> <img src='/images/emotes/challenge.webp' class='emote'> et <strong>299</strong> <img src='/images/emotes/chest.webp' class='emote'></ul></li>",
+                "<strong><img src='/images/emotes/youtube.webp' class='emote'> Vidéos</strong>",
+                "<ul><li><a href='https://youtu.be/rkRMKBM6xVE' target='_blank'>Nod-Krai : Élysium d'errances au clair de lune - I</a></li></ul>"
             ]
         }
     ],

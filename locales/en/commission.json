@@ -740,7 +740,7 @@
     "Nod-kraiList": [
         {
             "title": "Nod-Krai Commissions",
-            "description": "<strong><img src='/images/emotes/cryo.webp' class='emote'> Coming soon.</strong>"
+            "description": "<p><strong>No</strong> achievements can be obtained during <strong>or</strong> by completing <strong>commissions</strong> in the region of <strong>Nod-Krai</strong>.</p><p><img src='/images/emotes/commission.webp' class='emote'> <strong>Nod-Krai</strong>'s Commissions are unlocked after completing the World Quest <strong>Venture Towards the Moonlight</strong> which becomes available after completing Archon Quest <strong>Where the Moon Rises</strong> <i>(Song of the Welkin Moon: Act I)</i>.</p>"
         }
     ],
     "SnezhnayaList": [

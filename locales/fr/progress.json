@@ -152,6 +152,12 @@
             "icon": "pyro",
             "challenge": "32",
             "chest": "169"
+        },
+        "Nod-Krai-1": {
+            "title": "Nod-Krai : Élysium d'errances au clair de lune - I",
+            "icon": "cryo",
+            "challenge": "13",
+            "chest": "299"
         }
     },
     "achievements": {

@@ -740,7 +740,7 @@
     "Nod-kraiList": [
         {
             "title": "Quotidiennes de Nod-Krai",
-            "description": "<strong><img src='/images/emotes/cryo.webp' class='emote'> À venir.</strong>"
+            "description": "<p><strong>Aucun</strong> succès n'est réalisables pendant <strong>ou</strong> en complétant des <strong>missions quotidiennes</strong> dans la région de <strong>Nod-Krai</strong>.</p><p><img src='/images/emotes/commission.webp' class='emote'> Les missions quotidiennes de <strong>Nod-Krai</strong> se débloquent après avoir complété la Quête du monde <strong>Vers une aventure lunaire !</strong> qui se débloque après avoir complété la Quête d'Archons <strong>Là où la lune se lève</strong> <i>(Acte 1 du Chant de l'astre de la nuit)</i>.</p>"
         }
     ],
     "SnezhnayaList": [

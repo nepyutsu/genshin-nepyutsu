@@ -45,7 +45,7 @@ function createChestEntry(key, regionData) {
 }
 
 function renderProgressChests(data) {
-    const regionsToShow = ["Mondstadt", "Liyue", "Inazuma", "Sumeru", "Fontaine", "Natlan"];
+    const regionsToShow = ["Mondstadt", "Liyue", "Inazuma", "Sumeru", "Fontaine", "Natlan", "Nod-Krai"];
     const container = document.getElementById('chests-content');
     const chestData = data.chests;
 

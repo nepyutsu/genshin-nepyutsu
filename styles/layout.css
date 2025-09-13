@@ -289,7 +289,7 @@ a:hover {
 
 /* ---------- Region Button ---------- */
 .region-selector {
-  gap: 4px;
+  gap: 8px;
   opacity: 0;
   display: flex;
   flex-wrap: wrap;
@@ -302,7 +302,7 @@ a:hover {
   padding: 10px;
   cursor: pointer;
   font-size: 18px;
-  max-width: 150px;
+  max-width: 160px;
   border-radius: 20px;
   color: var(--text-color);
   background-color: var(--primary-color);
