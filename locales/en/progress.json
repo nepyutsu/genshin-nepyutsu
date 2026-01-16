@@ -158,6 +158,11 @@
             "icon": "cryo",
             "challenge": "13",
             "chest": "299"
+        },
+        "Nod-Krai-2": {
+            "title": "Nod-Krai: An Elysium of Moonlight and Wanderings (II)",
+            "icon": "cryo",
+            "chest": "229"
         }
     },
     "achievements": {

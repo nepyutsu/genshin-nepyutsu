@@ -123,8 +123,11 @@
             "description": [
                 "<strong><img src='/images/emotes/cryo.webp' class='emote'> Nod-Krai: An Elysium of Moonlight and Wanderings (I)</strong>",
                 "<ul><li><strong>13</strong> <img src='/images/emotes/challenge.webp' class='emote'> and <strong>299</strong> <img src='/images/emotes/chest.webp' class='emote'></ul></li>",
+                "<strong><img src='/images/emotes/cryo.webp' class='emote'> Nod-Krai: An Elysium of Moonlight and Wanderings (II)</strong>",
+                "<ul><li><strong>6</strong> <img src='/images/emotes/challenge.webp' class='emote'> (<i>Not displayed after <strong>5</strong></i>) and <strong>229</strong> <img src='/images/emotes/chest.webp' class='emote'></ul></li>",
                 "<strong><img src='/images/emotes/youtube.webp' class='emote'> Videos</strong>",
-                "<ul><li><a href='https://youtu.be/rkRMKBM6xVE' target='_blank'>Nod-Krai: An Elysium of Moonlight and Wanderings (I)</a></li></ul>"
+                "<ul><li><a href='https://youtu.be/rkRMKBM6xVE' target='_blank'>Nod-Krai: An Elysium of Moonlight and Wanderings (I)</a></li></ul>",
+                "<ul><li><a href='https://youtu.be/CHzzqDJ90UY' target='_blank'>Nod-Krai: An Elysium of Moonlight and Wanderings (II)</a></li></ul>"
             ]
         }
     ],
